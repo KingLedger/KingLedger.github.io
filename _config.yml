@@ -1,0 +1,46 @@
+# Site Settings
+title: The Iron Ledger
+tagline: "Built Not Born. Forged by discipline."
+description: "A self-improvement blog covering finance, fitness, business, mindset, and real estate. Built Not Born. Forged by discipline."
+url: "https://kingledger.github.io"
+baseurl: ""
+
+# Theme
+theme: minima
+
+# Build Settings
+markdown: kramdown
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - about.md
+  - affiliate-disclosure.md
+  - contact.md
+
+# Social / Author
+author:
+  name: The Iron Ledger
+
+# Google Analytics (add your tracking ID when ready)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Minima theme settings
+minima:
+  skin: classic
+
+# SEO
+lang: en
+timezone: America/New_York
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
