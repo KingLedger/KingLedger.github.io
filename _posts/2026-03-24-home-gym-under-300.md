@@ -297,15 +297,7 @@ Now go build your gym.
 
 - [Best Resistance Bands for a Full-Body Home Workout](/best-resistance-bands-full-body-workout/) — Deep dive into the best bands for your home gym — loop bands, tube bands, fabric bands, and a complete workout routine.
 - [How to Meal Prep Like a Disciplined Person](/meal-prep-like-a-disciplined-person/) — You built the gym. Now fuel it. A complete meal prep system for muscle building and fat loss.
-- [Best Morning Routine Products That Actually Make a Difference](/best-morning-routine-products-that-actually-make-a-difference/) — Train in the morning? These products make early AM workouts effortless.
-
----
-
-## You May Also Like
-
-- [Best Resistance Bands for a Full-Body Home Workout](/best-resistance-bands-full-body-workout/) — Go deeper on resistance bands with our complete guide plus a full-body workout routine.
-- [How to Meal Prep Like a Disciplined Person](/meal-prep-like-a-disciplined-person/) — You've built the gym. Now build the nutrition system. Meal prep is the other half of the equation.
-- [Best Weightlifting Belts for Powerlifting and Bodybuilding](/best-weightlifting-belts-powerlifting-bodybuilding/) — When your home gym lifts get heavy, protect your spine with the right belt.
+- [Best Morning Routine Products That Actually Make a Difference](/best-morning-routine-products/) — Train in the morning? These products make early AM workouts effortless.
 
 ---
 

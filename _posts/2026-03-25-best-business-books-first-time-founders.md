@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "9 Best Business Books Every First-Time Founder Must Read"
-description: "The 9 best business books for first-time founders — from The Lean Startup to Profit First. Build, grow, and sustain your business. Start your founder reading list now."
+description: "The 9 best business books for first-time founders — from The Lean Startup to Profit First. Build, grow, and sustain your business with these essential reads."
 date: 2026-03-25
 categories: [business, entrepreneurship]
 tags: [business-books, entrepreneur-books, startup-books, best-business-books-for-entrepreneurs, founder-reading-list, lean-startup, profit-first, e-myth, startup-advice, entrepreneurship, small-business-books]
@@ -219,14 +219,6 @@ Your business will be better for it.
 ---
 
 *The Iron Ledger is a participant in the Amazon Services LLC Associates Program. See our [Affiliate Disclosure](/affiliate-disclosure/) for details.*
-
----
-
-## You May Also Like
-
-- [5 Best Personal Finance Books for Men in Their 20s](/best-personal-finance-books-for-men/) — Get your personal finances dialed before or while you build your business. Financial literacy is founder literacy.
-- [Best Home Office Setup for Entrepreneurs on a Budget](/best-home-office-setup-under-500/) — Build a productive workspace for under $500. Because where you work shapes how you work.
-- [7 Best Self-Discipline Books That Will Rewire Your Mind](/best-self-discipline-books-that-will-rewire-your-mind/) — Entrepreneurship is discipline applied to business. These books build the mental muscle founders need.
 
 ---
 

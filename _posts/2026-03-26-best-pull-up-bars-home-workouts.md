@@ -238,3 +238,6 @@ You can grease the groove (multiple submaximal sets throughout the day) daily, b
 ### Pull-ups vs chin-ups — which is better?
 
 Both are excellent. Pull-ups (palms away) emphasize the lats and upper back more. Chin-ups (palms toward you) recruit more biceps and allow most people to do more reps. Include both in your training for complete development. Don't overthink it — the best one is the one you do consistently.
+---
+
+*The Iron Ledger is a participant in the Amazon Services LLC Associates Program. See our [Affiliate Disclosure](/affiliate-disclosure/) for details.*

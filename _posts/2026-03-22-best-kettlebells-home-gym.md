@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Kettlebells for Your Home Gym in 2026"
-description: "The 6 best kettlebells for home gym training in 2026. Cast iron, competition, adjustable — we cover every type for swings, cleans, snatches, and Turkish get-ups."
+description: "The 6 best kettlebells for home gym training in 2026. Cast iron, competition, and adjustable options reviewed for swings, cleans, and Turkish get-ups."
 date: 2026-03-22 12:00:00 -0500
 categories: [fitness, equipment]
 tags: [kettlebells, home gym, kettlebell training, fitness equipment, best kettlebells 2026, strength training]
@@ -13,7 +13,7 @@ A 35-pound kettlebell and a 6x6 foot space is a complete gym. Swings build explo
 
 Pavel Tsatsouline brought kettlebell training to America from Russian special forces training. StrongFirst made it a system. And now, decades later, the research confirms what the Russians knew all along — kettlebell training produces remarkable results in strength, cardiovascular fitness, and injury prevention.
 
-If you're building a [home gym](/how-to-build-a-home-gym-for-under-300-complete-equipment-list/), a kettlebell should be one of your first purchases. Here are the **6 best kettlebells for home gym training in 2026.**
+If you're building a [home gym](/home-gym-under-300/), a kettlebell should be one of your first purchases. Here are the **6 best kettlebells for home gym training in 2026.**
 
 ---
 
@@ -258,7 +258,7 @@ Once you've got your bell, here's a simple program that builds strength and cond
 
 Rest 30–60 seconds between sets. This workout takes 30 minutes, trains your entire body, and builds both strength and cardiovascular fitness simultaneously.
 
-For more home workout ideas, check out our guides on [resistance bands](/best-resistance-bands-full-body-workout/) and [building a complete home gym under $300](/how-to-build-a-home-gym-for-under-300-complete-equipment-list/).
+For more home workout ideas, check out our guides on [resistance bands](/best-resistance-bands-full-body-workout/) and [building a complete home gym under $300](/home-gym-under-300/).
 
 ---
 

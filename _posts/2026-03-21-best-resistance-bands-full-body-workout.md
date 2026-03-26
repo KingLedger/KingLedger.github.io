@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Resistance Bands for a Full-Body Home Workout (2026 Guide)"
-description: "Find the best resistance bands for home workouts in 2026. Expert reviews of top bands plus a complete full-body workout routine. Build muscle anywhere — start today."
+description: "The best resistance bands for home workouts in 2026. Expert reviews of top bands for full-body training plus a complete workout routine. Build muscle anywhere."
 date: 2026-03-21 08:00:00 -0500
 categories: [fitness, gear]
 tags: [resistance-bands, home-workout, fitness-equipment, full-body-workout, best-resistance-bands, home-gym, fabric-bands, pull-up-bands, tube-bands, portable-gym, resistance-training, glute-bands]

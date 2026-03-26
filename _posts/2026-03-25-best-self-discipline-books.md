@@ -15,7 +15,7 @@ Because knowledge isn't the problem — **discipline is.** And discipline isn't 
 
 The right book won't just motivate you for a weekend. It will **rewire the way you think** about effort, discomfort, and delayed gratification. It will change the operating system running in your head.
 
-We've read dozens of self-improvement books. Most are recycled fluff. These seven are the ones that actually stuck — the ones we keep coming back to, the ones that left a permanent mark on how we operate.
+We've read dozens of self-improvement books. Most are recycled fluff. These seven are the ones that actually stuck. If you're also looking to sharpen your mornings, check out our [morning routine products guide](/best-morning-routine-products/) — the ones we keep coming back to, the ones that left a permanent mark on how we operate.
 
 If you're serious about building discipline that lasts, start here.
 
@@ -199,17 +199,9 @@ For most of these books, yes. *Can't Hurt Me* by David Goggins is actually **bet
 
 - [11 Best Stoicism Books for Modern Life](/best-stoicism-books/) — Stoicism is the philosophical backbone of self-discipline. Go deeper with these essential reads.
 - [Best Journals for Daily Reflection and Goal Tracking](/best-journals-daily-reflection-goal-tracking/) — Apply what you learn. A daily journal turns book knowledge into real behavior change.
-- [Best Morning Routine Products That Actually Make a Difference](/best-morning-routine-products-that-actually-make-a-difference/) — Discipline starts in the first hour of your day. Build a morning routine that makes it automatic.
+- [Best Morning Routine Products That Actually Make a Difference](/best-morning-routine-products/) — Discipline starts in the first hour of your day. Build a morning routine that makes it automatic.
 
 ---
-
----
-
-## You May Also Like
-
-- [11 Best Stoicism Books for Modern Life](/best-stoicism-books/) — Discipline has roots in Stoic philosophy. Go deeper with Marcus Aurelius, Seneca, and modern interpretations.
-- [Best Journals for Daily Reflection and Goal Tracking](/best-journals-daily-reflection-goal-tracking/) — Apply your discipline daily through journaling. Track goals, build self-awareness, and stay accountable.
-- [Best Morning Routine Products That Actually Make a Difference](/best-morning-routine-products/) — Discipline starts first thing in the morning. Build the environment that makes it automatic.
 
 ---
 

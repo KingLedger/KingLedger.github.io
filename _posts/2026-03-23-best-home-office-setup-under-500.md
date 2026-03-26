@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Home Office Setup for Entrepreneurs on a Budget (Under $500)"
-description: "Build a complete home office for under $500 — standing desk, ergonomic chair, monitor, and more. Boost focus and productivity on a budget. See the full setup."
+description: "Build a complete home office for under $500 — standing desk, ergonomic chair, monitor, and more. Boost your focus and productivity on any budget."
 date: 2026-03-23
 categories: [business, productivity]
 tags: [home-office-setup-under-500, home-office-on-a-budget, entrepreneur-workspace, remote-work-setup, best-home-office-products, standing-desk, ergonomic-chair, productivity-setup, work-from-home, freelancer-office]
@@ -11,7 +11,7 @@ Your workspace shapes your work. That's not motivational poster talk — it's re
 
 But here's the thing most "dream office setup" articles won't tell you: you don't need $3,000 and a dedicated room to build a workspace that actually works. You need about **$500**, the right products, and a layout that makes sense.
 
-This guide breaks down the **best home office setup for entrepreneurs on a budget** — every product is real, every price is realistic, and the total comes in under $500. Whether you're running an online business from your apartment (check out the [best books for first-time founders](/best-business-books-first-time-founders/)) or freelancing from your spare bedroom, this setup will make you more productive, more comfortable, and more professional.
+This guide breaks down the **best home office setup for entrepreneurs on a budget** — every product is real, every price is realistic, and the total comes in under $500. Whether you're running an online business from your apartment (check out the [best books for first-time founders](/best-business-books-first-time-founders/)) or freelancing from your spare bedroom, this setup will make you more productive, more comfortable, and more professional. Add a pair of [noise-cancelling headphones](/best-noise-cancelling-headphones-deep-work/) and a [standing desk](/best-standing-desks-entrepreneurs-under-500/) to complete the ultimate focus environment.
 
 Let's build it.
 

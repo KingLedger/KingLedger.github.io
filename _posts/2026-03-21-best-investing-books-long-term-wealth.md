@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Investing Books for Building Long-Term Wealth"
-description: "The 7 best investing books for building real, long-term wealth. From value investing to index funds to behavioral finance — these books will transform how you think about money."
+description: "The best investing books for building long-term wealth. From index funds to value investing to behavioral finance — transform how you think about money."
 date: 2026-03-21 08:00:00 -0500
 categories: [finance, investing]
 tags: [investing books, wealth building, personal finance, stock market, index funds, value investing, best investing books]

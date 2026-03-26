@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Kindle Paperwhite vs Kindle Oasis: Which Should You Buy?"
-description: "Kindle Paperwhite vs Kindle Oasis — a no-BS comparison for serious readers. We break down screen, design, features, and value to help you choose the right Kindle in 2026."
+description: "Kindle Paperwhite vs Kindle Oasis — honest comparison of display, design, battery, and value. Find out which Kindle is right for your reading habits in 2026."
 date: 2026-03-20 08:00:00 -0500
 categories: [business, reviews]
 tags: [kindle, kindle paperwhite, kindle oasis, e-reader, reading, book reviews, productivity]
 ---
 
-Reading is the single highest-ROI habit you can build. Warren Buffett reads 500 pages a day. Bill Gates reads 50 books a year. The most successful people in every field are relentless readers — and they've been saying this for decades.
+Reading is the single highest-ROI habit you can build. Fill your Kindle with [Stoicism classics](/best-stoicism-books/), [self-discipline frameworks](/best-self-discipline-books/), or [business strategy](/best-business-books-first-time-founders/) you can build. Warren Buffett reads 500 pages a day. Bill Gates reads 50 books a year. The most successful people in every field are relentless readers — and they've been saying this for decades.
 
 But here's the thing: **the best reading device is the one that removes friction.** If your bookshelf is across the room and your phone is in your hand, the phone wins every time. A Kindle puts an entire library in your pocket, eliminates distractions, and makes reading the path of least resistance.
 

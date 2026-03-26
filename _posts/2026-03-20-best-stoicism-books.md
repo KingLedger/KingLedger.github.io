@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "11 Best Stoicism Books for Modern Life"
-description: "Discover the 11 best Stoicism books for modern life — from Marcus Aurelius to Ryan Holiday. Build resilience, emotional control, and mental toughness. Start reading today."
+description: "The 11 best Stoicism books for modern life — from Marcus Aurelius to Ryan Holiday. Build resilience, emotional control, and mental toughness starting today."
 date: 2026-03-20 08:00:00 -0500
 categories: [mindset, books]
 tags: [stoicism, books, philosophy, mindset, marcus-aurelius, ryan-holiday, seneca, epictetus, best-stoicism-books, meditations, daily-stoic, self-improvement, mental-toughness, stoic-philosophy]
