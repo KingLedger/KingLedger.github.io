@@ -35,7 +35,7 @@ Marcus Aurelius was the Emperor of Rome from 161 to 180 AD — arguably the most
 
 **Practical application:** When you're angry at someone, frustrated by circumstances, or anxious about the future — open to any page. Marcus was dealing with plagues, wars, betrayals, and the weight of an empire. Whatever you're facing, he faced worse and found perspective. Keep this on your nightstand.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0812968255?tag=kingledger20-20)
 
 ---
 
@@ -51,7 +51,7 @@ Seneca is also the most quotable Stoic. Lines like *"We suffer more in imaginati
 
 **Practical application:** Read one letter per day with your morning coffee. Each one is short enough to digest in 10 minutes but deep enough to shape your thinking for the rest of the day. Seneca's letter on the shortness of life (*On the Brevity of Life*) should be mandatory reading for anyone who feels like they're wasting time.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0140442103?tag=kingledger20-20)
 
 ---
 
@@ -65,7 +65,7 @@ Epictetus was born into slavery. He was lame in one leg — possibly from abuse 
 
 **Practical application:** Epictetus is the Stoic to read when you feel victimized by circumstances. His entire philosophy was forged in the crucible of slavery and physical suffering. If he could find freedom and purpose in those conditions, your situation is manageable. The dichotomy of control is also the basis of cognitive behavioral therapy (CBT) — reading Epictetus is like reading the source code of modern psychology.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0140449469?tag=kingledger20-20)
 
 ---
 
@@ -81,7 +81,7 @@ Passages like *"Men are disturbed not by things, but by the views which they tak
 
 **Practical application:** This is the Stoic text to memorize. It's short enough that you can internalize key passages and recall them in real-time when life gets hard. Keep a copy on your phone or in your bag. When you're stuck in traffic, dealing with a difficult person, or facing a setback — pull up the passage about the dichotomy of control and reset.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0735211736?tag=kingledger20-20)
 
 ---
 
@@ -97,7 +97,7 @@ January covers the discipline of perception. February covers the discipline of a
 
 **Practical application:** Put this next to your bed and read one page every morning before you check your phone. It takes two minutes and reframes your entire day through a Stoic lens. After a full year, you'll have absorbed the core ideas of Stoicism without studying dense academic texts. It's the most effective entry point into Stoic philosophy for busy people.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1591846358?tag=kingledger20-20)
 
 ---
 
@@ -111,7 +111,7 @@ Holiday structures the book around three disciplines: **perception** (how you se
 
 **Practical application:** This book is for when things go wrong. Lost your job? Relationship ended? Business failing? Health crisis? *The Obstacle Is the Way* doesn't offer empty platitudes. It gives you a framework for taking that negative event and using it as raw material for something better. Re-read it every time you face a significant setback.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1591847818?tag=kingledger20-20)
 
 ---
 
@@ -125,7 +125,7 @@ The book is structured around three phases of life: **aspiring** (when you're bu
 
 **Practical application:** Read this when you catch yourself bragging, comparing yourself to others, or feeling entitled to success. Holiday's historical examples — from Howard Hughes's self-destruction to Katharine Graham's humble rise — drive home that the most dangerous enemy isn't out there. It's the voice in your head that says you're special. Pair this with *Meditations* for a potent ego-dissolving combination.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0195374614?tag=kingledger20-20)
 
 ---
 
@@ -139,7 +139,7 @@ Holiday draws from a wide range of sources: Marcus Aurelius, Seneca, the Buddha,
 
 **Practical application:** This is the book for the person who can't stop scrolling, can't sit in silence, and feels a constant buzzing anxiety that they should be doing *more.* Holiday makes a compelling case that **doing less, thinking more clearly, and being present** isn't laziness — it's the foundation of every great achievement. Read it when you feel overwhelmed, overstimulated, or burned out.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0525538585?tag=kingledger20-20)
 
 ---
 
@@ -155,7 +155,7 @@ His concept of **negative visualization** — periodically imagining losing the 
 
 **Practical application:** If you've read Holiday and want to go deeper into the actual *practice* of Stoicism — not just the inspiration — this is your next book. Irvine gives you specific exercises, daily routines, and a framework for building a Stoic life. It's the most practical "how-to" guide for modern Stoic practice.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1250196620?tag=kingledger20-20)
 
 ---
 
@@ -169,7 +169,7 @@ Each chapter covers a period in Marcus's life and connects it to a specific Stoi
 
 **Practical application:** If you struggle with anxiety, anger, or rumination, this book is essentially a self-help therapy manual disguised as a history book. Robertson gives you evidence-based techniques — grounded in both ancient wisdom and modern psychology — for managing difficult emotions. The chapters on cognitive distancing (separating yourself from your thoughts) and the view from above (imagining your problems from a cosmic perspective) are immediately applicable to daily stress.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B08VCK1L3W?tag=kingledger20-20)
 
 ---
 
@@ -183,7 +183,7 @@ You'll learn about Cleanthes, who worked as a water-carrier by night so he could
 
 **Practical application:** This is the book to read when Stoic philosophy feels abstract or disconnected from real life. Seeing how actual people — with real flaws, real pressures, and real failures — tried to live according to Stoic principles makes the philosophy feel achievable. It's also an excellent gift for someone who's curious about Stoicism but intimidated by the primary texts.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/052554187X?tag=kingledger20-20)
 
 ---
 

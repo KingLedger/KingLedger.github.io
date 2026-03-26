@@ -35,7 +35,7 @@ This book doesn't teach you *how* to invest. It teaches you **why** — and that
 
 **Key takeaway:** The rich don't work for money. They make money work for them. Your goal isn't a bigger paycheck — it's building assets that generate income while you sleep.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1612681131?tag=kingledger20-20)
 
 ---
 
@@ -63,7 +63,7 @@ The book is full of real stories from people who followed the plan — couples w
 
 **Key takeaway:** Debt is an emergency. Attack it with intensity and focus — then never go back. Live on less than you make and invest the difference. It's not complicated, it's just hard.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1595555277?tag=kingledger20-20)
 
 ---
 
@@ -88,7 +88,7 @@ What makes Sethi exceptional is his focus on **systems over willpower.** He walk
 
 **Key takeaway:** Automate everything. Set up your accounts, automate your savings and investments, then spend what's left guilt-free. The best financial system is the one you don't have to think about.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1523505745?tag=kingledger20-20)
 
 ---
 
@@ -114,7 +114,7 @@ This book won't teach you which stocks to buy. It will teach you something more 
 
 **Key takeaway:** Wealth is what you don't see. It's the cars not bought, the watches not worn, the lifestyle upgrades declined. Getting rich is about earning. Staying rich is about humility, frugality, and paranoia.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0857197681?tag=kingledger20-20)
 
 ---
 
@@ -142,7 +142,7 @@ If you've been paralyzed by the number of investment options and conflicting adv
 
 **Key takeaway:** Invest in low-cost index funds. Start as early as possible. Never panic-sell. Time in the market beats timing the market. The path to wealth is simple — the hard part is staying on it.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1533667926?tag=kingledger20-20)
 
 ---
 

@@ -27,7 +27,7 @@ Popular options from brands like Philips, hOmeLabs, and Coulax typically run bet
 
 **Who it's for:** Anyone who hates mornings, hits snooze repeatedly, or wakes up feeling like they got hit by a truck regardless of how much sleep they got.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B0093162RM?tag=kingledger20-20)
 
 ---
 
@@ -43,7 +43,7 @@ You can use it for gratitude lists, morning pages (stream-of-consciousness writi
 
 **Who it's for:** Anyone who wants to start their day with clarity instead of immediately checking their phone.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B002TSIMW4?tag=kingledger20-20)
 
 ---
 
@@ -61,7 +61,7 @@ Either way, the act of making coffee manually becomes a small meditation in itse
 
 **Who it's for:** Coffee drinkers who want to upgrade their morning ritual and make the process itself part of the routine, not just the caffeine.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B00009ADDR?tag=kingledger20-20)
 
 ---
 
@@ -77,7 +77,7 @@ Popular options from brands like Florensi, Retrospec, and Seat of Your Soul typi
 
 **Who it's for:** Anyone who wants to meditate consistently but finds sitting on the floor uncomfortable, or anyone who wants to create a dedicated meditation space at home.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B01M0KBXCI?tag=kingledger20-20)
 
 ---
 
@@ -93,7 +93,7 @@ Brands like TIJN, ANRRI, and Cyxus offer effective options in the $10-20 range. 
 
 **Who it's for:** Anyone who uses screens at night and struggles to fall asleep or wake up feeling rested. Which is basically everyone.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B08H5YFLKD?tag=kingledger20-20)
 
 ---
 
@@ -109,7 +109,7 @@ A basic set of loop bands (like those from Fit Simplify or WSAKOUE) costs around
 
 **Who it's for:** Anyone who feels stiff in the morning, sits at a desk all day, or wants to add movement to their routine without committing to a full workout.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B01AVDVHTI?tag=kingledger20-20)
 
 ---
 
@@ -125,7 +125,7 @@ Brands like Giotto, Venture Pal, and BYT offer solid options between $10-18. Loo
 
 **Who it's for:** Anyone who knows they should drink more water but consistently forgets. The visual reminder eliminates the need for willpower.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B08L8FTKMT?tag=kingledger20-20)
 
 ---
 
@@ -141,7 +141,7 @@ A starter set of essential oils (peppermint, eucalyptus, lavender, lemon) typica
 
 **Who it's for:** Anyone who wants to add a sensory element to their morning routine that reinforces habits through environmental design.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B00Y2CQRZY?tag=kingledger20-20)
 
 ---
 

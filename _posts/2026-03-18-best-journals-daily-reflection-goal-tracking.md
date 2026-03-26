@@ -57,7 +57,7 @@ Every page is numbered, and the book includes a blank table of contents at the f
 - Paper can ghost with very wet inks
 - Slightly more expensive than generic notebooks
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B002TSIMW4?tag=kingledger20-20)
 
 ---
 
@@ -88,7 +88,7 @@ The Moleskine is less feature-rich than the Leuchtturm1917 — no numbered pages
 - Premium price for what is essentially a nice notebook
 - The brand commands a price premium over comparable quality
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B015NG45Q0?tag=kingledger20-20)
 
 ---
 
@@ -128,7 +128,7 @@ The journal also includes weekly challenges and inspirational quotes on each pag
 - Some people outgrow the structured format after a few months
 - The prompts never change — it's the same questions every day
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0991846206?tag=kingledger20-20)
 
 ---
 
@@ -159,7 +159,7 @@ It's essentially a physical version of the productivity systems taught by people
 - Bulkier than a simple notebook
 - Some sections may go unused depending on your needs
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B07FRDB3KK?tag=kingledger20-20)
 
 ---
 
@@ -189,7 +189,7 @@ The paper quality is exceptional — thick, smooth, and resistant to bleed-throu
 - Customization means longer delivery time
 - Limited availability in some regions
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B0BXRLRZL4?tag=kingledger20-20)
 
 ---
 
@@ -220,7 +220,7 @@ What makes the SELF Journal unique is its emphasis on **time blocking.** Every d
 - The daily pages can feel like a lot to fill out when you're tired
 - Overkill if you just want casual reflection
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B01MRZFKDZ?tag=kingledger20-20)
 
 ---
 
@@ -249,7 +249,7 @@ The paper is where Rhodia truly shines — their 90gsm ivory Clairefontaine pape
 - Limited color options
 - Pre-printed pages may go unused if you have your own system
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B01LGCRWBM?tag=kingledger20-20)
 
 ---
 

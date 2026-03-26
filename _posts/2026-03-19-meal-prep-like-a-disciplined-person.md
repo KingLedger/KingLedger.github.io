@@ -33,7 +33,7 @@ You'll want a mix of sizes: **28 oz containers** for full meals (protein + carb 
 
 **Pro tip:** Get containers with compartments. Keeping your chicken separate from your rice prevents soggy, mushy meals by Friday.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B06Y31G1CF?tag=kingledger20-20)
 
 ---
 
@@ -47,7 +47,7 @@ A basic digital food scale costs about $12, runs on AAA batteries or USB, and ta
 
 The Etekcity and Greater Goods digital scales are both excellent options under $15. You'll use this tool more than any other kitchen gadget you own.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B01JTDG084?tag=kingledger20-20)
 
 ---
 
@@ -61,7 +61,7 @@ The **Instant Pot Duo 6-Quart** is the sweet spot for most people — large enou
 
 **Meal prep hack:** Start your rice or protein in the Instant Pot first, then chop and roast your vegetables while it cooks. By the time veggies come out of the oven, the Instant Pot is done. Total active time: 30 minutes for 10+ meals.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B00FLYWNYQ?tag=kingledger20-20)
 
 ---
 
@@ -75,7 +75,7 @@ The Cuisinart 12-piece knife set and the McCook knife set both offer excellent q
 
 **Maintenance tip:** A $40 knife that you sharpen every few months will outperform a $200 knife that you never maintain. Get a honing steel or a simple pull-through sharpener.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B0030CAP1A?tag=kingledger20-20)
 
 ---
 
@@ -87,7 +87,7 @@ Look for boards that are **non-porous** (plastic or composite), **dishwasher saf
 
 Bamboo boards look great but require more maintenance (hand-wash only, regular oiling). For pure meal prep efficiency, go with plastic or composite — they go in the dishwasher and come out ready for next week.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B08DLDKZWQ?tag=kingledger20-20)
 
 ---
 
@@ -105,7 +105,7 @@ A tiered spice rack organizer keeps everything visible and accessible. No more d
 
 **Pro tip:** Buy spices in bulk from the bulk section of your grocery store — it's 50-80% cheaper than buying individual McCormick bottles.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B07JR4CPBB?tag=kingledger20-20)
 
 ---
 
@@ -117,7 +117,7 @@ You don't need a $400 Vitamix. The NutriBullet Pro and the Ninja Personal Blende
 
 **Morning smoothie formula:** 1 scoop protein powder + 1 cup frozen berries + 1 handful spinach + 1/2 banana + 1 tbsp peanut butter + 1 cup milk or water. Blend. Done. ~450 calories, 35g protein, and you didn't even turn on the stove.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B012T634SM?tag=kingledger20-20)
 
 ---
 

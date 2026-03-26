@@ -71,7 +71,7 @@ The bands are made from natural latex and are surprisingly durable for the price
 - At higher resistance levels, they can roll up on bare skin
 - Not ideal for upper-body-focused training
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B01AVDVHTI?tag=kingledger20-20)
 
 ---
 
@@ -98,7 +98,7 @@ The set typically includes four bands: yellow (15-35 lbs), red (25-65 lbs), blac
 - The heavier bands are very thick and can be hard to set up
 - Resistance isn't precise — it depends on how much you stretch the band
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B07BKPWL5X?tag=kingledger20-20)
 
 ---
 
@@ -126,7 +126,7 @@ The magic of this set is the carabiner clip system. Each tube clips onto the han
 - Door anchor requires a sturdy, fully closing door
 - Resistance feels different from cables — lighter at the start, heavier at full extension
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B07CQW5QSZ?tag=kingledger20-20)
 
 ---
 
@@ -153,7 +153,7 @@ The set includes three bands — light, medium, and heavy — each 3.1 inches wi
 - Can't be used for pull-up assistance or upper body exercises as easily
 - Takes longer to dry if they get sweaty
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B089GKDJCM?tag=kingledger20-20)
 
 ---
 
@@ -180,7 +180,7 @@ What sets Lim apart is the build quality at the price — the tubes use a double
 - Carabiner clips can feel stiff at first
 - Fewer resistance levels than the Whatafit set
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B07VJHVZWJ?tag=kingledger20-20)
 
 ---
 
@@ -208,7 +208,7 @@ The premium sets include up to six stackable tubes, heavy-duty handles with D-ri
 - The full set can be bulky for travel
 - Overkill if you only need light resistance for rehab or warm-ups
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B006NXXI2G?tag=kingledger20-20)
 
 ---
 

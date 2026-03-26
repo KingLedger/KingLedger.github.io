@@ -31,7 +31,7 @@ The core lessons are simple but powerful:
 
 **Key takeaway:** Stop trading time for money. Start acquiring assets — particularly real estate — that generate income whether you work or not.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1612681131?tag=kingledger20-20)
 
 ---
 
@@ -53,7 +53,7 @@ What makes this book stand out from other rental property guides is Turner's wri
 
 **Key takeaway:** Rental property investing is learnable and achievable for regular people. The math isn't complicated, the strategies are proven, and the barriers to entry are lower than most people think.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/099071179X?tag=kingledger20-20)
 
 ---
 
@@ -75,7 +75,7 @@ What sets this book apart is its emphasis on **models and systems**. Keller does
 
 **Key takeaway:** Real estate wealth isn't built on luck or timing — it's built on repeatable models, conservative underwriting, and disciplined execution over time.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0071446370?tag=kingledger20-20)
 
 ---
 
@@ -100,7 +100,7 @@ Pustejovsky doesn't just tell the horror stories — he extracts the lesson from
 
 **Key takeaway:** The best investors aren't the ones who find the most deals — they're the ones who avoid the worst deals. Learning from other people's failures is cheaper than learning from your own.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1500343544?tag=kingledger20-20)
 
 ---
 
@@ -124,7 +124,7 @@ Gallinelli doesn't just define these concepts — he walks you through them with
 
 **Key takeaway:** Real estate investing is a numbers game. The investors who can accurately analyze cash flow, returns, and risk will consistently make better decisions than those who rely on intuition or advice from people with different financial goals.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1259586189?tag=kingledger20-20)
 
 ---
 

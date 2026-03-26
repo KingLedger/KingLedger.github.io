@@ -47,7 +47,7 @@ Each product earns its spot by solving a real problem. No RGB lighting strips, n
 
 **Pro tip:** You don't need to stand all day. Alternate between sitting and standing every 30-60 minutes. Even two hours of standing per day makes a significant difference in energy and focus compared to sitting the entire time.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B07GLDNBDW?tag=kingledger20-20)
 
 ---
 
@@ -66,7 +66,7 @@ Each product earns its spot by solving a real problem. No RGB lighting strips, n
 
 **Pro tip:** When you first get an ergonomic chair, spend 20 minutes actually adjusting every setting. Most people sit in their new chair with factory defaults and wonder why it doesn't feel any better than their old one. Adjust the height, lumbar depth, armrest height, seat tilt, and recline tension until it fits your body specifically.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B0CM5KC7M3?tag=kingledger20-20)
 
 ---
 
@@ -86,7 +86,7 @@ Research from the University of Utah found that dual-monitor setups can increase
 
 **Pro tip:** Position your monitor so the top of the screen is at or slightly below eye level, about 20-26 inches from your face. This prevents neck strain from looking up or down at the screen all day.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B07CVL2D2S?tag=kingledger20-20)
 
 ---
 
@@ -105,7 +105,7 @@ Going wireless eliminates cable clutter and gives you the flexibility to reposit
 
 **Recommended options:** The **Logitech MK545 Advanced** (~$40) is the gold standard for wireless combos at this price. The keyboard has a cushioned palm rest, quiet keys, and 36-month battery life. The mouse is full-size, contoured, and has a precision sensor. For a more compact option, the **Logitech MK470 Slim** (~$35) offers a minimalist aesthetic with similar reliability.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B079JLY5M5?tag=kingledger20-20)
 
 ---
 
@@ -124,7 +124,7 @@ Going wireless eliminates cable clutter and gives you the flexibility to reposit
 
 For the budget build, the **TaoTronics LED desk lamp** at around $25 delivers outstanding value.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B08DKQ3JG1?tag=kingledger20-20)
 
 ---
 
@@ -143,7 +143,7 @@ A basic cable management kit typically includes:
 
 **Pro tip:** Route cables along the back edge of your desk and down one table leg. Use the cable tray to hide the power strip under the desk surface. The goal is zero visible cables from your seated position.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B07HMXNFLW?tag=kingledger20-20)
 
 ---
 

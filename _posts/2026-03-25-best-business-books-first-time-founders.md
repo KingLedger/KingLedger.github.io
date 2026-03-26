@@ -29,7 +29,7 @@ Ries draws on his own experience building IMVU and working with startups across 
 
 **Key takeaway:** Your assumptions about what customers want are probably wrong. Test them before you invest serious time and money.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0307887898?tag=kingledger20-20)
 
 ---
 
@@ -45,7 +45,7 @@ It's a short read, but every chapter is dense with contrarian thinking. Thiel fo
 
 **Key takeaway:** Don't compete — build something so unique that competition becomes irrelevant.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0804139296?tag=kingledger20-20)
 
 ---
 
@@ -61,7 +61,7 @@ The book covers everything from identifying a profitable idea to setting prices 
 
 **Key takeaway:** You don't need permission or a fortune to start. Find the intersection of what you're good at and what people will pay for, then launch.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0307951529?tag=kingledger20-20)
 
 ---
 
@@ -77,7 +77,7 @@ If you've ever felt like traditional business advice doesn't apply to what you'r
 
 **Key takeaway:** Keep things simple. Constraints breed creativity. You don't need more — you need to do more with less.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0307463745?tag=kingledger20-20)
 
 ---
 
@@ -93,7 +93,7 @@ The solution? Build systems. Document processes. Create a business that can run 
 
 **Key takeaway:** If your business can't run without you, you don't own a business — you own a job. Build systems.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0887307280?tag=kingledger20-20)
 
 ---
 
@@ -109,7 +109,7 @@ What makes *Shoe Dog* invaluable for first-time founders is the emotional honest
 
 **Key takeaway:** The path from idea to success is never a straight line. Resilience, adaptability, and a willingness to keep going when everything looks hopeless are what separate founders who make it from those who don't.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1501135929?tag=kingledger20-20)
 
 ---
 
@@ -125,7 +125,7 @@ Some critics find the book repetitive, and the core idea can be summarized quick
 
 **Key takeaway:** Your "why" is your competitive advantage. Define it clearly and let it drive every decision.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1591846447?tag=kingledger20-20)
 
 ---
 
@@ -141,7 +141,7 @@ Horowitz doesn't offer neat frameworks or motivational quotes. He shares the ugl
 
 **Key takeaway:** There's no recipe for dealing with hard things. But knowing that every founder faces them — and hearing how someone survived — is more valuable than any playbook.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0062273205?tag=kingledger20-20)
 
 ---
 
@@ -157,7 +157,7 @@ For first-time founders who are used to reinvesting every dollar back into the b
 
 **Key takeaway:** Revenue is vanity. Profit is sanity. Set up a system that guarantees profitability from day one, even if the margins are small at first.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/073521414X?tag=kingledger20-20)
 
 ---
 

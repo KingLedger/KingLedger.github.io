@@ -35,7 +35,7 @@ What makes this book exceptional is its focus on **identity-based habits.** Inst
 
 **Key takeaway:** You don't rise to the level of your goals — you fall to the level of your systems.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0735211299?tag=kingledger20-20)
 
 ---
 
@@ -55,7 +55,7 @@ Some people find Goggins extreme. Good. You're supposed to. The point isn't to b
 
 **Key takeaway:** Suffering is the most undervalued tool for growth. The things you avoid are exactly the things you need to do.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1544512287?tag=kingledger20-20)
 
 ---
 
@@ -73,7 +73,7 @@ The book covers the compound effect as it applies to habits, relationships, fina
 
 **Key takeaway:** Consistency is the most powerful force in self-improvement. Small disciplines, repeated daily, create results that look like overnight success to everyone else.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/159315724X?tag=kingledger20-20)
 
 ---
 
@@ -93,7 +93,7 @@ What sets Jocko apart from other discipline authors is his **simplicity.** He do
 
 **Key takeaway:** Discipline equals freedom. The more disciplined you are in the fundamentals, the more freedom you earn in everything else.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1250156947?tag=kingledger20-20)
 
 ---
 
@@ -113,7 +113,7 @@ This isn't just for writers or artists. Resistance shows up every time you try t
 
 **Key takeaway:** The more important a task is to your growth, the more Resistance you'll feel. That fear is your compass — it points directly at the work you need to do.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1936891026?tag=kingledger20-20)
 
 ---
 
@@ -131,7 +131,7 @@ Stoicism, the philosophy behind *Meditations*, is essentially the original self-
 
 **Key takeaway:** You have power over your mind, not outside events. Realize this, and you will find strength.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/0812968255?tag=kingledger20-20)
 
 ---
 
@@ -151,7 +151,7 @@ What makes Newport different is that he **practices what he preaches.** He doesn
 
 **Key takeaway:** The ability to perform deep work is the superpower of the 21st century. Protect your attention like your life depends on it — because your career does.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/1455586692?tag=kingledger20-20)
 
 ---
 

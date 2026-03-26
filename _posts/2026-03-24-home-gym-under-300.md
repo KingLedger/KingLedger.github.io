@@ -63,7 +63,7 @@ If you buy only one thing on this list, make it adjustable dumbbells. A single p
 
 **Exercises enabled:** Bench press (floor press), shoulder press, rows, curls, lateral raises, lunges, goblet squats, Romanian deadlifts, tricep extensions, flyes, and dozens more.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B074DY1GNR?tag=kingledger20-20)
 
 ---
 
@@ -85,7 +85,7 @@ A pull-up bar is the single most effective piece of upper body equipment that ex
 
 **Pro tip:** If you can't do a pull-up yet, use your resistance bands looped around the bar for assisted pull-ups. Work your way down to thinner bands, then to bodyweight.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B001EJMS6K?tag=kingledger20-20)
 
 ---
 
@@ -105,7 +105,7 @@ Resistance bands are absurdly versatile. They add progressive tension to any exe
 
 **Exercises enabled:** Banded squats, hip thrusts, face pulls, band-pull-aparts, assisted pull-ups, banded push-ups, lateral walks, monster walks, shoulder dislocations, banded deadlifts, chest flyes, tricep pushdowns, and dozens more.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B01AVDVHTI?tag=kingledger20-20)
 
 ---
 
@@ -125,7 +125,7 @@ A mat isn't glamorous, but it's necessary. Floor exercises — push-ups, planks,
 
 **Exercises enabled:** All floor work — push-ups, planks, ab exercises, stretching, yoga, mobility work, and foam rolling.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B01LP0VQYU?tag=kingledger20-20)
 
 ---
 
@@ -146,7 +146,7 @@ A single kettlebell is a full-body training system. Swings alone will build your
 
 **Exercises enabled:** Kettlebell swings, goblet squats, Turkish get-ups, cleans, presses, snatches, farmer's carries, halos, windmills, and rows.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B005OGCE68?tag=kingledger20-20)
 
 ---
 
@@ -168,7 +168,7 @@ The ab roller is one of the most effective core training tools ever made, and it
 
 **Progression path:** Start from your knees with a short range of motion. Gradually extend further. The goal is a full standing ab rollout — one of the most impressive bodyweight core exercises there is.
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B010RFN9L6?tag=kingledger20-20)
 
 ---
 
@@ -190,7 +190,7 @@ Ten minutes of jump rope is equivalent to roughly 30 minutes of jogging in terms
 
 **Exercises enabled:** Basic bounce, alternate foot step, high knees, double unders, boxer shuffle, and interval training (30 seconds on, 15 seconds off for 10–15 minutes).
 
-[Buy on Amazon](AFFILIATE_LINK_PLACEHOLDER)
+[Buy on Amazon](https://www.amazon.com/dp/B01HBI9AME?tag=kingledger20-20)
 
 ---
 
