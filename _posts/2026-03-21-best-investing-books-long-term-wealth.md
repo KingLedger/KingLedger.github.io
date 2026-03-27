@@ -7,7 +7,7 @@ categories: [finance, investing]
 tags: [investing books, wealth building, personal finance, stock market, index funds, value investing, best investing books]
 ---
 
-Most people will earn between $1 million and $3 million over their working lifetime. The difference between retiring wealthy and retiring broke comes down to what you do with that money *between* paychecks.
+Most people will earn between $1 million and $3 million over their working lifetime. The difference between retiring wealthy and retiring broke comes down to what you do with that money *between* paychecks. And it starts with [tracking where your money actually goes](/best-budget-planners-financial-journals/).
 
 Investing isn't gambling. It isn't day-trading meme stocks on your phone. It isn't watching CNBC and reacting to every market dip with panic or euphoria. Real investing is **boring, systematic, and devastatingly effective over decades.**
 

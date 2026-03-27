@@ -28,8 +28,8 @@ header_pages:
 author:
   name: The Iron Ledger
 
-# Google Analytics (add your tracking ID when ready)
-# google_analytics: UA-XXXXXXXXX-X
+# Google Analytics
+google_analytics: G-JGVDSRKVPQ
 
 # Minima theme settings
 minima:

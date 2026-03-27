@@ -11,7 +11,7 @@ Your 20s are the most financially dangerous decade of your life.
 
 Not because you don't have money — you probably don't, and that's fine. They're dangerous because **the habits you build now compound for the next 40 years. Track your progress with a [budget planner](/best-budget-planners-financial-journals/) and start [investing early](/best-investing-books-long-term-wealth/).** The guy who starts investing at 22 retires a millionaire. The guy who starts at 35 spends his whole life playing catch-up.
 
-The problem? Nobody teaches you this stuff. Not school. Not college. Not your job. You're expected to figure out taxes, budgeting, investing, debt, credit scores, and retirement accounts on your own — and the consequences of getting it wrong are brutal.
+The problem? Nobody teaches you this stuff. (And if you're looking for a hands-on tool to start tracking your money right now, check out the [best budget planners and financial journals](/best-budget-planners-financial-journals/).) Not school. Not college. Not your job. You're expected to figure out taxes, budgeting, investing, debt, credit scores, and retirement accounts on your own — and the consequences of getting it wrong are brutal.
 
 These five books fix that. They're not academic textbooks or get-rich-quick schemes. They're **practical, proven, and written in language that doesn't make you want to fall asleep.** Each one covers a different aspect of personal finance, and together, they give you a complete financial education.
 

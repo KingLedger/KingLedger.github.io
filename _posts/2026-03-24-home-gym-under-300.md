@@ -67,7 +67,7 @@ If you buy only one thing on this list, make it adjustable dumbbells. A single p
 
 ---
 
-## 2. Pull-Up Bar (Doorframe) — $25–$35
+## 2. [Pull-Up Bar](/best-pull-up-bars-home-workouts/) (Doorframe) — $25–$35
 
 **Your entire back workout in one piece of steel.**
 
@@ -129,7 +129,7 @@ A mat isn't glamorous, but it's necessary. Floor exercises — push-ups, planks,
 
 ---
 
-## 5. Kettlebell (35 lb) — $40–$55
+## 5. [Kettlebell](/best-kettlebells-home-gym/) (35 lb) — $40–$55
 
 **The cardio-strength hybrid tool.**
 
@@ -296,8 +296,8 @@ Now go build your gym.
 ## You May Also Like
 
 - [Best Resistance Bands for a Full-Body Home Workout](/best-resistance-bands-full-body-workout/) — Deep dive into the best bands for your home gym — loop bands, tube bands, fabric bands, and a complete workout routine.
+- [Best Pull-Up Bars for Home Workouts](/best-pull-up-bars-home-workouts/) — Detailed reviews of doorway, wall-mounted, and freestanding pull-up bars for every budget.
 - [How to Meal Prep Like a Disciplined Person](/meal-prep-like-a-disciplined-person/) — You built the gym. Now fuel it. A complete meal prep system for muscle building and fat loss.
-- [Best Morning Routine Products That Actually Make a Difference](/best-morning-routine-products/) — Train in the morning? These products make early AM workouts effortless.
 
 ---
 
