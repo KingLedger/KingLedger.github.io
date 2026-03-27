@@ -7,6 +7,104 @@ categories: [fitness, health]
 tags: [meal-prep, nutrition, kitchen-essentials, muscle-building, discipline, meal-prep-essentials, healthy-eating, meal-prep-containers, meal-prep-for-beginners, bodybuilding-nutrition, budget-meal-prep]
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "How to Meal Prep Like a Disciplined Person (+ Kitchen Essentials)",
+  "description": "Master meal prep with the right kitchen essentials and a 5-day muscle-building plan. Save time, build discipline, and eat clean all week. Start this Sunday.",
+  "url": "https://kingledger.github.io/meal-prep-like-a-disciplined-person/",
+  "numberOfItems": 7,
+  "itemListElement": [
+  {
+    "@type": "Product",
+    "name": "Glass Meal Prep Containers",
+    "description": "Storing and reheating prepped meals",
+    "url": "https://www.amazon.com/dp/B06Y31G1CF?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/B06Y31G1CF?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "Digital Food Scale",
+    "description": "Precise macro tracking",
+    "url": "https://www.amazon.com/dp/B01JTDG084?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/B01JTDG084?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "Instant Pot Multi-Cooker",
+    "description": "Batch cooking proteins fast",
+    "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "Kitchen Knife Set",
+    "description": "Efficient food prep",
+    "url": "https://www.amazon.com/dp/B0030CAP1A?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/B0030CAP1A?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "Cutting Board Set",
+    "description": "Sanitary multi-surface chopping",
+    "url": "https://www.amazon.com/dp/B08DLDKZWQ?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/B08DLDKZWQ?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "Spice Rack Organizer",
+    "description": "Keeping meal prep flavorful",
+    "url": "https://www.amazon.com/dp/B07JR4CPBB?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/B07JR4CPBB?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "Blender for Smoothies",
+    "description": "Quick protein shakes and smoothies",
+    "url": "https://www.amazon.com/dp/B012T634SM?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/B012T634SM?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+  ]
+}
+</script>
+
+
 Every Sunday, disciplined people do something that lazy people refuse to: they spend 2-3 hours in the kitchen preparing their meals for the entire week.
 
 It's not glamorous. It's not fun. But it's the single most effective nutritional habit you can build — and it separates people who *talk* about eating healthy from people who actually *do* it.
@@ -16,6 +114,22 @@ Here's the truth about nutrition that nobody wants to hear: **willpower doesn't 
 Meal prep isn't about being a gourmet chef. It's about **removing decisions.** When your meals are already made, you don't negotiate with yourself about what to eat. You don't rationalize the pizza. You don't "just this once" your way through another week of garbage food.
 
 This guide covers everything you need to start meal prepping like someone who actually has their life together: the essential kitchen tools, a complete 5-day muscle-building meal plan, and the mindset that makes it stick.
+
+
+<div style="background:#f8f9fa;padding:20px;border-radius:8px;margin:20px 0;">
+<h2>⚡ Quick Picks</h2>
+<table style="width:100%;border-collapse:collapse;">
+<tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Glass Meal Prep Containers</td><td style="padding:8px;">Storing and reheating prepped meals</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B06Y31G1CF?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Digital Food Scale</td><td style="padding:8px;">Precise macro tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01JTDG084?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Instant Pot Multi-Cooker</td><td style="padding:8px;">Batch cooking proteins fast</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00FLYWNYQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Kitchen Knife Set</td><td style="padding:8px;">Efficient food prep</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0030CAP1A?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Cutting Board Set</td><td style="padding:8px;">Sanitary multi-surface chopping</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B08DLDKZWQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Spice Rack Organizer</td><td style="padding:8px;">Keeping meal prep flavorful</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B07JR4CPBB?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Blender for Smoothies</td><td style="padding:8px;">Quick protein shakes and smoothies</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B012T634SM?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+</table>
+</div>
+
 
 ---
 
@@ -342,6 +456,14 @@ Switch your spice profile each week. Week one: Mexican (cumin, chili, lime). Wee
 Absolutely. If you can bake chicken in an oven and boil rice, you can meal prep. Start with the simplest possible meals — baked protein, steamed rice, roasted vegetables — and add complexity as you get comfortable.
 
 ---
+
+
+<div style="background:#1a1a2e;color:white;padding:30px;border-radius:8px;margin:30px 0;text-align:center;">
+<h2>📬 Join The Iron Ledger Newsletter</h2>
+<p>One email per week. Best books, gear, and strategies for building a better life. No spam. No fluff.</p>
+<p><a href="https://theironledger.beehiiv.com/subscribe" style="background:#e63946;color:white;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Subscribe Free →</a></p>
+</div>
+
 
 ## You May Also Like
 

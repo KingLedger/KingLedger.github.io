@@ -7,6 +7,104 @@ categories: [finance, investing]
 tags: [investing books, wealth building, personal finance, stock market, index funds, value investing, best investing books]
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Best Investing Books for Building Long-Term Wealth",
+  "description": "The best investing books for building long-term wealth. From index funds to value investing to behavioral finance — transform how you think about money.",
+  "url": "https://kingledger.github.io/best-investing-books-long-term-wealth/",
+  "numberOfItems": 7,
+  "itemListElement": [
+  {
+    "@type": "Product",
+    "name": "The Intelligent Investor",
+    "description": "Value investing fundamentals",
+    "url": "https://www.amazon.com/dp/0060555661?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/0060555661?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "A Random Walk Down Wall Street",
+    "description": "Understanding index fund investing",
+    "url": "https://www.amazon.com/dp/1324002182?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/1324002182?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "The Psychology of Money",
+    "description": "Behavioral finance and money mindset",
+    "url": "https://www.amazon.com/dp/0857197681?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/0857197681?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "The Little Book of Common Sense Investing",
+    "description": "Low-cost index fund strategy",
+    "url": "https://www.amazon.com/dp/1119404509?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/1119404509?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "One Up On Wall Street",
+    "description": "Individual stock picking insights",
+    "url": "https://www.amazon.com/dp/0743200403?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/0743200403?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "The Millionaire Next Door",
+    "description": "Understanding real wealth habits",
+    "url": "https://www.amazon.com/dp/1589795474?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/1589795474?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  {
+    "@type": "Product",
+    "name": "The Simple Path to Wealth",
+    "description": "Simple, actionable wealth building",
+    "url": "https://www.amazon.com/dp/1533667926?tag=kingledger20-20",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.amazon.com/dp/1533667926?tag=kingledger20-20",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+  ]
+}
+</script>
+
+
 Most people will earn between $1 million and $3 million over their working lifetime. The difference between retiring wealthy and retiring broke comes down to what you do with that money *between* paychecks. And it starts with [tracking where your money actually goes](/best-budget-planners-financial-journals/).
 
 Investing isn't gambling. It isn't day-trading meme stocks on your phone. It isn't watching CNBC and reacting to every market dip with panic or euphoria. Real investing is **boring, systematic, and devastatingly effective over decades.**
@@ -16,6 +114,22 @@ The problem is that nobody teaches you this. Not school, not your parents (proba
 These are the **7 best investing books for building long-term wealth.** They cover everything from foundational principles to advanced strategy, and every single one will make you a better investor than 95% of the population.
 
 Read them. Apply them. Watch your net worth compound.
+
+
+<div style="background:#f8f9fa;padding:20px;border-radius:8px;margin:20px 0;">
+<h2>⚡ Quick Picks</h2>
+<table style="width:100%;border-collapse:collapse;">
+<tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">The Intelligent Investor</td><td style="padding:8px;">Value investing fundamentals</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/0060555661?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">A Random Walk Down Wall Street</td><td style="padding:8px;">Understanding index fund investing</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/1324002182?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">The Psychology of Money</td><td style="padding:8px;">Behavioral finance and money mindset</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/0857197681?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">The Little Book of Common Sense Investing</td><td style="padding:8px;">Low-cost index fund strategy</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/1119404509?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">One Up On Wall Street</td><td style="padding:8px;">Individual stock picking insights</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/0743200403?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">The Millionaire Next Door</td><td style="padding:8px;">Understanding real wealth habits</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/1589795474?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">The Simple Path to Wealth</td><td style="padding:8px;">Simple, actionable wealth building</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/1533667926?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+</table>
+</div>
+
 
 ---
 
@@ -196,6 +310,14 @@ Your future self will thank you.
 **Built Not Born. Forged by Discipline.**
 
 ---
+
+
+<div style="background:#1a1a2e;color:white;padding:30px;border-radius:8px;margin:30px 0;text-align:center;">
+<h2>📬 Join The Iron Ledger Newsletter</h2>
+<p>One email per week. Best books, gear, and strategies for building a better life. No spam. No fluff.</p>
+<p><a href="https://theironledger.beehiiv.com/subscribe" style="background:#e63946;color:white;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Subscribe Free →</a></p>
+</div>
+
 
 ## You May Also Like
 
