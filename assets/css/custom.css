@@ -679,10 +679,25 @@ th {
 
 td {
   padding: 0.9rem 1rem;
-  border-bottom: 1px solid var(--border-subtle);
+  border-bottom: 1px solid var(--border-subtle) !important;
   font-size: 0.9rem;
-  color: var(--text-secondary);
+  color: var(--text-secondary) !important;
   vertical-align: middle;
+}
+
+/* Override inline styles from posts that were built for white theme */
+td[style],
+th[style] {
+  color: var(--text-secondary) !important;
+  border-color: var(--border-subtle) !important;
+}
+
+th[style] {
+  color: var(--accent-gold) !important;
+}
+
+tr[style] {
+  border-color: var(--border-subtle) !important;
 }
 
 tr:last-child td {
