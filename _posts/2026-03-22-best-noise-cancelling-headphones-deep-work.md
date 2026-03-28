@@ -20,10 +20,10 @@ tags: [noise cancelling headphones, deep work, productivity, work from home, ANC
     "@type": "Product",
     "name": "Sony WH-1000XM5",
     "description": "Best overall ANC for deep work",
-    "url": "https://www.amazon.com/dp/B0BX2L8PBT?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B08TMTFR6B?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BX2L8PBT?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B08TMTFR6B?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [noise cancelling headphones, deep work, productivity, work from home, ANC
     "@type": "Product",
     "name": "Apple AirPods Max",
     "description": "Best for Apple ecosystem users",
-    "url": "https://www.amazon.com/dp/B0DGJ988SK?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0GSS4SGZR?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0DGJ988SK?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0GSS4SGZR?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [noise cancelling headphones, deep work, productivity, work from home, ANC
     "@type": "Product",
     "name": "Sennheiser Momentum 4",
     "description": "Audiophile-grade sound quality",
-    "url": "https://www.amazon.com/dp/B0BFS71DBQ?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0B6G9TPNQ?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BFS71DBQ?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0B6G9TPNQ?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -110,10 +110,10 @@ Here are the **6 best noise-cancelling headphones for deep work in 2026.**
 <h2>⚡ Quick Picks</h2>
 <table style="width:100%;border-collapse:collapse;">
 <tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Sony WH-1000XM5</td><td style="padding:8px;">Best overall ANC for deep work</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0BX2L8PBT?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Sony WH-1000XM5</td><td style="padding:8px;">Best overall ANC for deep work</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B08TMTFR6B?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Bose QuietComfort Ultra</td><td style="padding:8px;">Best noise cancellation quality</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0CCZ1L489?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Apple AirPods Max</td><td style="padding:8px;">Best for Apple ecosystem users</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0DGJ988SK?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Sennheiser Momentum 4</td><td style="padding:8px;">Audiophile-grade sound quality</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0BFS71DBQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Apple AirPods Max</td><td style="padding:8px;">Best for Apple ecosystem users</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0GSS4SGZR?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Sennheiser Momentum 4</td><td style="padding:8px;">Audiophile-grade sound quality</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0B6G9TPNQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Sony WH-1000XM4</td><td style="padding:8px;">Best value previous-gen flagship</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0863TXGM3?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Bose QuietComfort 45</td><td style="padding:8px;">Lightweight all-day comfort</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B098FKXT8L?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
@@ -163,7 +163,7 @@ Sound quality is excellent — warm, detailed, with strong bass that doesn't ove
 - Touch controls can trigger accidentally
 - Ear cups can feel warm in hot environments
 
-[Buy on Amazon](https://www.amazon.com/dp/B0BX2L8PBT?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B08TMTFR6B?tag=kingledger20-20)
 
 ---
 
@@ -228,7 +228,7 @@ The downsides are real: they're heavy (384g), expensive (~$550), and the Smart C
 - No Android optimization (works, but loses features)
 - 20-hour battery is the lowest on this list
 
-[Buy on Amazon](https://www.amazon.com/dp/B0DGJ988SK?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0GSS4SGZR?tag=kingledger20-20)
 
 ---
 
@@ -259,7 +259,7 @@ Battery life is the star specification: **60 hours.** That's not a typo. With AN
 - Plastic build doesn't feel as premium as the price suggests
 - Somewhat niche — audiophile focus may be overkill for podcast/call-only users
 
-[Buy on Amazon](https://www.amazon.com/dp/B0BFS71DBQ?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0B6G9TPNQ?tag=kingledger20-20)
 
 ---
 

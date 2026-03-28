@@ -20,10 +20,10 @@ tags: [pull-up bar, home workout, calisthenics, back workout, home gym, fitness 
     "@type": "Product",
     "name": "Iron Age Pull-Up Bar",
     "description": "Best overall doorway pull-up bar",
-    "url": "https://www.amazon.com/dp/B01LENORCK?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B08MY13HYC?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B01LENORCK?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B08MY13HYC?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -32,10 +32,10 @@ tags: [pull-up bar, home workout, calisthenics, back workout, home gym, fitness 
     "@type": "Product",
     "name": "Garren Fitness Maximiza",
     "description": "Heavy-duty doorway option",
-    "url": "https://www.amazon.com/dp/B00DVJL8MU?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0BFWVXY32?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B00DVJL8MU?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0BFWVXY32?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [pull-up bar, home workout, calisthenics, back workout, home gym, fitness 
     "@type": "Product",
     "name": "Yes4All Wall-Mounted Bar",
     "description": "Permanent wall-mounted setup",
-    "url": "https://www.amazon.com/dp/B003TYJNV0?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0D5HC1C73?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B003TYJNV0?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0D5HC1C73?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -80,10 +80,10 @@ tags: [pull-up bar, home workout, calisthenics, back workout, home gym, fitness 
     "@type": "Product",
     "name": "CEAYUN Pull-Up Bar",
     "description": "Budget-friendly doorway option",
-    "url": "https://www.amazon.com/dp/B0C1BNDPW2?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B09BCLRHYL?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0C1BNDPW2?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B09BCLRHYL?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -106,12 +106,12 @@ The market has everything from $20 doorway bars to $500 freestanding stations. W
 <h2>⚡ Quick Picks</h2>
 <table style="width:100%;border-collapse:collapse;">
 <tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Iron Age Pull-Up Bar</td><td style="padding:8px;">Best overall doorway pull-up bar</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01LENORCK?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Garren Fitness Maximiza</td><td style="padding:8px;">Heavy-duty doorway option</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00DVJL8MU?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Yes4All Wall-Mounted Bar</td><td style="padding:8px;">Permanent wall-mounted setup</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B003TYJNV0?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Iron Age Pull-Up Bar</td><td style="padding:8px;">Best overall doorway pull-up bar</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B08MY13HYC?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Garren Fitness Maximiza</td><td style="padding:8px;">Heavy-duty doorway option</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0BFWVXY32?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Yes4All Wall-Mounted Bar</td><td style="padding:8px;">Permanent wall-mounted setup</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0D5HC1C73?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Stamina Doorway Trainer Plus</td><td style="padding:8px;">Multi-grip versatility</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B002Y2SUU4?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Sportsroyals Power Tower</td><td style="padding:8px;">Full pull-up bar station</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B07SM8VJ6P?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">CEAYUN Pull-Up Bar</td><td style="padding:8px;">Budget-friendly doorway option</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0C1BNDPW2?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">CEAYUN Pull-Up Bar</td><td style="padding:8px;">Budget-friendly doorway option</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B09BCLRHYL?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
 
@@ -143,7 +143,7 @@ The ergonomic grips are thick enough to challenge your grip strength without bei
 
 **Best for:** Anyone who wants a versatile, high-quality doorway pull-up bar with multiple grip options and no installation damage.
 
-[Buy on Amazon](https://www.amazon.com/dp/B01LENORCK?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B08MY13HYC?tag=kingledger20-20)
 
 ---
 
@@ -172,7 +172,7 @@ Installation uses the standard leverage mount — no screws, no tools. The foam 
 
 **Best for:** Beginners and budget-conscious buyers who want a functional pull-up bar without spending much.
 
-[Buy on Amazon](https://www.amazon.com/dp/B00DVJL8MU?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0BFWVXY32?tag=kingledger20-20)
 
 ---
 
@@ -203,7 +203,7 @@ The trade-off is installation — you need a drill, lag bolts, and wall studs. I
 
 **Best for:** Serious lifters with a dedicated gym space who want a permanent, heavy-duty pull-up bar.
 
-[Buy on Amazon](https://www.amazon.com/dp/B003TYJNV0?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0D5HC1C73?tag=kingledger20-20)
 
 ---
 
@@ -292,7 +292,7 @@ The wider adjustment range means you're not limited to standard interior doorway
 
 **Best for:** People with wider or non-standard door frames who need a pull-up bar that fits properly and supports heavy loads.
 
-[Buy on Amazon](https://www.amazon.com/dp/B0C1BNDPW2?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B09BCLRHYL?tag=kingledger20-20)
 
 ---
 

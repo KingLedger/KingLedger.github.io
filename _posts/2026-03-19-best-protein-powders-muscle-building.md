@@ -44,10 +44,10 @@ tags: [protein-powder, whey-protein, muscle-building, supplements, best-protein-
     "@type": "Product",
     "name": "Transparent Labs Grass-Fed Whey",
     "description": "Clean ingredients, no artificial sweeteners",
-    "url": "https://www.amazon.com/dp/B0756JZMGX?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B01DMUT4MO?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0756JZMGX?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B01DMUT4MO?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [protein-powder, whey-protein, muscle-building, supplements, best-protein-
     "@type": "Product",
     "name": "Naked Whey",
     "description": "Minimalists who want only whey protein",
-    "url": "https://www.amazon.com/dp/B00NBHF95Q?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B08L6YYXZ3?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B00NBHF95Q?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B08L6YYXZ3?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [protein-powder, whey-protein, muscle-building, supplements, best-protein-
     "@type": "Product",
     "name": "MuscleTech Nitro-Tech",
     "description": "Maximum protein per serving on a budget",
-    "url": "https://www.amazon.com/dp/B00QT3KSPY?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0FD449VL2?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B00QT3KSPY?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0FD449VL2?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -80,10 +80,10 @@ tags: [protein-powder, whey-protein, muscle-building, supplements, best-protein-
     "@type": "Product",
     "name": "Garden of Life Sport Organic",
     "description": "Plant-based lifters",
-    "url": "https://www.amazon.com/dp/B01FHKLM4Q?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B00NBIUGA2?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B01FHKLM4Q?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B00NBIUGA2?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -122,10 +122,10 @@ No sponsored picks. No filler. Just what works.
 <tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Optimum Nutrition Gold Standard Whey</td><td style="padding:8px;">Overall best for muscle building</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B000QSNYGI?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Dymatize ISO 100</td><td style="padding:8px;">Fast-absorbing hydrolyzed whey isolate</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B000GIPJ0M?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Transparent Labs Grass-Fed Whey</td><td style="padding:8px;">Clean ingredients, no artificial sweeteners</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0756JZMGX?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Naked Whey</td><td style="padding:8px;">Minimalists who want only whey protein</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00NBHF95Q?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">MuscleTech Nitro-Tech</td><td style="padding:8px;">Maximum protein per serving on a budget</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00QT3KSPY?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Garden of Life Sport Organic</td><td style="padding:8px;">Plant-based lifters</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01FHKLM4Q?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Transparent Labs Grass-Fed Whey</td><td style="padding:8px;">Clean ingredients, no artificial sweeteners</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01DMUT4MO?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Naked Whey</td><td style="padding:8px;">Minimalists who want only whey protein</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B08L6YYXZ3?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">MuscleTech Nitro-Tech</td><td style="padding:8px;">Maximum protein per serving on a budget</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0FD449VL2?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Garden of Life Sport Organic</td><td style="padding:8px;">Plant-based lifters</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00NBIUGA2?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">BSN Syntha-6</td><td style="padding:8px;">Best-tasting protein blend</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B002DYIZEO?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
@@ -232,7 +232,7 @@ It's not cheap — you'll pay a premium for the clean label and grass-fed sourci
 - Fewer flavor options than mainstream brands
 - Stevia taste isn't for everyone
 
-[Buy on Amazon](https://www.amazon.com/dp/B0756JZMGX?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B01DMUT4MO?tag=kingledger20-20)
 
 ---
 
@@ -261,7 +261,7 @@ Each serving delivers 25g of protein with 3g of carbs and 2g of fat. It's not as
 - Concentrate, not isolate — slightly more fat and carbs
 - Mixability isn't as smooth as flavored options
 
-[Buy on Amazon](https://www.amazon.com/dp/B00NBHF95Q?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B08L6YYXZ3?tag=kingledger20-20)
 
 ---
 
@@ -290,7 +290,7 @@ At 30g of protein per serving, you're getting more protein per scoop than most c
 - Contains artificial sweeteners and flavors
 - If you already take creatine separately, the added dose is redundant
 
-[Buy on Amazon](https://www.amazon.com/dp/B00QT3KSPY?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0FD449VL2?tag=kingledger20-20)
 
 ---
 
@@ -320,7 +320,7 @@ It also includes a 1 billion CFU probiotic blend and tart cherry for recovery. T
 - More expensive than comparable whey options
 - Taste is adequate, not great
 
-[Buy on Amazon](https://www.amazon.com/dp/B01FHKLM4Q?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B00NBIUGA2?tag=kingledger20-20)
 
 ---
 

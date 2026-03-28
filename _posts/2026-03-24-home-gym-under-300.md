@@ -20,10 +20,10 @@ tags: [home-gym, fitness, equipment, budget-gym, home-gym-under-300, workout-equ
     "@type": "Product",
     "name": "Adjustable Dumbbells",
     "description": "Versatile strength training",
-    "url": "https://www.amazon.com/dp/B074DY1GNR?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0FJR132JD?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B074DY1GNR?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0FJR132JD?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [home-gym, fitness, equipment, budget-gym, home-gym-under-300, workout-equ
     "@type": "Product",
     "name": "Yoga/Exercise Mat",
     "description": "Floor exercises and stretching",
-    "url": "https://www.amazon.com/dp/B01LP0VQYU?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0B74MRJS3?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B01LP0VQYU?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0B74MRJS3?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [home-gym, fitness, equipment, budget-gym, home-gym-under-300, workout-equ
     "@type": "Product",
     "name": "Kettlebell (35 lb)",
     "description": "Swings, cleans, and conditioning",
-    "url": "https://www.amazon.com/dp/B005OGCE68?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0FWY4PFBG?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B005OGCE68?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0FWY4PFBG?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -80,10 +80,10 @@ tags: [home-gym, fitness, equipment, budget-gym, home-gym-under-300, workout-equ
     "@type": "Product",
     "name": "Ab Roller",
     "description": "Core strength on a budget",
-    "url": "https://www.amazon.com/dp/B010RFN9L6?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0B7Q8CBRB?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B010RFN9L6?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0B7Q8CBRB?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -92,10 +92,10 @@ tags: [home-gym, fitness, equipment, budget-gym, home-gym-under-300, workout-equ
     "@type": "Product",
     "name": "Jump Rope",
     "description": "Cardio and conditioning",
-    "url": "https://www.amazon.com/dp/B01HBI9AME?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B07VY5GM4L?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B01HBI9AME?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B07VY5GM4L?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -120,13 +120,13 @@ No fluff. No filler. Just the equipment list and the logic behind it.
 <h2>⚡ Quick Picks</h2>
 <table style="width:100%;border-collapse:collapse;">
 <tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Adjustable Dumbbells</td><td style="padding:8px;">Versatile strength training</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B074DY1GNR?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Adjustable Dumbbells</td><td style="padding:8px;">Versatile strength training</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0FJR132JD?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Pull-Up Bar (Doorframe)</td><td style="padding:8px;">Upper body and back development</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B001EJMS6K?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Resistance Bands Set</td><td style="padding:8px;">Warm-ups and accessory work</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01AVDVHTI?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Yoga/Exercise Mat</td><td style="padding:8px;">Floor exercises and stretching</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01LP0VQYU?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Kettlebell (35 lb)</td><td style="padding:8px;">Swings, cleans, and conditioning</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B005OGCE68?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Ab Roller</td><td style="padding:8px;">Core strength on a budget</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B010RFN9L6?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Jump Rope</td><td style="padding:8px;">Cardio and conditioning</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01HBI9AME?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Yoga/Exercise Mat</td><td style="padding:8px;">Floor exercises and stretching</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0B74MRJS3?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Kettlebell (35 lb)</td><td style="padding:8px;">Swings, cleans, and conditioning</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0FWY4PFBG?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Ab Roller</td><td style="padding:8px;">Core strength on a budget</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0B7Q8CBRB?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Jump Rope</td><td style="padding:8px;">Cardio and conditioning</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B07VY5GM4L?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
 
@@ -177,7 +177,7 @@ If you buy only one thing on this list, make it adjustable dumbbells. A single p
 
 **Exercises enabled:** Bench press (floor press), shoulder press, rows, curls, lateral raises, lunges, goblet squats, Romanian deadlifts, tricep extensions, flyes, and dozens more.
 
-[Buy on Amazon](https://www.amazon.com/dp/B074DY1GNR?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0FJR132JD?tag=kingledger20-20)
 
 ---
 
@@ -239,7 +239,7 @@ A mat isn't glamorous, but it's necessary. Floor exercises — push-ups, planks,
 
 **Exercises enabled:** All floor work — push-ups, planks, ab exercises, stretching, yoga, mobility work, and foam rolling.
 
-[Buy on Amazon](https://www.amazon.com/dp/B01LP0VQYU?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0B74MRJS3?tag=kingledger20-20)
 
 ---
 
@@ -260,7 +260,7 @@ A single kettlebell is a full-body training system. Swings alone will build your
 
 **Exercises enabled:** Kettlebell swings, goblet squats, Turkish get-ups, cleans, presses, snatches, farmer's carries, halos, windmills, and rows.
 
-[Buy on Amazon](https://www.amazon.com/dp/B005OGCE68?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0FWY4PFBG?tag=kingledger20-20)
 
 ---
 
@@ -282,7 +282,7 @@ The ab roller is one of the most effective core training tools ever made, and it
 
 **Progression path:** Start from your knees with a short range of motion. Gradually extend further. The goal is a full standing ab rollout — one of the most impressive bodyweight core exercises there is.
 
-[Buy on Amazon](https://www.amazon.com/dp/B010RFN9L6?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0B7Q8CBRB?tag=kingledger20-20)
 
 ---
 
@@ -304,7 +304,7 @@ Ten minutes of jump rope is equivalent to roughly 30 minutes of jogging in terms
 
 **Exercises enabled:** Basic bounce, alternate foot step, high knees, double unders, boxer shuffle, and interval training (30 seconds on, 15 seconds off for 10–15 minutes).
 
-[Buy on Amazon](https://www.amazon.com/dp/B01HBI9AME?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B07VY5GM4L?tag=kingledger20-20)
 
 ---
 

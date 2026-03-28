@@ -20,10 +20,10 @@ tags: [meal-prep, nutrition, kitchen-essentials, muscle-building, discipline, me
     "@type": "Product",
     "name": "Glass Meal Prep Containers",
     "description": "Storing and reheating prepped meals",
-    "url": "https://www.amazon.com/dp/B06Y31G1CF?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0DK951K6K?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B06Y31G1CF?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0DK951K6K?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -32,10 +32,10 @@ tags: [meal-prep, nutrition, kitchen-essentials, muscle-building, discipline, me
     "@type": "Product",
     "name": "Digital Food Scale",
     "description": "Precise macro tracking",
-    "url": "https://www.amazon.com/dp/B01JTDG084?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0F5GB1ZRB?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B01JTDG084?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0F5GB1ZRB?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [meal-prep, nutrition, kitchen-essentials, muscle-building, discipline, me
     "@type": "Product",
     "name": "Kitchen Knife Set",
     "description": "Efficient food prep",
-    "url": "https://www.amazon.com/dp/B0030CAP1A?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B09GBBMTNS?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0030CAP1A?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B09GBBMTNS?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [meal-prep, nutrition, kitchen-essentials, muscle-building, discipline, me
     "@type": "Product",
     "name": "Cutting Board Set",
     "description": "Sanitary multi-surface chopping",
-    "url": "https://www.amazon.com/dp/B08DLDKZWQ?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0FHPNPQ6D?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B08DLDKZWQ?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0FHPNPQ6D?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -80,10 +80,10 @@ tags: [meal-prep, nutrition, kitchen-essentials, muscle-building, discipline, me
     "@type": "Product",
     "name": "Spice Rack Organizer",
     "description": "Keeping meal prep flavorful",
-    "url": "https://www.amazon.com/dp/B07JR4CPBB?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0986XZ547?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B07JR4CPBB?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0986XZ547?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -120,12 +120,12 @@ This guide covers everything you need to start meal prepping like someone who ac
 <h2>⚡ Quick Picks</h2>
 <table style="width:100%;border-collapse:collapse;">
 <tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Glass Meal Prep Containers</td><td style="padding:8px;">Storing and reheating prepped meals</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B06Y31G1CF?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Digital Food Scale</td><td style="padding:8px;">Precise macro tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01JTDG084?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Glass Meal Prep Containers</td><td style="padding:8px;">Storing and reheating prepped meals</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0DK951K6K?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Digital Food Scale</td><td style="padding:8px;">Precise macro tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0F5GB1ZRB?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Instant Pot Multi-Cooker</td><td style="padding:8px;">Batch cooking proteins fast</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00FLYWNYQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Kitchen Knife Set</td><td style="padding:8px;">Efficient food prep</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0030CAP1A?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Cutting Board Set</td><td style="padding:8px;">Sanitary multi-surface chopping</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B08DLDKZWQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Spice Rack Organizer</td><td style="padding:8px;">Keeping meal prep flavorful</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B07JR4CPBB?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Kitchen Knife Set</td><td style="padding:8px;">Efficient food prep</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B09GBBMTNS?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Cutting Board Set</td><td style="padding:8px;">Sanitary multi-surface chopping</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0FHPNPQ6D?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Spice Rack Organizer</td><td style="padding:8px;">Keeping meal prep flavorful</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0986XZ547?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Blender for Smoothies</td><td style="padding:8px;">Quick protein shakes and smoothies</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B012T634SM?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
@@ -147,7 +147,7 @@ You'll want a mix of sizes: **28 oz containers** for full meals (protein + carb 
 
 **Pro tip:** Get containers with compartments. Keeping your chicken separate from your rice prevents soggy, mushy meals by Friday.
 
-[Buy on Amazon](https://www.amazon.com/dp/B06Y31G1CF?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0DK951K6K?tag=kingledger20-20)
 
 ---
 
@@ -161,7 +161,7 @@ A basic digital food scale costs about $12, runs on AAA batteries or USB, and ta
 
 The Etekcity and Greater Goods digital scales are both excellent options under $15. You'll use this tool more than any other kitchen gadget you own.
 
-[Buy on Amazon](https://www.amazon.com/dp/B01JTDG084?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0F5GB1ZRB?tag=kingledger20-20)
 
 ---
 
@@ -189,7 +189,7 @@ The Cuisinart 12-piece knife set and the McCook knife set both offer excellent q
 
 **Maintenance tip:** A $40 knife that you sharpen every few months will outperform a $200 knife that you never maintain. Get a honing steel or a simple pull-through sharpener.
 
-[Buy on Amazon](https://www.amazon.com/dp/B0030CAP1A?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B09GBBMTNS?tag=kingledger20-20)
 
 ---
 
@@ -201,7 +201,7 @@ Look for boards that are **non-porous** (plastic or composite), **dishwasher saf
 
 Bamboo boards look great but require more maintenance (hand-wash only, regular oiling). For pure meal prep efficiency, go with plastic or composite — they go in the dishwasher and come out ready for next week.
 
-[Buy on Amazon](https://www.amazon.com/dp/B08DLDKZWQ?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0FHPNPQ6D?tag=kingledger20-20)
 
 ---
 
@@ -219,7 +219,7 @@ A tiered spice rack organizer keeps everything visible and accessible. No more d
 
 **Pro tip:** Buy spices in bulk from the bulk section of your grocery store — it's 50-80% cheaper than buying individual McCormick bottles.
 
-[Buy on Amazon](https://www.amazon.com/dp/B07JR4CPBB?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0986XZ547?tag=kingledger20-20)
 
 ---
 

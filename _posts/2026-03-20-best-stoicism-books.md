@@ -283,7 +283,7 @@ Each chapter covers a period in Marcus's life and connects it to a specific Stoi
 
 **Practical application:** If you struggle with anxiety, anger, or rumination, this book is essentially a self-help therapy manual disguised as a history book. Robertson gives you evidence-based techniques — grounded in both ancient wisdom and modern psychology — for managing difficult emotions. The chapters on cognitive distancing (separating yourself from your thoughts) and the view from above (imagining your problems from a cosmic perspective) are immediately applicable to daily stress.
 
-[Buy on Amazon](https://www.amazon.com/dp/B08VCK1L3W?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B07XJYRW2G?tag=kingledger20-20)
 
 ---
 

@@ -32,10 +32,10 @@ tags: [weightlifting belt, powerlifting belt, lifting belt, best weightlifting b
     "@type": "Product",
     "name": "Dark Iron Fitness Leather Belt",
     "description": "Best genuine leather on a budget",
-    "url": "https://www.amazon.com/dp/B011AH5B6Y?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B074KKQJYH?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B011AH5B6Y?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B074KKQJYH?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [weightlifting belt, powerlifting belt, lifting belt, best weightlifting b
     "@type": "Product",
     "name": "Inzer Forever Lever Belt",
     "description": "Competition-grade powerlifting",
-    "url": "https://www.amazon.com/dp/B002AQLTRO?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0FKN19GCP?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B002AQLTRO?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0FKN19GCP?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [weightlifting belt, powerlifting belt, lifting belt, best weightlifting b
     "@type": "Product",
     "name": "RDX Powerlifting Belt",
     "description": "Versatile training and powerlifting",
-    "url": "https://www.amazon.com/dp/B00P0FCEKY?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0C5XSV265?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B00P0FCEKY?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0C5XSV265?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -80,10 +80,10 @@ tags: [weightlifting belt, powerlifting belt, lifting belt, best weightlifting b
     "@type": "Product",
     "name": "Harbinger Padded Leather Belt",
     "description": "Comfortable padded support",
-    "url": "https://www.amazon.com/dp/B00074H7EM?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0B18J42N9?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B00074H7EM?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0B18J42N9?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -123,11 +123,11 @@ Let's get into it.
 <table style="width:100%;border-collapse:collapse;">
 <tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Gymreapers Quick Locking Belt</td><td style="padding:8px;">Best overall lever belt</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B07RNFDBGX?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Dark Iron Fitness Leather Belt</td><td style="padding:8px;">Best genuine leather on a budget</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B011AH5B6Y?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Inzer Forever Lever Belt</td><td style="padding:8px;">Competition-grade powerlifting</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B002AQLTRO?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">RDX Powerlifting Belt</td><td style="padding:8px;">Versatile training and powerlifting</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00P0FCEKY?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Dark Iron Fitness Leather Belt</td><td style="padding:8px;">Best genuine leather on a budget</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B074KKQJYH?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Inzer Forever Lever Belt</td><td style="padding:8px;">Competition-grade powerlifting</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0FKN19GCP?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">RDX Powerlifting Belt</td><td style="padding:8px;">Versatile training and powerlifting</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0C5XSV265?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Element 26 Self-Locking Belt</td><td style="padding:8px;">Quick on/off with self-locking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B08YZ2L4T4?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Harbinger Padded Leather Belt</td><td style="padding:8px;">Comfortable padded support</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00074H7EM?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Harbinger Padded Leather Belt</td><td style="padding:8px;">Comfortable padded support</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0B18J42N9?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Iron Bull Strength Belt (13mm)</td><td style="padding:8px;">Maximum thickness for max lifts</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0B4ZR3ZZF?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
@@ -192,7 +192,7 @@ If you want real leather support without the $80+ price tag, Dark Iron Fitness d
 
 It's 4 inches wide with a standard buckle closure. The leather is thick enough to provide real bracing support but not so thick that it takes months to break in. For intermediate lifters or anyone building their first serious gym kit, this is the belt to start with.
 
-[**Check Price on Amazon**](https://www.amazon.com/dp/B011AH5B6Y?tag=kingledger20-20)
+[**Check Price on Amazon**](https://www.amazon.com/dp/B074KKQJYH?tag=kingledger20-20)
 
 **Pros:**
 - Genuine buffalo hide leather at a budget price
@@ -217,7 +217,7 @@ The 10mm version gives you elite-level support with a slightly more forgiving br
 
 This is the belt you buy once and never replace.
 
-[**Check Price on Amazon**](https://www.amazon.com/dp/B002AQLTRO?tag=kingledger20-20)
+[**Check Price on Amazon**](https://www.amazon.com/dp/B0FKN19GCP?tag=kingledger20-20)
 
 **Pros:**
 - IPF approved for competition
@@ -242,7 +242,7 @@ Not every lifter needs a competition powerlifting belt. If you're primarily body
 
 It features a padded leather construction with an oil-tanned finish that's softer out of the box than most leather belts. The double-prong buckle provides secure closure and the 4-inch width gives uniform support.
 
-[**Check Price on Amazon**](https://www.amazon.com/dp/B00P0FCEKY?tag=kingledger20-20)
+[**Check Price on Amazon**](https://www.amazon.com/dp/B0C5XSV265?tag=kingledger20-20)
 
 **Pros:**
 - Pre-softened leather requires less break-in
@@ -293,7 +293,7 @@ The 4-inch padded leather design offers moderate support with a comfortable fit.
 
 If you're not sure you need a serious belt yet, start here. Upgrade when your squat breaks 315.
 
-[**Check Price on Amazon**](https://www.amazon.com/dp/B00074H7EM?tag=kingledger20-20)
+[**Check Price on Amazon**](https://www.amazon.com/dp/B0B18J42N9?tag=kingledger20-20)
 
 **Pros:**
 - Comfortable out of the box

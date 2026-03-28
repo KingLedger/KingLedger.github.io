@@ -20,10 +20,10 @@ tags: [kettlebells, home gym, kettlebell training, fitness equipment, best kettl
     "@type": "Product",
     "name": "Cap Barbell Cast Iron Kettlebell",
     "description": "Best budget cast iron option",
-    "url": "https://www.amazon.com/dp/B001TE8MYO?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B00WHIGFQQ?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B001TE8MYO?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B00WHIGFQQ?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -32,10 +32,10 @@ tags: [kettlebells, home gym, kettlebell training, fitness equipment, best kettl
     "@type": "Product",
     "name": "Rogue Fitness Kettlebell",
     "description": "Premium quality for serious training",
-    "url": "https://www.amazon.com/dp/B00AB6R600?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0CTKHGVKG?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B00AB6R600?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0CTKHGVKG?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [kettlebells, home gym, kettlebell training, fitness equipment, best kettl
     "@type": "Product",
     "name": "Kettlebell Kings Competition",
     "description": "Competition-style uniform sizing",
-    "url": "https://www.amazon.com/dp/B013TH2IE0?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B017WB2L06?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B013TH2IE0?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B017WB2L06?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [kettlebells, home gym, kettlebell training, fitness equipment, best kettl
     "@type": "Product",
     "name": "Amazon Basics Kettlebell",
     "description": "Affordable everyday training",
-    "url": "https://www.amazon.com/dp/B0731B5DXH?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0731DFTR2?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0731B5DXH?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0731DFTR2?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [kettlebells, home gym, kettlebell training, fitness equipment, best kettl
     "@type": "Product",
     "name": "Kettlebell Kings Adjustable",
     "description": "Space-saving multi-weight option",
-    "url": "https://www.amazon.com/dp/B09BJMG62X?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0C6DLYW5P?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B09BJMG62X?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0C6DLYW5P?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -80,10 +80,10 @@ tags: [kettlebells, home gym, kettlebell training, fitness equipment, best kettl
     "@type": "Product",
     "name": "Yes4All Vinyl Coated Kettlebell",
     "description": "Floor-safe vinyl coating on a budget",
-    "url": "https://www.amazon.com/dp/B00CE5OJ0K?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0DJ892TWT?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B00CE5OJ0K?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0DJ892TWT?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -106,12 +106,12 @@ If you're building a [home gym](/home-gym-under-300/), a kettlebell should be on
 <h2>⚡ Quick Picks</h2>
 <table style="width:100%;border-collapse:collapse;">
 <tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Cap Barbell Cast Iron Kettlebell</td><td style="padding:8px;">Best budget cast iron option</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B001TE8MYO?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Rogue Fitness Kettlebell</td><td style="padding:8px;">Premium quality for serious training</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00AB6R600?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Kettlebell Kings Competition</td><td style="padding:8px;">Competition-style uniform sizing</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B013TH2IE0?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Amazon Basics Kettlebell</td><td style="padding:8px;">Affordable everyday training</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0731B5DXH?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Kettlebell Kings Adjustable</td><td style="padding:8px;">Space-saving multi-weight option</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B09BJMG62X?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Yes4All Vinyl Coated Kettlebell</td><td style="padding:8px;">Floor-safe vinyl coating on a budget</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00CE5OJ0K?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Cap Barbell Cast Iron Kettlebell</td><td style="padding:8px;">Best budget cast iron option</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00WHIGFQQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Rogue Fitness Kettlebell</td><td style="padding:8px;">Premium quality for serious training</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0CTKHGVKG?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Kettlebell Kings Competition</td><td style="padding:8px;">Competition-style uniform sizing</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B017WB2L06?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Amazon Basics Kettlebell</td><td style="padding:8px;">Affordable everyday training</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0731DFTR2?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Kettlebell Kings Adjustable</td><td style="padding:8px;">Space-saving multi-weight option</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0C6DLYW5P?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Yes4All Vinyl Coated Kettlebell</td><td style="padding:8px;">Floor-safe vinyl coating on a budget</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0DJ892TWT?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
 
@@ -175,7 +175,7 @@ At roughly $1.00–1.50 per pound, this is the cheapest quality kettlebell you c
 - No color coding for weight identification
 - Casting seams may need light sanding on some units
 
-[Buy on Amazon](https://www.amazon.com/dp/B001TE8MYO?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B00WHIGFQQ?tag=kingledger20-20)
 
 ---
 
@@ -208,7 +208,7 @@ You'll pay a premium — roughly $1.75–2.50 per pound — but for equipment yo
 - Heavier weights have longer lead times
 - Powder coat can wear over time with chalk use
 
-[Buy on Amazon](https://www.amazon.com/dp/B00AB6R600?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0CTKHGVKG?tag=kingledger20-20)
 
 ---
 
@@ -241,7 +241,7 @@ The handle is smooth and consistent — designed for high-rep sets where rough f
 - Smooth handle may feel slippery without chalk
 - Overkill for casual kettlebell users
 
-[Buy on Amazon](https://www.amazon.com/dp/B013TH2IE0?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B017WB2L06?tag=kingledger20-20)
 
 ---
 
@@ -272,7 +272,7 @@ At roughly $0.80–1.20 per pound, Amazon Basics undercuts almost everything on 
 - Casting quality varies — check for rough seams
 - Limited weight range (maxes at 60 lb)
 
-[Buy on Amazon](https://www.amazon.com/dp/B0731B5DXH?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0731DFTR2?tag=kingledger20-20)
 
 ---
 
@@ -303,7 +303,7 @@ One adjustable bell replaces four or five individual bells, saving both money an
 - More moving parts = more potential failure points
 - Maximum weight (32 lb) may be too light for advanced users
 
-[Buy on Amazon](https://www.amazon.com/dp/B09BJMG62X?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0C6DLYW5P?tag=kingledger20-20)
 
 ---
 
@@ -334,7 +334,7 @@ The trade-off is that vinyl coating wears over time with heavy use, and the slig
 - Can absorb chalk and become slippery
 - Not ideal for outdoor use — vinyl can crack in extreme cold
 
-[Buy on Amazon](https://www.amazon.com/dp/B00CE5OJ0K?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0DJ892TWT?tag=kingledger20-20)
 
 ---
 
