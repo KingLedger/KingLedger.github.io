@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container">
+    <h1 class="hero-tagline">
+      Built Not Born.<br>
+      <span class="highlight">Forged by Discipline.</span>
+    </h1>
+    <p class="hero-sub">
+      No-fluff guides on finance, fitness, business, and mindset. The tools, books, and strategies that actually work.
+    </p>
+    <a href="#latest-posts" class="hero-cta">Start Reading →</a>
+  </div>
+</section>
+
+<!-- Categories -->
+<section class="categories-section">
+  <div class="container">
+    <h2 class="section-title">Explore Topics</h2>
+    <div class="category-grid">
+      <a href="{{ '/finance/' | relative_url }}" class="category-card">
+        <span class="cat-icon">💰</span>
+        <span class="cat-name">Finance</span>
+        <span class="cat-count">{{ site.posts | where_exp: "p", "p.categories contains 'finance'" | size }} posts</span>
+      </a>
+      <a href="{{ '/fitness/' | relative_url }}" class="category-card">
+        <span class="cat-icon">💪</span>
+        <span class="cat-name">Fitness</span>
+        <span class="cat-count">{{ site.posts | where_exp: "p", "p.categories contains 'fitness'" | size }} posts</span>
+      </a>
+      <a href="{{ '/business/' | relative_url }}" class="category-card">
+        <span class="cat-icon">📈</span>
+        <span class="cat-name">Business</span>
+        <span class="cat-count">{{ site.posts | where_exp: "p", "p.categories contains 'business'" | size }} posts</span>
+      </a>
+      <a href="{{ '/mindset/' | relative_url }}" class="category-card">
+        <span class="cat-icon">🧠</span>
+        <span class="cat-name">Mindset</span>
+        <span class="cat-count">{{ site.posts | where_exp: "p", "p.categories contains 'mindset'" | size }} posts</span>
+      </a>
+      <a href="{{ '/gaming/' | relative_url }}" class="category-card">
+        <span class="cat-icon">🎮</span>
+        <span class="cat-name">Gaming</span>
+        <span class="cat-count">{{ site.posts | where_exp: "p", "p.categories contains 'gaming'" | size }} posts</span>
+      </a>
+      <a href="{{ '/productivity/' | relative_url }}" class="category-card">
+        <span class="cat-icon">⚡</span>
+        <span class="cat-name">Productivity</span>
+        <span class="cat-count">{{ site.posts | where_exp: "p", "p.categories contains 'productivity'" | size }} posts</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Latest Posts -->
+<section class="posts-section" id="latest-posts">
+  <div class="container">
+    <h2 class="section-title">Latest Posts</h2>
+    <div class="posts-grid">
+      {% for post in site.posts limit:9 %}
+      <a href="{{ post.url | relative_url }}" class="post-card">
+        <span class="card-category">{{ post.categories | first | upcase }}</span>
+        <h3 class="card-title">{{ post.title }}</h3>
+        <p class="card-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+        <div class="card-meta">
+          <span>{{ post.date | date: "%b %d, %Y" }}</span>
+          <span class="card-read-more">Read →</span>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Newsletter CTA -->
+<section class="container">
+  <div class="newsletter-cta">
+    <h2>Join The Ledger</h2>
+    <p>Weekly no-fluff insights on building wealth, strength, and discipline. Free forever.</p>
+    <form class="newsletter-form" action="#" method="post">
+      <input type="email" placeholder="Your email address" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+</section>

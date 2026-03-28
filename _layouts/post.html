@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<article>
+  <!-- Post Header -->
+  <div class="post-header">
+    <div class="content-container">
+      <nav class="breadcrumbs">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <span class="separator">›</span>
+        {% assign cat = page.categories | first %}
+        {% if cat %}
+        <a href="{{ '/' | append: cat | append: '/' | relative_url }}">{{ cat | capitalize }}</a>
+        <span class="separator">›</span>
+        {% endif %}
+        <span>{{ page.title }}</span>
+      </nav>
+      <h1 class="post-title">{{ page.title }}</h1>
+      <div class="post-meta-header">
+        <span>{{ page.date | date: "%B %d, %Y" }}</span>
+        {% if page.categories.size > 0 %}
+        <span>·</span>
+        <span>{{ page.categories | join: ", " | capitalize }}</span>
+        {% endif %}
+        <span>·</span>
+        <span>{{ content | number_of_words | divided_by: 200 | plus: 1 }} min read</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Post Content -->
+  <div class="post-content-wrapper">
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+    <!-- Newsletter CTA -->
+    <div class="newsletter-cta">
+      <h2>Join The Ledger</h2>
+      <p>Weekly no-fluff insights on building wealth, strength, and discipline.</p>
+      <form class="newsletter-form" action="#" method="post">
+        <input type="email" placeholder="Your email address" required>
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+
+    <!-- Related Posts -->
+    {% assign cat = page.categories | first %}
+    {% assign related = site.posts | where_exp: "p", "p.categories contains cat" | where_exp: "p", "p.url != page.url" %}
+    {% if related.size > 0 %}
+    <div class="related-posts">
+      <h2>You May Also Like</h2>
+      <div class="related-grid">
+        {% for post in related limit:3 %}
+        <a href="{{ post.url | relative_url }}" class="post-card">
+          <span class="card-category">{{ post.categories | first | upcase }}</span>
+          <h3 class="card-title">{{ post.title }}</h3>
+          <p class="card-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 100 }}</p>
+          <div class="card-meta">
+            <span>{{ post.date | date: "%b %d, %Y" }}</span>
+            <span class="card-read-more">Read →</span>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</article>

@@ -1,0 +1,30 @@
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="{{ '/' | relative_url }}" class="nav-logo">
+      <span class="logo-iron">IRON&nbsp;</span><span class="logo-ledger">LEDGER</span>
+    </a>
+
+    <button class="nav-toggle" aria-label="Toggle navigation" onclick="document.querySelector('.nav-links').classList.toggle('active')">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <ul class="nav-links">
+      <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
+      <li class="nav-dropdown" onclick="this.classList.toggle('open')">
+        <a href="#" onclick="event.preventDefault()">Categories ▾</a>
+        <div class="dropdown-menu">
+          <a href="{{ '/finance/' | relative_url }}">💰 Finance</a>
+          <a href="{{ '/fitness/' | relative_url }}">💪 Fitness</a>
+          <a href="{{ '/business/' | relative_url }}">📈 Business</a>
+          <a href="{{ '/mindset/' | relative_url }}">🧠 Mindset</a>
+          <a href="{{ '/gaming/' | relative_url }}">🎮 Gaming</a>
+          <a href="{{ '/productivity/' | relative_url }}">⚡ Productivity</a>
+        </div>
+      </li>
+      <li><a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a></li>
+      <li><a href="{{ '/contact/' | relative_url }}" {% if page.url == '/contact/' %}class="active"{% endif %}>Contact</a></li>
+    </ul>
+  </div>
+</nav>

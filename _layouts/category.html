@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="category-header">
+  <h1>{{ page.cat_icon }} {{ page.title }}</h1>
+  <p>{{ page.description }}</p>
+</div>
+
+<section class="posts-section">
+  <div class="container">
+    <div class="posts-grid">
+      {% assign cat_posts = site.posts | where_exp: "p", "p.categories contains page.category" %}
+      {% for post in cat_posts %}
+      <a href="{{ post.url | relative_url }}" class="post-card">
+        <span class="card-category">{{ post.categories | join: " · " | upcase }}</span>
+        <h3 class="card-title">{{ post.title }}</h3>
+        <p class="card-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+        <div class="card-meta">
+          <span>{{ post.date | date: "%b %d, %Y" }}</span>
+          <span class="card-read-more">Read →</span>
+        </div>
+      </a>
+      {% endfor %}
+      {% if cat_posts.size == 0 %}
+      <p class="text-muted">No posts in this category yet. Check back soon.</p>
+      {% endif %}
+    </div>
+  </div>
+</section>
