@@ -56,10 +56,10 @@ tags: [tax-software, turbotax, hr-block, taxact, freetaxusa, cash-app-taxes, tax
     "@type": "Product",
     "name": "H&R Block Premium & Business 2025",
     "description": "Best for self-employed and business owners",
-    "url": "https://www.amazon.com/dp/B0DCSXB7HN?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0DCSXB7HN?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -95,7 +95,7 @@ Let me break down the six best options so you can pick the right one and stop pr
 | **TurboTax Deluxe** | Most filers | ~$60-90 | ~$50 | Best UI, smart guidance | [Check Price](https://www.amazon.com/dp/B0DGB1SY8C?tag=kingledger20-20) |
 | **TurboTax Premier** | Investors | ~$90-120 | ~$50 | Investment income optimization | [Check Price](https://www.amazon.com/dp/B0DGBYXM26?tag=kingledger20-20) |
 | **H&R Block Deluxe** | Itemizers | ~$45-55 | ~$40 | Best value for paid software | [Check Price](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20) |
-| **H&R Block Premium** | Self-employed | ~$75-90 | ~$40 | Schedule C + business deductions | [Check Price](https://www.amazon.com/dp/B0DCSXB7HN?tag=kingledger20-20) |
+| **H&R Block Premium** | Self-employed | ~$75-90 | ~$40 | Schedule C + business deductions | [Check Price](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20) |
 | **TaxAct Deluxe** | Budget-conscious | ~$35-50 | ~$40 | Solid mid-range option | [Check Price](https://www.amazon.com/dp/B0DL5SKJQX?tag=kingledger20-20) |
 | **FreeTaxUSA** | Simple returns | Free | ~$15 | Free federal, cheap state | [FreeTaxUSA.com](https://www.freetaxusa.com) |
 
@@ -207,7 +207,7 @@ The interface isn't as sleek as TurboTax, but it's perfectly functional. Think H
 
 ## 4. H&R Block Premium & Business — Best for Self-Employed
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DCSXB7HN?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20)
 
 Running a side hustle? Freelancing? Have an LLC or sole proprietorship? H&R Block Premium & Business is designed specifically for self-employed filers and small business owners. It handles Schedule C, quarterly estimated tax calculations, and business deductions that lower-tier products miss.
 
@@ -391,7 +391,7 @@ Tax season isn't exciting, but filing efficiently is a legitimate financial skil
 - **Best overall experience:** [TurboTax Deluxe](https://www.amazon.com/dp/B0DGB1SY8C?tag=kingledger20-20)
 - **Best for investors:** [TurboTax Premier](https://www.amazon.com/dp/B0DGBYXM26?tag=kingledger20-20)
 - **Best value (paid):** [H&R Block Deluxe](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20)
-- **Best for self-employed:** [H&R Block Premium & Business](https://www.amazon.com/dp/B0DCSXB7HN?tag=kingledger20-20)
+- **Best for self-employed:** [H&R Block Premium & Business](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20)
 - **Best mid-range:** [TaxAct Deluxe](https://www.amazon.com/dp/B0DL5SKJQX?tag=kingledger20-20)
 - **Best free option:** [FreeTaxUSA](https://www.freetaxusa.com)
 

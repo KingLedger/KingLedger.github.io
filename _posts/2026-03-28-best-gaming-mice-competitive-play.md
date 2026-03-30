@@ -20,8 +20,8 @@ tags: [gaming mice, competitive gaming, esports, FPS mouse, lightweight mouse, b
     "@type": "Product",
     "name": "Logitech G Pro X Superlight 2",
     "description": "Best overall competitive gaming mouse",
-    "url": "https://www.amazon.com/dp/B0CSD8YKVD?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CSD8YKVD?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0D5CWHTCK?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0D5CWHTCK?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
@@ -78,7 +78,7 @@ This guide covers the six best gaming mice for competitive play in 2026. No RGB 
 
 | Mouse | Best For | Weight | Sensor | Price Range | Link |
 |-------|----------|--------|--------|-------------|------|
-| **Logitech G Pro X Superlight 2** | Best Overall | ~60g | HERO 2 | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CSD8YKVD?tag=kingledger20-20) |
+| **Logitech G Pro X Superlight 2** | Best Overall | ~60g | HERO 2 | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0D5CWHTCK?tag=kingledger20-20) |
 | **Razer DeathAdder V3** | Best Ergonomic | ~59g | Focus Pro 36K | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CX23VBWB?tag=kingledger20-20) |
 | **Finalmouse UltralightX** | Lightest Mouse | ~42g | Custom | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0DFDFZ25Y?tag=kingledger20-20) |
 | **Pulsar X2** | Best Value | ~56g | PAW3395 | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0CPXGCVHM?tag=kingledger20-20) |
@@ -103,7 +103,7 @@ Now let's break down each pick.
 
 ## 1. Logitech G Pro X Superlight 2 — Best Overall
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0CSD8YKVD?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0D5CWHTCK?tag=kingledger20-20)
 
 The Superlight 2 is the mouse that made every other manufacturer panic. Logitech took the most popular competitive mouse in esports history and made it lighter, more precise, and added their LIGHTFORCE hybrid optical-mechanical switches.
 

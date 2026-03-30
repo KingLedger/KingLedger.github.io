@@ -92,10 +92,10 @@ tags: [dual-monitor, productivity, home-office, monitor-setup, dell-monitor, lg-
     "@type": "Product",
     "name": "VIVO Single Monitor Arm",
     "description": "Budget single monitor arm for flexible setups",
-    "url": "https://www.amazon.com/dp/B0823P6WWB?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B01NH0HTM5?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0823P6WWB?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B01NH0HTM5?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -212,7 +212,7 @@ At ~$155 each, these are among the cheapest IPS monitors worth buying. The build
 | Component | Product | Price |
 |-----------|---------|-------|
 | Monitors (×2) | [ASUS VA24DCP 24"](https://www.amazon.com/dp/B0CTKZSF4Y?tag=kingledger20-20) | ~$195 each |
-| Monitor Arms (×2) | [VIVO Single Monitor Arm](https://www.amazon.com/dp/B0823P6WWB?tag=kingledger20-20) | ~$22 each |
+| Monitor Arms (×2) | [VIVO Single Monitor Arm](https://www.amazon.com/dp/B01NH0HTM5?tag=kingledger20-20) | ~$22 each |
 | USB-C Cable | Included with monitors | $0 |
 | **Total** | | **~$434** |
 
@@ -324,7 +324,7 @@ Every setup above includes a monitor arm because using the stock monitor stands 
 
 Best for: Any setup where you want both monitors on a single pole. Works with monitors up to 27 inches and 22 lbs each. C-clamp or grommet mount. This is the one you want unless you have a specific reason to go with individual arms.
 
-### VIVO Single Monitor Arm (×2) — [~$22 each on Amazon](https://www.amazon.com/dp/B0823P6WWB?tag=kingledger20-20)
+### VIVO Single Monitor Arm (×2) — [~$22 each on Amazon](https://www.amazon.com/dp/B01NH0HTM5?tag=kingledger20-20)
 
 Best for: Setups where you want maximum flexibility — different heights, one portrait + one landscape, or monitors at different angles. Two individual arms give you complete independence.
 
