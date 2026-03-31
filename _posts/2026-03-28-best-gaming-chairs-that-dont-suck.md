@@ -20,8 +20,8 @@ tags: [gaming chairs, ergonomic chairs, Secretlab Titan, Herman Miller Embody, b
     "@type": "Product",
     "name": "Secretlab Titan Evo",
     "description": "Best overall gaming chair",
-    "url": "https://www.amazon.com/dp/B0D8LY1NQF?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0D8LY1NQF?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0B3RL6YFG?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0B3RL6YFG?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
@@ -78,7 +78,7 @@ This guide covers six chairs that actually support your body, your posture, and 
 
 | Chair | Best For | Type | Adjustability | Price Range | Link |
 |-------|----------|------|--------------|-------------|------|
-| **Secretlab Titan Evo** | Best Overall | Gaming/Ergo Hybrid | Excellent | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0D8LY1NQF?tag=kingledger20-20) |
+| **Secretlab Titan Evo** | Best Overall | Gaming/Ergo Hybrid | Excellent | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0B3RL6YFG?tag=kingledger20-20) |
 | **Herman Miller x Logitech Embody** | Best Premium | Ergonomic | Exceptional | $$$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0C8M2JND6?tag=kingledger20-20) |
 | **Autonomous ErgoChair Pro** | Best Mid-Range Ergo | Ergonomic | Great | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0BZR1DK6K?tag=kingledger20-20) |
 | **Razer Iskur V2** | Best Gaming Brand Ergo | Gaming/Ergo Hybrid | Good | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CX5H25R3?tag=kingledger20-20) |
@@ -106,7 +106,7 @@ A proper chair eliminates these issues. Your back is supported. Your posture is 
 
 ## 1. Secretlab Titan Evo — Best Overall
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0D8LY1NQF?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0B3RL6YFG?tag=kingledger20-20)
 
 Secretlab is the rare gaming chair company that actually improved their product based on ergonomic principles rather than just adding more RGB. The Titan Evo is the culmination of that evolution — a chair that looks like a gaming chair but functions like an ergonomic office chair.
 

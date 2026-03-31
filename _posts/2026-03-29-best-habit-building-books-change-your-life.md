@@ -117,7 +117,7 @@ The "celebration" technique — where you give yourself an immediate emotional r
 
 **The classic that started it all.**
 
-[The 7 Habits of Highly Effective People on Amazon](https://www.amazon.com/dp/B09FSMQLMF?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[The 7 Habits of Highly Effective People on Amazon](https://www.amazon.com/dp/1982137274?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Yes, it was published in 1989. No, it hasn't aged a day.
 

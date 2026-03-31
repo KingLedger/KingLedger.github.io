@@ -20,10 +20,10 @@ tags: [fitness-tracker, smartwatch, garmin, apple-watch, whoop, samsung-galaxy-w
     "@type": "Product",
     "name": "Garmin Venu 3",
     "description": "Best overall smartwatch for lifters",
-    "url": "https://www.amazon.com/dp/B0CG3GK171?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0CP8J83BS?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0CG3GK171?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0CP8J83BS?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -114,7 +114,7 @@ I've tested every major wearable from a lifting perspective. Here are the seven 
 
 | Device | Best For | Battery | Strength Tracking | Recovery Score | Price Range | Link |
 |--------|----------|---------|-------------------|---------------|-------------|------|
-| **Garmin Venu 3** | Best overall | ~14 days | ✅ Built-in | ✅ Body Battery | $430-450 | [Check Price](https://www.amazon.com/dp/B0CG3GK171?tag=kingledger20-20) |
+| **Garmin Venu 3** | Best overall | ~14 days | ✅ Built-in | ✅ Body Battery | $430-450 | [Check Price](https://www.amazon.com/dp/B0CP8J83BS?tag=kingledger20-20) |
 | **Apple Watch Ultra 2** | Premium iPhone users | ~36 hours | ✅ Via apps | ❌ Limited | $750-800 | [Check Price](https://www.amazon.com/dp/B0CSVQJB1S?tag=kingledger20-20) |
 | **Apple Watch Series 10** | Everyday + gym | ~18 hours | ✅ Via apps | ❌ Limited | $380-430 | [Check Price](https://www.amazon.com/dp/B0DGJ5MBJZ?tag=kingledger20-20) |
 | **Whoop 4.0** | Recovery obsessed | ~5 days | ❌ Strain only | ✅ Best in class | $239/yr | [Check Price](https://www.amazon.com/dp/B0BWNF8FYH?tag=kingledger20-20) |
@@ -152,7 +152,7 @@ You need something that survives the gym. Stainless steel or titanium cases, sap
 
 ## 1. Garmin Venu 3 — Best Overall for Lifters
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CG3GK171?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0CP8J83BS?tag=kingledger20-20)
 
 The Garmin Venu 3 is the best all-around smartwatch for people who take lifting seriously. It combines Garmin's industry-leading fitness tracking with a bright AMOLED display, built-in strength training mode, and Body Battery recovery metrics — all with a battery that lasts up to two weeks.
 
@@ -482,7 +482,7 @@ The best fitness tracker for lifting isn't the one with the most features — it
 
 Here's the cheat sheet:
 
-- **Best overall for lifters:** [Garmin Venu 3](https://www.amazon.com/dp/B0CG3GK171?tag=kingledger20-20)
+- **Best overall for lifters:** [Garmin Venu 3](https://www.amazon.com/dp/B0CP8J83BS?tag=kingledger20-20)
 - **Best premium (iPhone):** [Apple Watch Ultra 2](https://www.amazon.com/dp/B0CSVQJB1S?tag=kingledger20-20)
 - **Best everyday (iPhone):** [Apple Watch Series 10](https://www.amazon.com/dp/B0DGJ5MBJZ?tag=kingledger20-20)
 - **Best recovery tracking:** [Whoop 4.0](https://www.amazon.com/dp/B0BWNF8FYH?tag=kingledger20-20)

@@ -56,10 +56,10 @@ tags: [gym-bag, fitness-gear, bodybuilding, powerlifting, gym-essentials, king-k
     "@type": "Product",
     "name": "Adidas Defender IV Duffel",
     "description": "Best value gym bag",
-    "url": "https://www.amazon.com/dp/B09GFQMC89?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B087LNCG8P?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B09GFQMC89?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B087LNCG8P?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -95,7 +95,7 @@ These five bags are the ones that survived the gauntlet — built for heavy load
 | **King Kong PLUS26** | Serious lifters | 26L | Built for powerlifting/bodybuilding gear | [Check Price](https://www.amazon.com/dp/B07Z1FZPML?tag=kingledger20-20) |
 | **Rogue Gym Bag** | CrossFit/functional | ~36L | Rogue-quality construction | [Check Price](https://www.amazon.com/dp/B01N2UGI1V?tag=kingledger20-20) |
 | **UA Undeniable 5.0** | Mid-range all-rounder | Multiple sizes | UA Storm water-resistant tech | [Check Price](https://www.amazon.com/dp/B09BZ5PFX5?tag=kingledger20-20) |
-| **Adidas Defender IV** | Best value | Multiple sizes | Great price, solid build | [Check Price](https://www.amazon.com/dp/B09GFQMC89?tag=kingledger20-20) |
+| **Adidas Defender IV** | Best value | Multiple sizes | Great price, solid build | [Check Price](https://www.amazon.com/dp/B087LNCG8P?tag=kingledger20-20) |
 | **Nike Brasilia** | Classic duffel | Multiple sizes | Nike durability, clean design | [Check Price](https://www.amazon.com/dp/B09FY5DFWW?tag=kingledger20-20) |
 
 ## What Makes a Great Gym Bag for Lifters
@@ -233,7 +233,7 @@ The size range is generous. For most lifters, the Medium (58L) hits the sweet sp
 
 ## 4. Adidas Defender IV Duffel — Best Value Gym Bag
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09GFQMC89?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B087LNCG8P?tag=kingledger20-20)
 
 The Adidas Defender IV is proof that you don't need to spend $100+ on a gym bag to get something that works well. At roughly $30-45 depending on size and color, it delivers solid construction, decent organization, and Adidas durability at a price that won't make you think twice.
 
@@ -379,7 +379,7 @@ Here's the summary:
 - **Best overall for lifters:** [King Kong PLUS26](https://www.amazon.com/dp/B07Z1FZPML?tag=kingledger20-20) — designed by lifters, for lifters
 - **Best for CrossFit/functional:** [Rogue Gym Bag](https://www.amazon.com/dp/B01N2UGI1V?tag=kingledger20-20) — overbuilt Rogue quality
 - **Best mid-range:** [UA Undeniable 5.0](https://www.amazon.com/dp/B09BZ5PFX5?tag=kingledger20-20) — water-resistant and versatile
-- **Best value:** [Adidas Defender IV](https://www.amazon.com/dp/B09GFQMC89?tag=kingledger20-20) — solid basics at a great price
+- **Best value:** [Adidas Defender IV](https://www.amazon.com/dp/B087LNCG8P?tag=kingledger20-20) — solid basics at a great price
 - **Best design:** [Nike Brasilia](https://www.amazon.com/dp/B09FY5DFWW?tag=kingledger20-20) — classic Nike look and function
 
 Pick the bag that matches your budget and needs, pack it with the right gear, and go lift something heavy. Need more gear recommendations? Check out our guides on [home gyms under $300](/home-gym-under-300/) and [the best kettlebells for home training](/best-kettlebells-home-gym/).

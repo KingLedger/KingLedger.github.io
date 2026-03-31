@@ -187,7 +187,7 @@ No fire or water certification here — the Honeywell 5207 is a security safe, n
 
 **A serious safe that looks like it belongs in a movie about organized crime. In a good way.**
 
-[TIGERKING Digital Security Safe on Amazon](https://www.amazon.com/dp/B07DKFCBBB?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[TIGERKING Digital Security Safe on Amazon](https://www.amazon.com/dp/B08GKHSDT6?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 TIGERKING doesn't have the brand recognition of SentrySafe or Honeywell, but their safes punch way above their price point. The flagship model gives you 2.05 cubic feet of space behind a steel door with a digital keypad, an interior LED light (underrated feature), and double steel walls filled with a fireproof compound.
 

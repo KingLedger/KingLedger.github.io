@@ -20,15 +20,15 @@ tags: [mechanical keyboards, gaming keyboard, hall effect keyboard, best keyboar
     "@type": "Product",
     "name": "Wooting 80HE",
     "description": "Best overall gaming keyboard - hall effect",
-    "url": "https://www.amazon.com/dp/B0DHWMP1FN?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0DHWMP1FN?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0DY6CZLRM?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0DY6CZLRM?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
     "name": "Razer Huntsman V3 Pro",
     "description": "Best optical switch keyboard for gaming",
-    "url": "https://www.amazon.com/dp/B0CY9G7HXQ?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CY9G7HXQ?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0CQ1KL329?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CQ1KL329?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
@@ -71,8 +71,8 @@ This guide covers the five best mechanical keyboards in 2026 — from bleeding-e
 
 | Keyboard | Best For | Switch Type | Layout | Price Range | Link |
 |----------|----------|-------------|--------|-------------|------|
-| **Wooting 80HE** | Best Overall Gaming | Hall Effect | 75% | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0DHWMP1FN?tag=kingledger20-20) |
-| **Razer Huntsman V3 Pro** | Best Optical Gaming | Analog Optical | TKL/Full | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CY9G7HXQ?tag=kingledger20-20) |
+| **Wooting 80HE** | Best Overall Gaming | Hall Effect | 75% | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0DY6CZLRM?tag=kingledger20-20) |
+| **Razer Huntsman V3 Pro** | Best Optical Gaming | Analog Optical | TKL/Full | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CQ1KL329?tag=kingledger20-20) |
 | **Logitech G Pro X TKL** | Best Wireless Gaming | GX Mechanical | TKL | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CVC5YH14?tag=kingledger20-20) |
 | **Keychron Q1 Pro** | Best Productivity + Gaming | Gateron Pro (Hot-swap) | 75% | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CG9N3DSB?tag=kingledger20-20) |
 | **Ducky One 3** | Best Hot-Swappable Mech | Cherry MX (Hot-swap) | TKL/Full | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0BF3M9VLH?tag=kingledger20-20) |
@@ -95,7 +95,7 @@ Before picking a keyboard, you need to understand the three switch technologies 
 
 ## 1. Wooting 80HE — The Competitive Standard
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0DHWMP1FN?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0DY6CZLRM?tag=kingledger20-20)
 
 The Wooting 80HE is the keyboard that made hall effect mainstream in competitive gaming. It's the board that pros switched to when they realized Rapid Trigger wasn't a gimmick — it was a revolution.
 
@@ -126,7 +126,7 @@ Build quality is solid with a CNC aluminum top frame, PBT keycaps, and gasket mo
 
 ## 2. Razer Huntsman V3 Pro — Optical Precision
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0CY9G7HXQ?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0CQ1KL329?tag=kingledger20-20)
 
 Razer's answer to the hall effect revolution is the Huntsman V3 Pro, featuring their second-generation analog optical switches. Like the Wooting, it offers adjustable actuation (0.1mm to 4.0mm) and Rapid Trigger functionality — but through optical technology instead of magnets.
 

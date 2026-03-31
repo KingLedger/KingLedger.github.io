@@ -41,15 +41,15 @@ tags: [gaming mice, competitive gaming, esports, FPS mouse, lightweight mouse, b
     "@type": "Product",
     "name": "Pulsar X2",
     "description": "Best value competitive mouse",
-    "url": "https://www.amazon.com/dp/B0CPXGCVHM?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CPXGCVHM?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0CH9Z587R?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CH9Z587R?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
     "name": "Zowie EC2-CW",
     "description": "Best for CS2 and tactical shooters",
-    "url": "https://www.amazon.com/dp/B0CHQJS65Y?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CHQJS65Y?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0D1KMMX82?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0D1KMMX82?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
@@ -81,8 +81,8 @@ This guide covers the six best gaming mice for competitive play in 2026. No RGB 
 | **Logitech G Pro X Superlight 2** | Best Overall | ~60g | HERO 2 | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0D5CWHTCK?tag=kingledger20-20) |
 | **Razer DeathAdder V3** | Best Ergonomic | ~59g | Focus Pro 36K | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CX23VBWB?tag=kingledger20-20) |
 | **Finalmouse UltralightX** | Lightest Mouse | ~42g | Custom | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0DFDFZ25Y?tag=kingledger20-20) |
-| **Pulsar X2** | Best Value | ~56g | PAW3395 | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0CPXGCVHM?tag=kingledger20-20) |
-| **Zowie EC2-CW** | Best for CS2/Tactical | ~77g | PAW3370 | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CHQJS65Y?tag=kingledger20-20) |
+| **Pulsar X2** | Best Value | ~56g | PAW3395 | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0CH9Z587R?tag=kingledger20-20) |
+| **Zowie EC2-CW** | Best for CS2/Tactical | ~77g | PAW3370 | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0D1KMMX82?tag=kingledger20-20) |
 | **Endgame Gear OP1we** | Best Claw Grip | ~59g | PAW3395 | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0D42MRSMM?tag=kingledger20-20) |
 
 ---
@@ -178,7 +178,7 @@ The UltralightX uses a custom sensor and runs at 8000Hz polling rate, which mean
 
 ## 4. Pulsar X2 — Best Value Competitor
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0CPXGCVHM?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0CH9Z587R?tag=kingledger20-20)
 
 Pulsar came out of nowhere and built one of the most compelling competitive mice at a price that makes the big brands look greedy. The X2 uses the PAW3395 sensor — the same top-tier sensor used in mice costing twice as much — in a clean, symmetrical shell at around 56 grams.
 
@@ -203,7 +203,7 @@ The shape is reminiscent of the old Sensei / FK lineage that competitive players
 
 ## 5. Zowie EC2-CW — The CS2 Legend
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0CHQJS65Y?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0D1KMMX82?tag=kingledger20-20)
 
 Zowie mice have been the weapon of choice in Counter-Strike for over a decade, and the EC2-CW is the wireless evolution of their most iconic shape. The EC2 is a medium-sized ergonomic mouse that fits like a glove for right-handed palm-to-claw grip players.
 

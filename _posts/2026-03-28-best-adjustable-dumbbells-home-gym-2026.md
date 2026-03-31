@@ -20,10 +20,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "Bowflex SelectTech 552",
     "description": "Best overall adjustable dumbbell for home gym",
-    "url": "https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0G6Z84TQM?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0G6Z84TQM?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "ATIVAFIT Adjustable Dumbbell 71.5 lbs",
     "description": "Best budget adjustable dumbbell",
-    "url": "https://www.amazon.com/dp/B086FGCHT5?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B07S8MZ399?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B086FGCHT5?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B07S8MZ399?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -92,10 +92,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "Yes4All Adjustable Dumbbells",
     "description": "Best classic plate-loaded adjustable dumbbell",
-    "url": "https://www.amazon.com/dp/B005HBIF86?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0BVGC7QGF?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B005HBIF86?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0BVGC7QGF?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -132,11 +132,11 @@ This guide covers the **7 best adjustable dumbbells** worth your money right now
 
 ## 1. Bowflex SelectTech 552 — Best Overall Adjustable Dumbbell
 
-<a href="https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B0G6Z84TQM?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71dAEYksBSL._AC_SL1500_.jpg" alt="Bowflex SelectTech 552 Adjustable Dumbbells" width="600">
 </a>
 
-**ASIN:** B001ARYU58
+**ASIN:** B0G6Z84TQM
 
 There's a reason the SelectTech 552 has been the best-selling adjustable dumbbell for over a decade. It works. The dial system lets you switch between 15 weight settings (5 to 52.5 lbs per hand) in about two seconds. No fumbling with pins. No swapping plates. Just turn and lift.
 
@@ -159,7 +159,7 @@ For most people doing hypertrophy work at home, 52.5 lbs per hand is plenty. Tha
 
 **Verdict:** If you're building your first home gym or need a single do-everything dumbbell, this is the one. The 552 hits the sweet spot of price, weight range, and usability.
 
-<a href="https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B0G6Z84TQM?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 
@@ -271,11 +271,11 @@ For raw weight capacity in a dial-adjust system, nothing else comes close.
 
 ## 5. ATIVAFIT Adjustable Dumbbell 71.5 lbs — Best Budget Option
 
-<a href="https://www.amazon.com/dp/B086FGCHT5?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B07S8MZ399?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71BU7nEX3ML._AC_SL1500_.jpg" alt="ATIVAFIT Adjustable Dumbbell" width="600">
 </a>
 
-**ASIN:** B086FGCHT5
+**ASIN:** B07S8MZ399
 
 The ATIVAFIT delivers surprising value. At roughly half the price of a Bowflex 552 but with a higher max weight (71.5 lbs), it's the entry point for lifters who want adjustable dumbbells without the premium price tag.
 
@@ -301,7 +301,7 @@ If you're equipping a home gym on a budget or you're not sure adjustable dumbbel
 
 **Verdict:** Best value pick. If you want adjustable dumbbells under $300 and don't need the polished feel of premium brands, ATIVAFIT delivers.
 
-<a href="https://www.amazon.com/dp/B086FGCHT5?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B07S8MZ399?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 
@@ -343,11 +343,11 @@ For apartment gyms, small garage setups, or anyone who values aesthetics alongsi
 
 ## 7. Yes4All Adjustable Dumbbells — Best Classic Plate-Loaded
 
-<a href="https://www.amazon.com/dp/B005HBIF86?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B0BVGC7QGF?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/81BeLm1oiVL._AC_SL1500_.jpg" alt="Yes4All Adjustable Dumbbells" width="600">
 </a>
 
-**ASIN:** B005HBIF86
+**ASIN:** B0BVGC7QGF
 
 Sometimes the old ways are the best ways. The Yes4All adjustable dumbbells are classic plate-loaded handles with spin-lock collars — the same design that's been in gyms since the 1950s. No dials. No pins. No mechanisms to break. Just cast iron plates on a chrome handle.
 
@@ -373,7 +373,7 @@ But the price is unbeatable. A 200 lb set (pair) costs less than a single Bowfle
 
 **Verdict:** The no-frills, maximum-value choice. If you want heavy dumbbells at the lowest price and don't mind manual plate changes, Yes4All delivers pure iron reliability.
 
-<a href="https://www.amazon.com/dp/B005HBIF86?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B0BVGC7QGF?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 
