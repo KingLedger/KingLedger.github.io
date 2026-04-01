@@ -68,10 +68,10 @@ tags: [dual-monitor, productivity, home-office, monitor-setup, dell-monitor, lg-
     "@type": "Product",
     "name": "ASUS ProArt PA278QV 27-inch Monitor",
     "description": "Color-accurate 27-inch WQHD monitor for creative work",
-    "url": "https://www.amazon.com/dp/B096LYP7CS?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0B9GSD9V7?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B096LYP7CS?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0B9GSD9V7?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -285,7 +285,7 @@ At 27 inches, 4K scaling at 150% gives you the equivalent screen real estate of 
 
 | Component | Product | Price |
 |-----------|---------|-------|
-| Monitors (×2) | [ASUS ProArt PA278QV 27"](https://www.amazon.com/dp/B096LYP7CS?tag=kingledger20-20) | ~$320 each |
+| Monitors (×2) | [ASUS ProArt PA278QV 27"](https://www.amazon.com/dp/B0B9GSD9V7?tag=kingledger20-20) | ~$320 each |
 | Monitor Arm | [VIVO Dual Monitor Mount](https://www.amazon.com/dp/B009S750LA?tag=kingledger20-20) | ~$30 |
 | **Total** | | **~$670** |
 

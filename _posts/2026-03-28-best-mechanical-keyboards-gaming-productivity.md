@@ -41,8 +41,8 @@ tags: [mechanical keyboards, gaming keyboard, hall effect keyboard, best keyboar
     "@type": "Product",
     "name": "Keychron Q1 Pro",
     "description": "Best for productivity and customization",
-    "url": "https://www.amazon.com/dp/B0CG9N3DSB?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CG9N3DSB?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0BVJ9SNC3?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0BVJ9SNC3?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
@@ -74,7 +74,7 @@ This guide covers the five best mechanical keyboards in 2026 — from bleeding-e
 | **Wooting 80HE** | Best Overall Gaming | Hall Effect | 75% | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0DY6CZLRM?tag=kingledger20-20) |
 | **Razer Huntsman V3 Pro** | Best Optical Gaming | Analog Optical | TKL/Full | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CQ1KL329?tag=kingledger20-20) |
 | **Logitech G Pro X TKL** | Best Wireless Gaming | GX Mechanical | TKL | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CVC5YH14?tag=kingledger20-20) |
-| **Keychron Q1 Pro** | Best Productivity + Gaming | Gateron Pro (Hot-swap) | 75% | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CG9N3DSB?tag=kingledger20-20) |
+| **Keychron Q1 Pro** | Best Productivity + Gaming | Gateron Pro (Hot-swap) | 75% | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0BVJ9SNC3?tag=kingledger20-20) |
 | **Ducky One 3** | Best Hot-Swappable Mech | Cherry MX (Hot-swap) | TKL/Full | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0BF3M9VLH?tag=kingledger20-20) |
 
 ---
@@ -185,7 +185,7 @@ Battery life is excellent at 50+ hours with lighting on, and the keyboard charge
 
 ## 4. Keychron Q1 Pro — The Do-Everything Board
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0CG9N3DSB?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0BVJ9SNC3?tag=kingledger20-20)
 
 The Keychron Q1 Pro is for the player who refuses to have separate keyboards for work and play. This is a premium 75% board with Bluetooth and 2.4GHz wireless, hot-swappable Gateron Pro switches, a full CNC aluminum body, and a gasket mount that makes every keystroke feel buttery.
 

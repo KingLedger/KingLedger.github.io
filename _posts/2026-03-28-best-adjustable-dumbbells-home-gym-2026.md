@@ -32,10 +32,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "PowerBlock Elite EXP",
     "description": "Best adjustable dumbbell for serious lifters",
-    "url": "https://www.amazon.com/dp/B00AU6GOIC?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0BGSJ2WGF?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B00AU6GOIC?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0BGSJ2WGF?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -165,11 +165,11 @@ For most people doing hypertrophy work at home, 52.5 lbs per hand is plenty. Tha
 
 ## 2. PowerBlock Elite EXP — Best for Serious Lifters
 
-<a href="https://www.amazon.com/dp/B00AU6GOIC?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B0BGSJ2WGF?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71K7q%2Bd8TAL._AC_SL1500_.jpg" alt="PowerBlock Elite EXP Adjustable Dumbbells" width="600">
 </a>
 
-**ASIN:** B00AU6GOIC
+**ASIN:** B0BGSJ2WGF
 
 PowerBlock is the dumbbell that serious home gym owners end up with. The nested-weight design feels like nothing else — compact, balanced, and nearly indestructible. The Elite EXP starts at 5–50 lbs per hand but can be expanded to 70 or 90 lbs with add-on kits.
 
@@ -194,7 +194,7 @@ The shape takes adjustment. It's a rectangular block, not a traditional dumbbell
 
 **Verdict:** If you're a lifter who's planning a home gym for the long haul, PowerBlock is the smarter investment. The expandability alone makes it worth the premium.
 
-<a href="https://www.amazon.com/dp/B00AU6GOIC?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B0BGSJ2WGF?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 
