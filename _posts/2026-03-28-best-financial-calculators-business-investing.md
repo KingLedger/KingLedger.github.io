@@ -68,10 +68,10 @@ tags: [financial-calculators, business-tools, investing, ti-ba-ii-plus, hp-12c, 
     "@type": "Product",
     "name": "HP 10bII+ Financial Calculator",
     "description": "Affordable financial calculator for business students and professionals",
-    "url": "https://www.amazon.com/dp/B00EFRQFP0?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0G52ZCYCW?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B00EFRQFP0?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0G52ZCYCW?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -112,7 +112,7 @@ Built not born. Forged by discipline. Know your numbers.
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">HP 12C</td><td style="padding:8px;">Real estate + banking professionals</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00006IQCM?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">HP 12C Platinum</td><td style="padding:8px;">HP 12C power users who want more memory</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B001EYTYL2?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Casio FX-991EX</td><td style="padding:8px;">Scientific + spreadsheet hybrid under $25</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B07JH4RHHV?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">HP 10bII+</td><td style="padding:8px;">Budget-friendly financial calculator</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00EFRQFP0?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">HP 10bII+</td><td style="padding:8px;">Budget-friendly financial calculator</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0G52ZCYCW?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">TI-30X IIS</td><td style="padding:8px;">Basic scientific for students on a budget</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00154GSQA?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
@@ -232,7 +232,7 @@ The calculator also includes over 100 built-in business functions including perc
 
 **Key specs:** Algebraic entry, 12-digit display, 22 memories, NPV/IRR, amortization, bond calculations, 100+ business functions, over 170 total functions.
 
-[Buy on Amazon](https://www.amazon.com/dp/B00EFRQFP0?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0G52ZCYCW?tag=kingledger20-20)
 
 ---
 
