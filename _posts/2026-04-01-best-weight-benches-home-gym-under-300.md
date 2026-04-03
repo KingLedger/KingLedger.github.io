@@ -36,7 +36,7 @@ No fluff. No filler. Just benches that can handle real weight from real lifters.
 
 ### 1. REP Fitness AB-3000 FID Adjustable Bench — Best Overall
 
-**Price:** ~$299 | [Buy on Amazon](https://www.amazon.com/dp/B07BFS9ZMT?tag=kingledger20-20)
+**Price:** ~$299 | [Buy on Amazon](https://www.amazon.com/dp/B099PG9HR7?tag=kingledger20-20)
 
 If you're going to buy one bench for your home gym, make it this one. The REP Fitness AB-3000 is the gold standard for home gym adjustable benches under $300. It's built like a tank with a 1,000 lb weight capacity, and it has the adjustability to handle everything from flat bench press to seated shoulder press to decline work.
 
@@ -60,7 +60,7 @@ The pad is thick and grippy — no sliding around during heavy sets. The adjustm
 
 ### 2. Flybird Adjustable Weight Bench — Best Value
 
-**Price:** ~$140 | [Buy on Amazon](https://www.amazon.com/dp/B07DNYSJ6Y?tag=kingledger20-20)
+**Price:** ~$140 | [Buy on Amazon](https://www.amazon.com/dp/B07DNYSJ8W?tag=kingledger20-20)
 
 The Flybird is the people's bench. It's been the top-selling adjustable bench on Amazon for years, and for good reason — it delivers solid performance at a price that doesn't hurt.
 
@@ -86,7 +86,7 @@ Is it as rock-solid as the REP AB-3000? No. But at roughly half the price, it's 
 
 ### 3. Rogue Flat Utility Bench 2.0 — Best Flat Bench
 
-**Price:** ~$195 | [Buy on Amazon](https://www.amazon.com/dp/B07BHMPCLR?tag=kingledger20-20)
+**Price:** ~$195 | [Buy on Amazon](https://www.amazon.com/dp/B078JZZGBZ?tag=kingledger20-20)
 
 If you know you want a flat bench and you want the best, Rogue delivers. The Flat Utility Bench 2.0 is simple, indestructible, and stable as bedrock. There are no adjustments, no moving parts — just a slab of pad on a steel frame rated for 1,000 lbs.
 
@@ -110,7 +110,7 @@ The height and width are dialed in for proper bench press mechanics. The pad den
 
 ### 4. Amazon Basics Flat Weight Bench — Best Budget Option
 
-**Price:** ~$55 | [Buy on Amazon](https://www.amazon.com/dp/B0BGKRMQYF?tag=kingledger20-20)
+**Price:** ~$55 | [Buy on Amazon](https://www.amazon.com/dp/B0BW5FNNSQ?tag=kingledger20-20)
 
 Sometimes you just need a flat bench that works, and you need it cheap. The Amazon Basics Flat Weight Bench does exactly that. For about $55, you get a functional flat bench with a 440 lb weight capacity.
 
@@ -135,7 +135,7 @@ Is it going to win any awards? No. Will it handle dumbbell presses, step-ups, an
 
 ### 5. PASYOU Adjustable Weight Bench — Best Budget Adjustable
 
-**Price:** ~$110 | [Buy on Amazon](https://www.amazon.com/dp/B0B1PX8RMY?tag=kingledger20-20)
+**Price:** ~$110 | [Buy on Amazon](https://www.amazon.com/dp/B07GQ9NJB4?tag=kingledger20-20)
 
 The PASYOU sits in that sweet spot between "cheap" and "good enough." At around $110, you're getting an adjustable bench with an 830 lb weight capacity, multiple back and seat positions, and a foldable design.
 
@@ -159,7 +159,7 @@ The build quality is a step up from the absolute budget options. It feels sturdi
 
 ### 6. Bowflex 5.1S Stowable Bench — Best for Small Spaces
 
-**Price:** ~$249 | [Buy on Amazon](https://www.amazon.com/dp/B08BHTG3CV?tag=kingledger20-20)
+**Price:** ~$249 | [Buy on Amazon](https://www.amazon.com/dp/B078HRZWHQ?tag=kingledger20-20)
 
 Living room gym? Apartment setup? The Bowflex 5.1S was designed for you. This bench stows upright when not in use, taking up minimal floor space. But don't let the space-saving design fool you — it's a legitimate training bench with six angle positions and a 480 lb weight capacity.
 
@@ -183,7 +183,7 @@ The stowable mechanism is smooth and intuitive. Fold it up, roll it into a corne
 
 ### 7. Cap Barbell Flat/Incline/Decline Bench — Best Budget FID
 
-**Price:** ~$99 | [Buy on Amazon](https://www.amazon.com/dp/B07B3Q42D5?tag=kingledger20-20)
+**Price:** ~$99 | [Buy on Amazon](https://www.amazon.com/dp/B08HMVH2Q5?tag=kingledger20-20)
 
 Getting flat, incline, AND decline for under $100 is rare. The Cap Barbell FID bench makes it happen. It's no-frills — the pad is basic, the frame is straightforward — but it covers all the angles you need for a complete pressing workout.
 
@@ -264,11 +264,11 @@ Generally yes, but it depends on the design. Folding mechanisms create additiona
 
 Every bench on this list earns its spot. Here's the quick decision framework:
 
-- **Best overall:** [REP Fitness AB-3000](https://www.amazon.com/dp/B07BFS9ZMT?tag=kingledger20-20) — if you can stretch to $299, this is the one.
-- **Best value:** [Flybird Adjustable](https://www.amazon.com/dp/B07DNYSJ6Y?tag=kingledger20-20) — the sweet spot of price and performance.
-- **Best flat bench:** [Rogue Flat Utility Bench 2.0](https://www.amazon.com/dp/B07BHMPCLR?tag=kingledger20-20) — buy once, use forever.
-- **Best budget:** [Amazon Basics Flat](https://www.amazon.com/dp/B0BGKRMQYF?tag=kingledger20-20) — gets the job done for $55.
-- **Best for small spaces:** [Bowflex 5.1S](https://www.amazon.com/dp/B08BHTG3CV?tag=kingledger20-20) — stows upright when you're done.
+- **Best overall:** [REP Fitness AB-3000](https://www.amazon.com/dp/B099PG9HR7?tag=kingledger20-20) — if you can stretch to $299, this is the one.
+- **Best value:** [Flybird Adjustable](https://www.amazon.com/dp/B07DNYSJ8W?tag=kingledger20-20) — the sweet spot of price and performance.
+- **Best flat bench:** [Rogue Flat Utility Bench 2.0](https://www.amazon.com/dp/B078JZZGBZ?tag=kingledger20-20) — buy once, use forever.
+- **Best budget:** [Amazon Basics Flat](https://www.amazon.com/dp/B0BW5FNNSQ?tag=kingledger20-20) — gets the job done for $55.
+- **Best for small spaces:** [Bowflex 5.1S](https://www.amazon.com/dp/B078HRZWHQ?tag=kingledger20-20) — stows upright when you're done.
 
 A bench is a long-term investment. Buy the best one you can afford, take care of it, and it'll last longer than any gym membership.
 

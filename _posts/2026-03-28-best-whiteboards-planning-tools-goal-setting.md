@@ -20,10 +20,10 @@ tags: [whiteboards, planning-tools, goal-setting, productivity, dry-erase, glass
     "@type": "Product",
     "name": "VIZ-PRO Magnetic Dry Erase Whiteboard (48 x 36 inches)",
     "description": "Large wall-mounted magnetic whiteboard for goal mapping and planning",
-    "url": "https://www.amazon.com/dp/B01N12LPGA?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B00U3KJGDO?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B01N12LPGA?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B00U3KJGDO?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -32,10 +32,10 @@ tags: [whiteboards, planning-tools, goal-setting, productivity, dry-erase, glass
     "@type": "Product",
     "name": "Audio-Visual Direct Wall Mounted Glass Whiteboard",
     "description": "Premium tempered glass board for a clean modern workspace",
-    "url": "https://www.amazon.com/dp/B07H8B6DYR?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B00HMCIVCI?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B07H8B6DYR?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B00HMCIVCI?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [whiteboards, planning-tools, goal-setting, productivity, dry-erase, glass
     "@type": "Product",
     "name": "Board2by Magnetic Dry Erase Calendar Whiteboard",
     "description": "Monthly calendar whiteboard for planning and tracking goals",
-    "url": "https://www.amazon.com/dp/B074WFZH4J?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B00XK95ZRQ?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B074WFZH4J?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B00XK95ZRQ?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [whiteboards, planning-tools, goal-setting, productivity, dry-erase, glass
     "@type": "Product",
     "name": "EXPO Low-Odor Dry Erase Markers (12-Count Assorted)",
     "description": "Essential dry erase markers for any whiteboard setup",
-    "url": "https://www.amazon.com/dp/B01MRPQJSR?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B00006IFIL?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B01MRPQJSR?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B00006IFIL?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -80,10 +80,10 @@ tags: [whiteboards, planning-tools, goal-setting, productivity, dry-erase, glass
     "@type": "Product",
     "name": "Large Monthly Wall Calendar Dry Erase Planner",
     "description": "Oversized wall calendar for annual goal tracking",
-    "url": "https://www.amazon.com/dp/B0BLNFZDDQ?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B07BMJVRNR?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BLNFZDDQ?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B07BMJVRNR?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -92,10 +92,10 @@ tags: [whiteboards, planning-tools, goal-setting, productivity, dry-erase, glass
     "@type": "Product",
     "name": "Post-it Dry Erase Whiteboard Film Surface",
     "description": "Adhesive whiteboard surface that turns any wall into a whiteboard",
-    "url": "https://www.amazon.com/dp/B003O3DCTY?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B00NC1D5QU?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B003O3DCTY?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B00NC1D5QU?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -120,13 +120,13 @@ Built not born. Forged by discipline. Put it on the wall. Make it real.
 <h2>⚡ Quick Picks</h2>
 <table style="width:100%;border-collapse:collapse;">
 <tr style="border-bottom:2px solid #ddd;"><th style="text-align:left;padding:8px;">Product</th><th style="text-align:left;padding:8px;">Best For</th><th style="text-align:center;padding:8px;">Link</th></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">VIZ-PRO Magnetic Whiteboard (48×36)</td><td style="padding:8px;">Large goal mapping and brainstorming</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01N12LPGA?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Audio-Visual Direct Glass Board</td><td style="padding:8px;">Premium modern workspace aesthetic</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B07H8B6DYR?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Board2by Calendar Whiteboard</td><td style="padding:8px;">Monthly planning and deadline tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B074WFZH4J?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">EXPO Dry Erase Markers (12-ct)</td><td style="padding:8px;">Color-coding goals by category</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01MRPQJSR?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">VIZ-PRO Magnetic Whiteboard (48×36)</td><td style="padding:8px;">Large goal mapping and brainstorming</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00U3KJGDO?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Audio-Visual Direct Glass Board</td><td style="padding:8px;">Premium modern workspace aesthetic</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00HMCIVCI?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Board2by Calendar Whiteboard</td><td style="padding:8px;">Monthly planning and deadline tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00XK95ZRQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">EXPO Dry Erase Markers (12-ct)</td><td style="padding:8px;">Color-coding goals by category</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00006IFIL?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Quartet Glass Desktop Easel</td><td style="padding:8px;">Daily priorities at your desk</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01MFGICQT?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Large Wall Calendar Planner</td><td style="padding:8px;">Annual goal and milestone tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0BLNFZDDQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Post-it Dry Erase Film</td><td style="padding:8px;">Turn any wall into a whiteboard</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B003O3DCTY?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Large Wall Calendar Planner</td><td style="padding:8px;">Annual goal and milestone tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B07BMJVRNR?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Post-it Dry Erase Film</td><td style="padding:8px;">Turn any wall into a whiteboard</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B00NC1D5QU?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
 
@@ -151,7 +151,7 @@ For the money, this is the best value in large whiteboards. It's not a glass boa
 
 **Who it's for:** Anyone building a home command center for goal tracking. If you want to visualize your [financial plan](/best-personal-finance-books-for-men/), business roadmap, or fitness progress, start here.
 
-[Buy on Amazon](https://www.amazon.com/dp/B01N12LPGA?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B00U3KJGDO?tag=kingledger20-20)
 
 ---
 
@@ -171,7 +171,7 @@ The one downside: glass boards are heavier and more expensive than standard whit
 
 **Who it's for:** Home office owners who want their workspace to match their ambition. If you've already invested in a [standing desk](/best-standing-desks-entrepreneurs-under-500/) and [noise-cancelling headphones](/best-noise-cancelling-headphones-deep-work/), this is the next-level addition.
 
-[Buy on Amazon](https://www.amazon.com/dp/B07H8B6DYR?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B00HMCIVCI?tag=kingledger20-20)
 
 ---
 
@@ -195,7 +195,7 @@ Hang it in your home office next to your goal whiteboard. The blank whiteboard s
 
 **Who it's for:** Anyone who struggles with deadlines and time management. If you set goals but fail to break them into time-bound actions, this board forces the conversation. Works perfectly alongside a [daily journal](/best-journals-daily-reflection-goal-tracking/).
 
-[Buy on Amazon](https://www.amazon.com/dp/B074WFZH4J?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B00XK95ZRQ?tag=kingledger20-20)
 
 ---
 
@@ -222,7 +222,7 @@ The low-odor formula is a genuine improvement over standard dry erase markers. Y
 
 **Who it's for:** Everyone with a whiteboard. These are non-negotiable. Whatever board you buy from this list, add these markers to your cart.
 
-[Buy on Amazon](https://www.amazon.com/dp/B01MRPQJSR?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B00006IFIL?tag=kingledger20-20)
 
 ---
 
@@ -269,7 +269,7 @@ Pair this with your goal whiteboard and monthly calendar board for a three-level
 
 **Who it's for:** Strategic thinkers who need to plan across months and quarters. If you're building a business, managing investments, or pursuing multi-month goals, this annual view prevents tunnel vision.
 
-[Buy on Amazon](https://www.amazon.com/dp/B0BLNFZDDQ?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B07BMJVRNR?tag=kingledger20-20)
 
 ---
 
@@ -294,7 +294,7 @@ The writing surface isn't as smooth as a glass board or even a high-quality magn
 
 **Who it's for:** Renters, commitment-phobes, and anyone who wants maximum whiteboard surface with minimum installation. Also great for spaces where wall mounting isn't practical.
 
-[Buy on Amazon](https://www.amazon.com/dp/B003O3DCTY?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B00NC1D5QU?tag=kingledger20-20)
 
 ---
 

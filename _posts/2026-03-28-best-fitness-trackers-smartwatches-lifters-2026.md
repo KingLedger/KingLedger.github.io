@@ -32,10 +32,10 @@ tags: [fitness-tracker, smartwatch, garmin, apple-watch, whoop, samsung-galaxy-w
     "@type": "Product",
     "name": "Apple Watch Ultra 2",
     "description": "Best premium smartwatch for iPhone users who lift",
-    "url": "https://www.amazon.com/dp/B0CSVQJB1S?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0CSVG2GM8?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0CSVQJB1S?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0CSVG2GM8?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [fitness-tracker, smartwatch, garmin, apple-watch, whoop, samsung-galaxy-w
     "@type": "Product",
     "name": "Whoop 4.0",
     "description": "Best recovery and strain tracker for serious athletes",
-    "url": "https://www.amazon.com/dp/B0BWNF8FYH?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0B4N6B93J?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BWNF8FYH?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0B4N6B93J?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [fitness-tracker, smartwatch, garmin, apple-watch, whoop, samsung-galaxy-w
     "@type": "Product",
     "name": "Samsung Galaxy Watch 6 Classic",
     "description": "Best smartwatch for Android users who lift",
-    "url": "https://www.amazon.com/dp/B0C79918SR?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0BDTJG3S2?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0C79918SR?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0BDTJG3S2?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -80,10 +80,10 @@ tags: [fitness-tracker, smartwatch, garmin, apple-watch, whoop, samsung-galaxy-w
     "@type": "Product",
     "name": "Garmin Instinct 2X Solar",
     "description": "Best rugged tracker for lifters on a budget",
-    "url": "https://www.amazon.com/dp/B0BX4N8V4S?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B09NMKGRMZ?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BX4N8V4S?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B09NMKGRMZ?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -92,10 +92,10 @@ tags: [fitness-tracker, smartwatch, garmin, apple-watch, whoop, samsung-galaxy-w
     "@type": "Product",
     "name": "Fitbit Charge 6",
     "description": "Best budget fitness band for basic gym tracking",
-    "url": "https://www.amazon.com/dp/B0CCQD4N1P?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B09QS2VZ6Q?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0CCQD4N1P?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B09QS2VZ6Q?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -115,12 +115,12 @@ I've tested every major wearable from a lifting perspective. Here are the seven 
 | Device | Best For | Battery | Strength Tracking | Recovery Score | Price Range | Link |
 |--------|----------|---------|-------------------|---------------|-------------|------|
 | **Garmin Venu 3** | Best overall | ~14 days | ✅ Built-in | ✅ Body Battery | $430-450 | [Check Price](https://www.amazon.com/dp/B0CP8J83BS?tag=kingledger20-20) |
-| **Apple Watch Ultra 2** | Premium iPhone users | ~36 hours | ✅ Via apps | ❌ Limited | $750-800 | [Check Price](https://www.amazon.com/dp/B0CSVQJB1S?tag=kingledger20-20) |
+| **Apple Watch Ultra 2** | Premium iPhone users | ~36 hours | ✅ Via apps | ❌ Limited | $750-800 | [Check Price](https://www.amazon.com/dp/B0CSVG2GM8?tag=kingledger20-20) |
 | **Apple Watch Series 10** | Everyday + gym | ~18 hours | ✅ Via apps | ❌ Limited | $380-430 | [Check Price](https://www.amazon.com/dp/B0DGJ1GR5D?tag=kingledger20-20) |
-| **Whoop 4.0** | Recovery obsessed | ~5 days | ❌ Strain only | ✅ Best in class | $239/yr | [Check Price](https://www.amazon.com/dp/B0BWNF8FYH?tag=kingledger20-20) |
-| **Samsung Galaxy Watch 6** | Android lifters | ~40 hours | ✅ Via Samsung Health | ✅ Basic | $280-350 | [Check Price](https://www.amazon.com/dp/B0C79918SR?tag=kingledger20-20) |
-| **Garmin Instinct 2X** | Rugged + budget | ~24+ days | ✅ Basic | ✅ Body Battery | $350-400 | [Check Price](https://www.amazon.com/dp/B0BX4N8V4S?tag=kingledger20-20) |
-| **Fitbit Charge 6** | Budget band | ~7 days | ❌ Basic | ✅ Readiness Score | $130-160 | [Check Price](https://www.amazon.com/dp/B0CCQD4N1P?tag=kingledger20-20) |
+| **Whoop 4.0** | Recovery obsessed | ~5 days | ❌ Strain only | ✅ Best in class | $239/yr | [Check Price](https://www.amazon.com/dp/B0B4N6B93J?tag=kingledger20-20) |
+| **Samsung Galaxy Watch 6** | Android lifters | ~40 hours | ✅ Via Samsung Health | ✅ Basic | $280-350 | [Check Price](https://www.amazon.com/dp/B0BDTJG3S2?tag=kingledger20-20) |
+| **Garmin Instinct 2X** | Rugged + budget | ~24+ days | ✅ Basic | ✅ Body Battery | $350-400 | [Check Price](https://www.amazon.com/dp/B09NMKGRMZ?tag=kingledger20-20) |
+| **Fitbit Charge 6** | Budget band | ~7 days | ❌ Basic | ✅ Readiness Score | $130-160 | [Check Price](https://www.amazon.com/dp/B09QS2VZ6Q?tag=kingledger20-20) |
 
 ---
 
@@ -193,7 +193,7 @@ Battery life is the other killer advantage. Two weeks between charges means you 
 
 ## 2. Apple Watch Ultra 2 — Best Premium Pick for iPhone Users
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CSVQJB1S?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0CSVG2GM8?tag=kingledger20-20)
 
 The Apple Watch Ultra 2 is a tank. Titanium case, sapphire crystal, and the most durable Apple Watch ever made. If you're already in the Apple ecosystem and want a watch that can handle heavy lifting sessions without worry, this is the premium choice.
 
@@ -268,7 +268,7 @@ If you're not slamming your watch against barbells regularly, the aluminum Serie
 
 ## 4. Whoop 4.0 — Best for Recovery-Focused Athletes
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BWNF8FYH?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0B4N6B93J?tag=kingledger20-20)
 
 Whoop isn't a smartwatch. It doesn't tell time, show notifications, or play music. It does one thing: measure your body's strain, recovery, and sleep with obsessive precision. And it does that one thing better than anything else on the market.
 
@@ -311,7 +311,7 @@ The subscription model is polarizing. $239/year is either a bargain for the reco
 
 ## 5. Samsung Galaxy Watch 6 Classic — Best for Android Lifters
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C79918SR?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0BDTJG3S2?tag=kingledger20-20)
 
 If you're on Android, the Galaxy Watch 6 Classic is your best option for a smartwatch that works well in the gym. The rotating bezel is a genuinely useful interface during workouts (no need to smudge the touchscreen with sweaty fingers), and Samsung Health has solid strength workout tracking built in.
 
@@ -349,7 +349,7 @@ Samsung Health's strength training mode tracks exercises, rest periods, and hear
 
 ## 6. Garmin Instinct 2X Solar — Best Rugged Budget Option
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BX4N8V4S?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B09NMKGRMZ?tag=kingledger20-20)
 
 If you want a watch that's virtually indestructible and don't care about a pretty AMOLED display, the Garmin Instinct 2X Solar is built for punishment. Fiber-reinforced polymer case, Corning Gorilla Glass, MIL-STD-810 military durability, and solar charging that extends the already-massive battery life.
 
@@ -389,7 +389,7 @@ The trade-off is the display. It's a monochrome MIP (memory-in-pixel) display �
 
 ## 7. Fitbit Charge 6 — Best Budget Fitness Band
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CCQD4N1P?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B09QS2VZ6Q?tag=kingledger20-20)
 
 Not everyone needs a full smartwatch. The Fitbit Charge 6 is a slim fitness band that handles basic gym tracking, provides a Daily Readiness Score, and costs under $160. It's the entry point for lifters who want data without the bulk or price of a full smartwatch.
 
@@ -483,12 +483,12 @@ The best fitness tracker for lifting isn't the one with the most features — it
 Here's the cheat sheet:
 
 - **Best overall for lifters:** [Garmin Venu 3](https://www.amazon.com/dp/B0CP8J83BS?tag=kingledger20-20)
-- **Best premium (iPhone):** [Apple Watch Ultra 2](https://www.amazon.com/dp/B0CSVQJB1S?tag=kingledger20-20)
+- **Best premium (iPhone):** [Apple Watch Ultra 2](https://www.amazon.com/dp/B0CSVG2GM8?tag=kingledger20-20)
 - **Best everyday (iPhone):** [Apple Watch Series 10](https://www.amazon.com/dp/B0DGJ1GR5D?tag=kingledger20-20)
-- **Best recovery tracking:** [Whoop 4.0](https://www.amazon.com/dp/B0BWNF8FYH?tag=kingledger20-20)
-- **Best for Android:** [Samsung Galaxy Watch 6 Classic](https://www.amazon.com/dp/B0C79918SR?tag=kingledger20-20)
-- **Best rugged/budget:** [Garmin Instinct 2X Solar](https://www.amazon.com/dp/B0BX4N8V4S?tag=kingledger20-20)
-- **Best budget band:** [Fitbit Charge 6](https://www.amazon.com/dp/B0CCQD4N1P?tag=kingledger20-20)
+- **Best recovery tracking:** [Whoop 4.0](https://www.amazon.com/dp/B0B4N6B93J?tag=kingledger20-20)
+- **Best for Android:** [Samsung Galaxy Watch 6 Classic](https://www.amazon.com/dp/B0BDTJG3S2?tag=kingledger20-20)
+- **Best rugged/budget:** [Garmin Instinct 2X Solar](https://www.amazon.com/dp/B09NMKGRMZ?tag=kingledger20-20)
+- **Best budget band:** [Fitbit Charge 6](https://www.amazon.com/dp/B09QS2VZ6Q?tag=kingledger20-20)
 
 Track your training. Optimize your recovery. Build the body you want with data, not guesswork.
 
