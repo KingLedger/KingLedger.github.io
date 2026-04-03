@@ -56,10 +56,10 @@ tags: [best-real-estate-investing-books, real-estate-books-for-beginners, real-e
     "@type": "Product",
     "name": "Real Estate Investing Gone Bad",
     "description": "Learning from others' costly mistakes",
-    "url": "https://www.amazon.com/dp/1500343544?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/1947200089?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/1500343544?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/1947200089?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -95,7 +95,7 @@ These are the **5 best real estate investing books for beginners** — each one 
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Rich Dad Poor Dad</td><td style="padding:8px;">Mindset shift on assets vs liabilities</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/1612681131?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Book on Rental Property Investing</td><td style="padding:8px;">Step-by-step rental property guide</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/099071179X?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Millionaire Real Estate Investor</td><td style="padding:8px;">Scaling a real estate portfolio</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/0071446370?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Real Estate Investing Gone Bad</td><td style="padding:8px;">Learning from others' costly mistakes</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/1500343544?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Real Estate Investing Gone Bad</td><td style="padding:8px;">Learning from others' costly mistakes</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/1947200089?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Cash Flow Analysis for RE Investors</td><td style="padding:8px;">Mastering the numbers and analysis</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/1259586189?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
@@ -188,7 +188,7 @@ Pustejovsky doesn't just tell the horror stories — he extracts the lesson from
 
 **Key takeaway:** The best investors aren't the ones who find the most deals — they're the ones who avoid the worst deals. Learning from other people's failures is cheaper than learning from your own.
 
-[Buy on Amazon](https://www.amazon.com/dp/1500343544?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/1947200089?tag=kingledger20-20)
 
 ---
 

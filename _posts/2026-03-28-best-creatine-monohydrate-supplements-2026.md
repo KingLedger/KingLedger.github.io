@@ -20,10 +20,10 @@ tags: [creatine, creatine-monohydrate, supplements, muscle-building, strength-tr
     "@type": "Product",
     "name": "Thorne Creatine",
     "description": "Best premium creatine for purity and testing",
-    "url": "https://www.amazon.com/dp/B0021F6AHW?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B002DYIZEO?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0021F6AHW?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B002DYIZEO?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [creatine, creatine-monohydrate, supplements, muscle-building, strength-tr
     "@type": "Product",
     "name": "Transparent Labs Creatine HMB",
     "description": "Best creatine + HMB combo",
-    "url": "https://www.amazon.com/dp/B08N5VCVRL?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B07NQJLJ7V?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B08N5VCVRL?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B07NQJLJ7V?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -92,9 +92,9 @@ The only question is which brand to buy. Here are the five best options in 2026.
 
 | Product | Best For | Form | Key Feature | Link |
 |---------|----------|------|-------------|------|
-| **Thorne Creatine** | Premium purity | Powder | NSF Certified for Sport, Creapure® | [Check Price](https://www.amazon.com/dp/B0021F6AHW?tag=kingledger20-20) |
+| **Thorne Creatine** | Premium purity | Powder | NSF Certified for Sport, Creapure® | [Check Price](https://www.amazon.com/dp/B002DYIZEO?tag=kingledger20-20) |
 | **Optimum Nutrition Micronized** | Best overall | Powder | Creapure®, micronized for mixing | [Check Price](https://www.amazon.com/dp/B002DYIZEO?tag=kingledger20-20) |
-| **Transparent Labs Creatine HMB** | Creatine + extras | Powder | Added HMB and Vitamin D | [Check Price](https://www.amazon.com/dp/B08N5VCVRL?tag=kingledger20-20) |
+| **Transparent Labs Creatine HMB** | Creatine + extras | Powder | Added HMB and Vitamin D | [Check Price](https://www.amazon.com/dp/B07NQJLJ7V?tag=kingledger20-20) |
 | **NOW Sports Creatine** | Budget pick | Powder | Clean label, great price | [Check Price](https://www.amazon.com/dp/B0013OXD38?tag=kingledger20-20) |
 | **Nutricost Creatine** | Ultra-budget bulk | Powder | Cheapest per serving | [Check Price](https://www.amazon.com/dp/B0013OXD38?tag=kingledger20-20) |
 
@@ -120,7 +120,7 @@ This isn't marginal stuff. For a natural supplement, creatine's effects are genu
 
 ## 1. Thorne Creatine — Best Premium Creatine
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0021F6AHW?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B002DYIZEO?tag=kingledger20-20)
 
 Thorne is the gold standard in supplement quality. They're used by Olympic athletes, professional sports teams (including multiple NFL and NBA teams), and the Mayo Clinic. Their creatine monohydrate uses Creapure® — the purest form of creatine available, manufactured in Germany under strict quality standards.
 
@@ -186,7 +186,7 @@ The 240-serving tub is the sweet spot for value — you're looking at roughly $0
 
 ## 3. Transparent Labs Creatine HMB — Best Creatine Combo
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08N5VCVRL?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B07NQJLJ7V?tag=kingledger20-20)
 
 If you want more than just creatine in your creatine supplement, Transparent Labs offers a compelling formula that adds HMB and Vitamin D3 to the standard creatine monohydrate base. It's a three-in-one approach that simplifies your supplement stack.
 
@@ -341,9 +341,9 @@ Creatine monohydrate is arguably the only supplement that every serious lifter s
 
 Here's the cheat sheet:
 
-- **Maximum purity and testing:** [Thorne Creatine](https://www.amazon.com/dp/B0021F6AHW?tag=kingledger20-20)
+- **Maximum purity and testing:** [Thorne Creatine](https://www.amazon.com/dp/B002DYIZEO?tag=kingledger20-20)
 - **Best overall value:** [Optimum Nutrition Micronized](https://www.amazon.com/dp/B002DYIZEO?tag=kingledger20-20)
-- **Best combo formula:** [Transparent Labs Creatine HMB](https://www.amazon.com/dp/B08N5VCVRL?tag=kingledger20-20)
+- **Best combo formula:** [Transparent Labs Creatine HMB](https://www.amazon.com/dp/B07NQJLJ7V?tag=kingledger20-20)
 - **Budget-friendly:** [NOW Sports Creatine](https://www.amazon.com/dp/B0013OXD38?tag=kingledger20-20)
 - **Ultra-budget:** [Nutricost Creatine](https://www.amazon.com/dp/B0013OXD38?tag=kingledger20-20)
 

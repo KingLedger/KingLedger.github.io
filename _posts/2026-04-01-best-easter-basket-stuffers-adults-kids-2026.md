@@ -72,7 +72,7 @@ If you're building a basket for a Cadbury loyalist, the mini eggs (candy-coated 
 
 **The art set that makes kids' eyes go wide.**
 
-[Crayola Inspiration Art Case on Amazon](https://www.amazon.com/dp/B00CI6J5FS?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Crayola Inspiration Art Case on Amazon](https://www.amazon.com/dp/B07CKLWN84?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 140 pieces including crayons, colored pencils, washable markers, and paper — all in a carrying case that makes the kid feel like a professional artist. This set has been a bestseller for years because it delivers that moment of "whoa, all of this is mine?" that cheap basket toys never achieve.
 
@@ -100,7 +100,7 @@ Non-toxic, easy cleanup, and it keeps kids occupied for hours. That last part is
 
 **For the kid who thinks regular Easter baskets are "boring."**
 
-[National Geographic Slime Kit on Amazon](https://www.amazon.com/dp/B09BZM4DPJ?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[National Geographic Slime Kit on Amazon](https://www.amazon.com/dp/B079KD1LSF?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 If the child in your life has declared traditional toys beneath them (it happens earlier every year), the Nat Geo slime kit is the play. Eight different types of slime — glow-in-the-dark, fluffy, crunchy, glitter — plus the STEM angle means you can tell yourself it's educational.
 

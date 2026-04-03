@@ -60,7 +60,7 @@ The interior has a carpeted floor, a key rack, a door tray, and a deep shelf. It
 
 **Real protection for under $80. No excuses left.**
 
-[Amazon Basics Security Safe on Amazon](https://www.amazon.com/dp/B01LZRASNG?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Amazon Basics Security Safe on Amazon](https://www.amazon.com/dp/B005P0Z4YE?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Let's address the elephant in the room: not everyone needs a 90-pound fireproof vault. If you're renting an apartment, starting out financially, or just need a locked steel box for cash and documents, the Amazon Basics Security Safe delivers legitimate security for a fraction of what the big names charge.
 
@@ -91,7 +91,7 @@ The electronic lock runs on 4 AA batteries (included) and has a backup key overr
 
 **Your fingerprint is the key. Open it in under two seconds.**
 
-[Verifi Smart.Safe. S6000 on Amazon](https://www.amazon.com/dp/B01KUQZBZ0?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Verifi Smart.Safe. S6000 on Amazon](https://www.amazon.com/dp/B07BFBSYLJ?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Biometric safes used to be gimmicky trash. Fingerprint readers that worked 60% of the time, false rejections when your hands were wet, and enough failed attempts to make you grab a crowbar and open your own safe.
 
@@ -125,7 +125,7 @@ No fire rating on this one — it's designed for fast access to valuables, not d
 
 **Designed to survive the flood your insurance company swears won't happen.**
 
-[First Alert 2087F-BD on Amazon](https://www.amazon.com/dp/B00HNOOSMA?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[First Alert 2087F-BD on Amazon](https://www.amazon.com/dp/B008HZXKSI?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Most safes market "waterproof" as an afterthought. The First Alert 2087F makes it the headline. It's independently verified to protect contents in up to 24 inches of water — three times deeper than most competitors — which matters more than you think if you're in a flood zone, a basement, or anywhere that plumbing disasters happen.
 
@@ -156,7 +156,7 @@ The 0.94 cubic foot interior is smaller than the SentrySafe, but the trade-off i
 
 **The sweet spot between size, security, and price.**
 
-[Honeywell 5207 on Amazon](https://www.amazon.com/dp/B013T6GKYA?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Honeywell 5207 on Amazon](https://www.amazon.com/dp/B00MRL7QRU?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 The Honeywell 5207 hits a gap in the market that most manufacturers ignore: medium-capacity safes with digital locks that don't cost a mortgage payment. At 2.81 cubic feet, it's more than double the interior space of most safes on this list, with a programmable digital lock, two live-locking bolts, and concealed hinges.
 
@@ -218,7 +218,7 @@ The fire protection isn't UL Certified, but the manufacturer claims 30 minutes a
 
 **TSA-approved. Cable lock. Take your valuables on the road.**
 
-[SentrySafe T0-331 on Amazon](https://www.amazon.com/dp/B07LGSR9Y2?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[SentrySafe T0-331 on Amazon](https://www.amazon.com/dp/B00UG9TLHO?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Not every security need involves bolting a 90-pound box to your floor. Sometimes you're in a hotel, an Airbnb, or a co-working space and you need to lock down a laptop, passport, or cash stash while you're out.
 

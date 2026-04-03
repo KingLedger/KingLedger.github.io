@@ -56,10 +56,10 @@ tags: [blenders, protein-shakes, meal-prep, vitamix, ninja, nutribullet, blendje
     "@type": "Product",
     "name": "BlendJet 2",
     "description": "Best portable blender for gym bags",
-    "url": "https://www.amazon.com/dp/B09KGYC2H6?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0CX23V8GJ?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B09KGYC2H6?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0CX23V8GJ?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [blenders, protein-shakes, meal-prep, vitamix, ninja, nutribullet, blendje
     "@type": "Product",
     "name": "Ninja Nutri-Blender Pro",
     "description": "Best mid-range personal blender",
-    "url": "https://www.amazon.com/dp/B09QHSK6FH?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B09B3BJ4LR?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B09QHSK6FH?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B09B3BJ4LR?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -83,7 +83,7 @@ tags: [blenders, protein-shakes, meal-prep, vitamix, ninja, nutribullet, blendje
     "url": "https://www.amazon.com/dp/B0758JHZM3?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B074Z5FRQ7?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B085BQFH53?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -117,9 +117,9 @@ Here's what I've learned: **spend more than $20 on a blender, but you don't need
 | **Vitamix E310** | Best overall | 1,400W | 48 oz | $290-350 | [Check Price](https://www.amazon.com/dp/B0758JHZM3?tag=kingledger20-20) |
 | **Ninja Professional Plus** | Best value full-size | 1,400W | 72 oz | $90-120 | [Check Price](https://www.amazon.com/dp/B0758JHZM3?tag=kingledger20-20) |
 | **NutriBullet Pro 900** | Best personal blender | 900W | 32 oz | $60-80 | [Check Price](https://www.amazon.com/dp/B007TIE0GQ?tag=kingledger20-20) |
-| **BlendJet 2** | Best portable | 150W | 16 oz | $40-50 | [Check Price](https://www.amazon.com/dp/B09KGYC2H6?tag=kingledger20-20) |
-| **Ninja Nutri-Blender Pro** | Best mid-range personal | 1,100W | 24 oz | $60-80 | [Check Price](https://www.amazon.com/dp/B09QHSK6FH?tag=kingledger20-20) |
-| **Vitamix A2300** | Best premium | 1,640W | 64 oz | $450-550 | [Check Price](https://www.amazon.com/dp/B074Z5FRQ7?tag=kingledger20-20) |
+| **BlendJet 2** | Best portable | 150W | 16 oz | $40-50 | [Check Price](https://www.amazon.com/dp/B0CX23V8GJ?tag=kingledger20-20) |
+| **Ninja Nutri-Blender Pro** | Best mid-range personal | 1,100W | 24 oz | $60-80 | [Check Price](https://www.amazon.com/dp/B09B3BJ4LR?tag=kingledger20-20) |
+| **Vitamix A2300** | Best premium | 1,640W | 64 oz | $450-550 | [Check Price](https://www.amazon.com/dp/B085BQFH53?tag=kingledger20-20) |
 | **Hamilton Beach Wave Crusher** | Best budget | 700W | 40 oz | $30-40 | [Check Price](https://www.amazon.com/dp/B00EI7DPI0?tag=kingledger20-20) |
 
 ---
@@ -237,7 +237,7 @@ For a standard protein shake — scoop of whey, frozen banana, handful of spinac
 
 ## 4. BlendJet 2 — Best Portable Blender
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09KGYC2H6?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0CX23V8GJ?tag=kingledger20-20)
 
 The BlendJet 2 is a rechargeable, truly portable blender that fits in your gym bag. USB-C charging, 16-ounce capacity, and enough power to blend a basic protein shake anywhere — the gym locker room, your car, the office, wherever you need it.
 
@@ -274,7 +274,7 @@ Where the BlendJet shines is the use case that no other blender fills: post-work
 
 ## 5. Ninja Nutri-Blender Pro — Best Mid-Range Personal Blender
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09QHSK6FH?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B09B3BJ4LR?tag=kingledger20-20)
 
 The Ninja Nutri-Blender Pro bridges the gap between the NutriBullet and a full-size blender. At 1,100 watts, it's significantly more powerful than the NutriBullet Pro 900, handles frozen ingredients better, and still gives you the blend-and-go single-serve convenience.
 
@@ -310,7 +310,7 @@ The Auto-iQ feature runs a timed blend-and-pulse sequence that takes the guesswo
 
 ## 6. Vitamix A2300 Ascent Series — Best Premium Smart Blender
 
-[Check Price on Amazon](https://www.amazon.com/dp/B074Z5FRQ7?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B085BQFH53?tag=kingledger20-20)
 
 If budget isn't a concern and you want the absolute best blender money can buy, the Vitamix A2300 Ascent is it. Everything the E310 does, plus programmable timers, a digital display, and compatibility with the Vitamix app for guided recipes and nutritional data.
 
@@ -461,9 +461,9 @@ Here's the cheat sheet:
 - **Best overall:** [Vitamix E310 Explorian](https://www.amazon.com/dp/B0758JHZM3?tag=kingledger20-20)
 - **Best value full-size:** [Ninja Professional Plus](https://www.amazon.com/dp/B0758JHZM3?tag=kingledger20-20)
 - **Best personal blender:** [NutriBullet Pro 900](https://www.amazon.com/dp/B007TIE0GQ?tag=kingledger20-20)
-- **Best portable:** [BlendJet 2](https://www.amazon.com/dp/B09KGYC2H6?tag=kingledger20-20)
-- **Best mid-range personal:** [Ninja Nutri-Blender Pro](https://www.amazon.com/dp/B09QHSK6FH?tag=kingledger20-20)
-- **Best premium:** [Vitamix A2300 Ascent](https://www.amazon.com/dp/B074Z5FRQ7?tag=kingledger20-20)
+- **Best portable:** [BlendJet 2](https://www.amazon.com/dp/B0CX23V8GJ?tag=kingledger20-20)
+- **Best mid-range personal:** [Ninja Nutri-Blender Pro](https://www.amazon.com/dp/B09B3BJ4LR?tag=kingledger20-20)
+- **Best premium:** [Vitamix A2300 Ascent](https://www.amazon.com/dp/B085BQFH53?tag=kingledger20-20)
 - **Best budget:** [Hamilton Beach Wave Crusher](https://www.amazon.com/dp/B00EI7DPI0?tag=kingledger20-20)
 
 Fuel the machine. Built Not Born. Forged by discipline.

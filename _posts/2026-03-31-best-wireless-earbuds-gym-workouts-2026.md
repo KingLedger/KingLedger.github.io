@@ -63,7 +63,7 @@ The only real weakness? The charging case is slightly bulky compared to competit
 
 **Military-grade tough. Built for people who destroy everything they own.**
 
-[Jabra Elite 8 Active on Amazon](https://www.amazon.com/dp/B0DCS14B9H?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Jabra Elite 8 Active on Amazon](https://www.amazon.com/dp/B0BVR7M5FH?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Jabra didn't just make the Elite 8 Active sweatproof. They made it **MIL-STD-810H certified** — the same durability standard applied to military equipment. Drop them, step on them, sweat on them, rinse them under the faucet. They'll survive all of it.
 
@@ -130,7 +130,7 @@ The downside: these are mediocre on Android. You lose most smart features, Spati
 
 **For people who need to hear their surroundings. Runners, outdoor lifters, and anyone who trains where awareness matters.**
 
-[Shokz OpenRun Pro on Amazon](https://www.amazon.com/dp/B0D7TPJLYQ?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Shokz OpenRun Pro on Amazon](https://www.amazon.com/dp/B09BVBVDBV?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Bone conduction earbuds don't go in your ear. They sit on your cheekbones and vibrate sound directly into your skull. Yes, it sounds weird. No, it doesn't feel weird. And the benefit is enormous: **your ears stay completely open.** You can hear traffic, conversations, gym announcements, and someone asking to work in — all while your music plays.
 
@@ -164,7 +164,7 @@ The trade-off is real though: in a loud gym, the open-ear design means your musi
 
 **The Android equivalent of AirPods Pro. If you've got a Samsung phone, stop looking.**
 
-[Samsung Galaxy Buds2 Pro on Amazon](https://www.amazon.com/dp/B0CCX1L4GH?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Samsung Galaxy Buds2 Pro on Amazon](https://www.amazon.com/dp/B0B2SH4CN6?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Samsung's Galaxy Buds2 Pro deliver a premium earbud experience that's specifically optimized for Samsung Galaxy devices — though they work well with any Android phone. The 24-bit Hi-Fi audio and intelligent ANC create a listening experience that rivals (and sometimes beats) AirPods Pro 2 on sound quality alone.
 
@@ -198,7 +198,7 @@ Battery life is the weak spot: 5 hours with ANC on, 18 hours total with the case
 
 **Premium features at a mid-range price. JBL punching way above its weight class.**
 
-[JBL Reflect Aero on Amazon](https://www.amazon.com/dp/B0B6GHYRVY?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[JBL Reflect Aero on Amazon](https://www.amazon.com/dp/B09JQS6VZP?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 JBL has been making workout-focused earbuds for years, and the Reflect Aero is the culmination of everything they've learned. You get Adaptive Noise Cancelling, IP68 dust and water resistance (matching Jabra's military-grade rating), and JBL's signature bass-forward sound — all at roughly $100 less than the premium competitors.
 

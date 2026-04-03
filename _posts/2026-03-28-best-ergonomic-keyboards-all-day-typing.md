@@ -32,10 +32,10 @@ tags: [ergonomic-keyboard, productivity, typing, home-office, logitech-k860, kin
     "@type": "Product",
     "name": "Kinesis Advantage360",
     "description": "Best premium split keyboard for programmers",
-    "url": "https://www.amazon.com/dp/B0C1Y4YPC6?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B07YWKM62D?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0C1Y4YPC6?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B07YWKM62D?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [ergonomic-keyboard, productivity, typing, home-office, logitech-k860, kin
     "@type": "Product",
     "name": "ZSA Moonlander",
     "description": "Best fully customizable split keyboard",
-    "url": "https://www.amazon.com/dp/B09LTY5MT5?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0931YGX1T?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B09LTY5MT5?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0931YGX1T?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [ergonomic-keyboard, productivity, typing, home-office, logitech-k860, kin
     "@type": "Product",
     "name": "Keychron Q11",
     "description": "Best split mechanical keyboard for the price",
-    "url": "https://www.amazon.com/dp/B0BZTRL874?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B09J72K4WN?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BZTRL874?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B09J72K4WN?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -91,9 +91,9 @@ I've tested all five keyboards below extensively. Here's who should buy what.
 | Keyboard | Best For | Price Range | Connection |
 |----------|----------|-------------|------------|
 | [Logitech Ergo K860](https://www.amazon.com/dp/B07ZWK2TQT?tag=kingledger20-20) | Best overall | ~$120 | Bluetooth / USB receiver |
-| [Kinesis Advantage360](https://www.amazon.com/dp/B0C1Y4YPC6?tag=kingledger20-20) | Programmers & power users | ~$449 | Bluetooth / USB |
-| [ZSA Moonlander](https://www.amazon.com/dp/B09LTY5MT5?tag=kingledger20-20) | Full customization | ~$365 | USB-C |
-| [Keychron Q11](https://www.amazon.com/dp/B0BZTRL874?tag=kingledger20-20) | Split mechanical on a budget | ~$205 | USB-C / Bluetooth |
+| [Kinesis Advantage360](https://www.amazon.com/dp/B07YWKM62D?tag=kingledger20-20) | Programmers & power users | ~$449 | Bluetooth / USB |
+| [ZSA Moonlander](https://www.amazon.com/dp/B0931YGX1T?tag=kingledger20-20) | Full customization | ~$365 | USB-C |
+| [Keychron Q11](https://www.amazon.com/dp/B09J72K4WN?tag=kingledger20-20) | Split mechanical on a budget | ~$205 | USB-C / Bluetooth |
 | [Microsoft Sculpt](https://www.amazon.com/dp/B00CYX26BC?tag=kingledger20-20) | Budget-friendly ergo | ~$45 | USB receiver |
 
 ---
@@ -135,7 +135,7 @@ The key feel is membrane, not mechanical. The keys are quiet, mushy, and low-pro
 
 **Best Premium Split Keyboard for Programmers**
 
-[Check price on Amazon](https://www.amazon.com/dp/B0C1Y4YPC6?tag=kingledger20-20)
+[Check price on Amazon](https://www.amazon.com/dp/B07YWKM62D?tag=kingledger20-20)
 
 The Advantage360 is the keyboard that serious professionals obsess over. It's a fully split design with concave key wells that match the natural curl of your fingers. Instead of your fingers stretching flat across a plane, they drop into sculpted bowls. It sounds weird. It feels incredible.
 
@@ -170,7 +170,7 @@ The adjustment period is brutal — expect 2–4 weeks of significantly slower t
 
 **Best Fully Customizable Split Keyboard**
 
-[Check price on Amazon](https://www.amazon.com/dp/B09LTY5MT5?tag=kingledger20-20)
+[Check price on Amazon](https://www.amazon.com/dp/B0931YGX1T?tag=kingledger20-20)
 
 The Moonlander is the keyboard for people who want to control *everything*. Every single key is remappable through ZSA's Oryx web configurator — a visual tool that makes building custom layouts surprisingly intuitive. You can create multiple layers (like holding a key to turn your home row into a number pad), set tap-vs-hold behaviors, and build macros.
 
@@ -203,7 +203,7 @@ The Moonlander connects via USB-C (no Bluetooth). The two halves connect to each
 
 **Best Split Mechanical Keyboard for the Price**
 
-[Check price on Amazon](https://www.amazon.com/dp/B0BZTRL874?tag=kingledger20-20)
+[Check price on Amazon](https://www.amazon.com/dp/B09J72K4WN?tag=kingledger20-20)
 
 The Q11 is the split keyboard for people who want mechanical quality without Kinesis/ZSA pricing. It's a full-size split design with a CNC aluminum body that feels like a premium product — because it is one.
 

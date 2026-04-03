@@ -20,10 +20,10 @@ tags: [tax-software, turbotax, hr-block, taxact, freetaxusa, cash-app-taxes, tax
     "@type": "Product",
     "name": "TurboTax Deluxe + State 2025",
     "description": "Best overall tax software for most filers",
-    "url": "https://www.amazon.com/dp/B0DGB1SY8C?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0DFWV63FW?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0DGB1SY8C?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0DFWV63FW?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [tax-software, turbotax, hr-block, taxact, freetaxusa, cash-app-taxes, tax
     "@type": "Product",
     "name": "H&R Block Deluxe + State 2025",
     "description": "Best value for itemizers",
-    "url": "https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [tax-software, turbotax, hr-block, taxact, freetaxusa, cash-app-taxes, tax
     "@type": "Product",
     "name": "H&R Block Premium & Business 2025",
     "description": "Best for self-employed and business owners",
-    "url": "https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -92,10 +92,10 @@ Let me break down the six best options so you can pick the right one and stop pr
 
 | Software | Best For | Federal Price | State Price | Key Feature | Link |
 |----------|----------|--------------|-------------|-------------|------|
-| **TurboTax Deluxe** | Most filers | ~$60-90 | ~$50 | Best UI, smart guidance | [Check Price](https://www.amazon.com/dp/B0DGB1SY8C?tag=kingledger20-20) |
+| **TurboTax Deluxe** | Most filers | ~$60-90 | ~$50 | Best UI, smart guidance | [Check Price](https://www.amazon.com/dp/B0DFWV63FW?tag=kingledger20-20) |
 | **TurboTax Premier** | Investors | ~$90-120 | ~$50 | Investment income optimization | [Check Price](https://www.amazon.com/dp/B0DGBYXM26?tag=kingledger20-20) |
-| **H&R Block Deluxe** | Itemizers | ~$45-55 | ~$40 | Best value for paid software | [Check Price](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20) |
-| **H&R Block Premium** | Self-employed | ~$75-90 | ~$40 | Schedule C + business deductions | [Check Price](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20) |
+| **H&R Block Deluxe** | Itemizers | ~$45-55 | ~$40 | Best value for paid software | [Check Price](https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20) |
+| **H&R Block Premium** | Self-employed | ~$75-90 | ~$40 | Schedule C + business deductions | [Check Price](https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20) |
 | **TaxAct Deluxe** | Budget-conscious | ~$35-50 | ~$40 | Solid mid-range option | [Check Price](https://www.amazon.com/dp/B0DL5SKJQX?tag=kingledger20-20) |
 | **FreeTaxUSA** | Simple returns | Free | ~$15 | Free federal, cheap state | [FreeTaxUSA.com](https://www.freetaxusa.com) |
 
@@ -103,7 +103,7 @@ Let me break down the six best options so you can pick the right one and stop pr
 
 ## 1. TurboTax Deluxe + State — Best Overall for Most Filers
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DGB1SY8C?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0DFWV63FW?tag=kingledger20-20)
 
 TurboTax is the 800-pound gorilla of tax software, and there's a reason it dominates the market. The user interface is the best in the business — clean, conversational, and genuinely good at translating complicated tax situations into plain English questions.
 
@@ -172,7 +172,7 @@ For crypto holders, TurboTax Premier integrates with major exchanges to import y
 
 ## 3. H&R Block Deluxe + State — Best Value for Itemizers
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20)
 
 H&R Block has been doing taxes since 1955, and their software reflects that deep institutional knowledge. The Deluxe tier handles itemized deductions, HSA contributions, student loan interest, and most common tax situations — at a lower price than TurboTax.
 
@@ -207,7 +207,7 @@ The interface isn't as sleek as TurboTax, but it's perfectly functional. Think H
 
 ## 4. H&R Block Premium & Business — Best for Self-Employed
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20)
 
 Running a side hustle? Freelancing? Have an LLC or sole proprietorship? H&R Block Premium & Business is designed specifically for self-employed filers and small business owners. It handles Schedule C, quarterly estimated tax calculations, and business deductions that lower-tier products miss.
 
@@ -388,10 +388,10 @@ If your tax situation involves a business with employees, S-Corp or partnership 
 
 Tax season isn't exciting, but filing efficiently is a legitimate financial skill. The right software saves you time, catches deductions, and keeps you compliant. Here's the cheat sheet:
 
-- **Best overall experience:** [TurboTax Deluxe](https://www.amazon.com/dp/B0DGB1SY8C?tag=kingledger20-20)
+- **Best overall experience:** [TurboTax Deluxe](https://www.amazon.com/dp/B0DFWV63FW?tag=kingledger20-20)
 - **Best for investors:** [TurboTax Premier](https://www.amazon.com/dp/B0DGBYXM26?tag=kingledger20-20)
-- **Best value (paid):** [H&R Block Deluxe](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20)
-- **Best for self-employed:** [H&R Block Premium & Business](https://www.amazon.com/dp/B0DCSXVPFY?tag=kingledger20-20)
+- **Best value (paid):** [H&R Block Deluxe](https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20)
+- **Best for self-employed:** [H&R Block Premium & Business](https://www.amazon.com/dp/B0DFS3DWR3?tag=kingledger20-20)
 - **Best mid-range:** [TaxAct Deluxe](https://www.amazon.com/dp/B0DL5SKJQX?tag=kingledger20-20)
 - **Best free option:** [FreeTaxUSA](https://www.freetaxusa.com)
 

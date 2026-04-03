@@ -32,10 +32,10 @@ tags: [desk-accessories, home-office, productivity, entrepreneur, monitor-arm, d
     "@type": "Product",
     "name": "YSAGi Leather Desk Mat",
     "description": "Best desk mat for a clean, professional workspace",
-    "url": "https://www.amazon.com/dp/B08R8J3CZK?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B08PF7TDFL?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B08R8J3CZK?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B08PF7TDFL?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [desk-accessories, home-office, productivity, entrepreneur, monitor-arm, d
     "@type": "Product",
     "name": "JOTO Cable Management Sleeve",
     "description": "Best cable management solution for a tidy desk",
-    "url": "https://www.amazon.com/dp/B07HMYRBTV?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B012ONNO8E?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B07HMYRBTV?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B012ONNO8E?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [desk-accessories, home-office, productivity, entrepreneur, monitor-arm, d
     "@type": "Product",
     "name": "Under Desk Cable Management Tray",
     "description": "Best under-desk cable tray for hiding wires",
-    "url": "https://www.amazon.com/dp/B0BG54L4TN?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B07WJ8XBRF?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BG54L4TN?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B07WJ8XBRF?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -92,10 +92,10 @@ tags: [desk-accessories, home-office, productivity, entrepreneur, monitor-arm, d
     "@type": "Product",
     "name": "Anker 313 Wireless Charger",
     "description": "Best wireless charger for a cable-free desk",
-    "url": "https://www.amazon.com/dp/B07THHQMHQ?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0753GRNQZ?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B07THHQMHQ?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0753GRNQZ?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -104,10 +104,10 @@ tags: [desk-accessories, home-office, productivity, entrepreneur, monitor-arm, d
     "@type": "Product",
     "name": "FITUEYES Monitor Stand Riser",
     "description": "Best desk shelf for elevating your monitor",
-    "url": "https://www.amazon.com/dp/B078GQRPML?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B07D4JRLGL?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B078GQRPML?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B07D4JRLGL?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -125,13 +125,13 @@ I've tested dozens of desk accessories over the years, and these are the ones th
 | Product | Best For | Price Range |
 |---------|----------|-------------|
 | [VIVO Dual Monitor Arm](https://www.amazon.com/dp/B009S750LA?tag=kingledger20-20) | Dual monitor setup | ~$30 |
-| [YSAGi Desk Mat](https://www.amazon.com/dp/B08R8J3CZK?tag=kingledger20-20) | Desk protection & aesthetics | ~$13 |
-| [JOTO Cable Management Sleeve](https://www.amazon.com/dp/B07HMYRBTV?tag=kingledger20-20) | Cable organization | ~$10 |
-| [Under Desk Cable Tray](https://www.amazon.com/dp/B0BG54L4TN?tag=kingledger20-20) | Hiding cables underneath | ~$16 |
+| [YSAGi Desk Mat](https://www.amazon.com/dp/B08PF7TDFL?tag=kingledger20-20) | Desk protection & aesthetics | ~$13 |
+| [JOTO Cable Management Sleeve](https://www.amazon.com/dp/B012ONNO8E?tag=kingledger20-20) | Cable organization | ~$10 |
+| [Under Desk Cable Tray](https://www.amazon.com/dp/B07WJ8XBRF?tag=kingledger20-20) | Hiding cables underneath | ~$16 |
 | [Anker 8-in-1 USB-C Hub](https://www.amazon.com/dp/B086H3FMPZ?tag=kingledger20-20) | Port expansion | ~$35 |
 | [Meshist Desk Organizer](https://www.amazon.com/dp/B08SLS9W72?tag=kingledger20-20) | Desktop storage | ~$18 |
-| [Anker 313 Wireless Charger](https://www.amazon.com/dp/B07THHQMHQ?tag=kingledger20-20) | Phone charging | ~$16 |
-| [FITUEYES Monitor Stand Riser](https://www.amazon.com/dp/B078GQRPML?tag=kingledger20-20) | Monitor elevation + storage | ~$26 |
+| [Anker 313 Wireless Charger](https://www.amazon.com/dp/B0753GRNQZ?tag=kingledger20-20) | Phone charging | ~$16 |
+| [FITUEYES Monitor Stand Riser](https://www.amazon.com/dp/B07D4JRLGL?tag=kingledger20-20) | Monitor elevation + storage | ~$26 |
 
 ---
 
@@ -165,7 +165,7 @@ The C-clamp installation takes about 10 minutes and works on desks up to 4 inche
 
 **Best Desk Mat for a Clean, Professional Workspace**
 
-[Check price on Amazon](https://www.amazon.com/dp/B08R8J3CZK?tag=kingledger20-20)
+[Check price on Amazon](https://www.amazon.com/dp/B08PF7TDFL?tag=kingledger20-20)
 
 A desk mat sounds unnecessary until you use one. It protects your desk surface from scratches, provides a smooth mousing area, and instantly makes your setup look more put-together.
 
@@ -191,7 +191,7 @@ The dual-sided design means you can flip it for a different color when you want 
 
 **Best Cable Management Combo for a Tidy Desk**
 
-[Check sleeve price on Amazon](https://www.amazon.com/dp/B07HMYRBTV?tag=kingledger20-20) | [Check tray price on Amazon](https://www.amazon.com/dp/B0BG54L4TN?tag=kingledger20-20)
+[Check sleeve price on Amazon](https://www.amazon.com/dp/B012ONNO8E?tag=kingledger20-20) | [Check tray price on Amazon](https://www.amazon.com/dp/B07WJ8XBRF?tag=kingledger20-20)
 
 Nothing screams "I don't have my life together" like a rat's nest of cables hanging off your desk. The combo of the JOTO cable sleeve and an under-desk cable tray solves this completely.
 
@@ -274,7 +274,7 @@ I keep mine next to my monitor with pens, a notepad, charging cables, and my Air
 
 **Best Wireless Charger for a Cable-Free Desk**
 
-[Check price on Amazon](https://www.amazon.com/dp/B07THHQMHQ?tag=kingledger20-20)
+[Check price on Amazon](https://www.amazon.com/dp/B0753GRNQZ?tag=kingledger20-20)
 
 One less cable on your desk. Drop your phone on the pad, it charges. Pick it up, it stops. No fumbling with Lightning or USB-C cables while you're in the middle of something.
 
@@ -300,7 +300,7 @@ At around $16, it's practically disposable, but it's lasted me over a year witho
 
 **Best Desk Shelf for Elevating Your Monitor**
 
-[Check price on Amazon](https://www.amazon.com/dp/B078GQRPML?tag=kingledger20-20)
+[Check price on Amazon](https://www.amazon.com/dp/B07D4JRLGL?tag=kingledger20-20)
 
 If you're not ready for a full monitor arm, a riser is the next best thing. The FITUEYES stand elevates your monitor to a more ergonomic height and creates storage space underneath for your keyboard, notebooks, or peripherals.
 

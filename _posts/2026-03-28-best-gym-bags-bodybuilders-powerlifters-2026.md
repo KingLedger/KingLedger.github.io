@@ -20,10 +20,10 @@ tags: [gym-bag, fitness-gear, bodybuilding, powerlifting, gym-essentials, king-k
     "@type": "Product",
     "name": "King Kong Apparel PLUS26",
     "description": "Best overall gym bag for serious lifters",
-    "url": "https://www.amazon.com/dp/B07Z1FZPML?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B07MKCFN25?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B07Z1FZPML?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B07MKCFN25?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -32,10 +32,10 @@ tags: [gym-bag, fitness-gear, bodybuilding, powerlifting, gym-essentials, king-k
     "@type": "Product",
     "name": "Rogue Gym Bag",
     "description": "Best for CrossFit and functional fitness athletes",
-    "url": "https://www.amazon.com/dp/B01N2UGI1V?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B01N2UGI1V?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [gym-bag, fitness-gear, bodybuilding, powerlifting, gym-essentials, king-k
     "@type": "Product",
     "name": "Under Armour Undeniable 5.0 Duffle",
     "description": "Best mid-range option with great organization",
-    "url": "https://www.amazon.com/dp/B09BZ5PFX5?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B09BZ5PFX5?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [gym-bag, fitness-gear, bodybuilding, powerlifting, gym-essentials, king-k
     "@type": "Product",
     "name": "Nike Brasilia Training Duffel",
     "description": "Best classic duffel design",
-    "url": "https://www.amazon.com/dp/B09FY5DFWW?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B001O0CGZI?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B09FY5DFWW?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B001O0CGZI?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -92,11 +92,11 @@ These five bags are the ones that survived the gauntlet — built for heavy load
 
 | Product | Best For | Capacity | Key Feature | Link |
 |---------|----------|----------|-------------|------|
-| **King Kong PLUS26** | Serious lifters | 26L | Built for powerlifting/bodybuilding gear | [Check Price](https://www.amazon.com/dp/B07Z1FZPML?tag=kingledger20-20) |
-| **Rogue Gym Bag** | CrossFit/functional | ~36L | Rogue-quality construction | [Check Price](https://www.amazon.com/dp/B01N2UGI1V?tag=kingledger20-20) |
-| **UA Undeniable 5.0** | Mid-range all-rounder | Multiple sizes | UA Storm water-resistant tech | [Check Price](https://www.amazon.com/dp/B09BZ5PFX5?tag=kingledger20-20) |
+| **King Kong PLUS26** | Serious lifters | 26L | Built for powerlifting/bodybuilding gear | [Check Price](https://www.amazon.com/dp/B07MKCFN25?tag=kingledger20-20) |
+| **Rogue Gym Bag** | CrossFit/functional | ~36L | Rogue-quality construction | [Check Price](https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20) |
+| **UA Undeniable 5.0** | Mid-range all-rounder | Multiple sizes | UA Storm water-resistant tech | [Check Price](https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20) |
 | **Adidas Defender IV** | Best value | Multiple sizes | Great price, solid build | [Check Price](https://www.amazon.com/dp/B087LNCG8P?tag=kingledger20-20) |
-| **Nike Brasilia** | Classic duffel | Multiple sizes | Nike durability, clean design | [Check Price](https://www.amazon.com/dp/B09FY5DFWW?tag=kingledger20-20) |
+| **Nike Brasilia** | Classic duffel | Multiple sizes | Nike durability, clean design | [Check Price](https://www.amazon.com/dp/B001O0CGZI?tag=kingledger20-20) |
 
 ## What Makes a Great Gym Bag for Lifters
 
@@ -116,7 +116,7 @@ Before we get into the reviews, let's talk about what actually matters in a gym 
 
 ## 1. King Kong Apparel PLUS26 — Best Overall for Serious Lifters
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07Z1FZPML?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B07MKCFN25?tag=kingledger20-20)
 
 King Kong Apparel was founded specifically for strength athletes, and it shows. While other brands make gym bags as an afterthought in their product line, King Kong designs every bag with powerlifters, bodybuilders, and strongman competitors as the primary customer. The PLUS26 is their flagship — purpose-built for people who carry serious gear.
 
@@ -156,7 +156,7 @@ At 26 liters, the PLUS26 is large enough for a full powerlifting meet kit (belt,
 
 ## 2. Rogue Gym Bag — Best for CrossFit and Functional Fitness
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01N2UGI1V?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20)
 
 Rogue Fitness is synonymous with quality in the strength training world. Their equipment is the standard in CrossFit boxes, powerlifting gyms, and home setups worldwide. Their gym bag maintains that reputation — it's overbuilt, straightforward, and designed to survive abuse.
 
@@ -194,7 +194,7 @@ The Rogue name carries weight in the gym community. It's immediately recognizabl
 
 ## 3. Under Armour Undeniable 5.0 — Best Mid-Range All-Rounder
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09BZ5PFX5?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20)
 
 Under Armour's Undeniable series has been a go-to gym bag for athletes across every sport, and version 5.0 refines what was already a solid formula. It's not specifically designed for strength athletes like the King Kong, but it's an excellent all-around bag that handles lifting gear well.
 
@@ -275,7 +275,7 @@ The color and design options are extensive. Adidas offers the Defender IV in doz
 
 ## 5. Nike Brasilia Training Duffel — Best Classic Duffel Design
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09FY5DFWW?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B001O0CGZI?tag=kingledger20-20)
 
 Nike's Brasilia line has been a gym staple for years. The training duffel version offers Nike's build quality and design sensibility in a straightforward package that works for everything from daily training to weekend trips.
 
@@ -376,11 +376,11 @@ Your gym bag is something you use every single day. It carries your most importa
 
 Here's the summary:
 
-- **Best overall for lifters:** [King Kong PLUS26](https://www.amazon.com/dp/B07Z1FZPML?tag=kingledger20-20) — designed by lifters, for lifters
-- **Best for CrossFit/functional:** [Rogue Gym Bag](https://www.amazon.com/dp/B01N2UGI1V?tag=kingledger20-20) — overbuilt Rogue quality
-- **Best mid-range:** [UA Undeniable 5.0](https://www.amazon.com/dp/B09BZ5PFX5?tag=kingledger20-20) — water-resistant and versatile
+- **Best overall for lifters:** [King Kong PLUS26](https://www.amazon.com/dp/B07MKCFN25?tag=kingledger20-20) — designed by lifters, for lifters
+- **Best for CrossFit/functional:** [Rogue Gym Bag](https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20) — overbuilt Rogue quality
+- **Best mid-range:** [UA Undeniable 5.0](https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20) — water-resistant and versatile
 - **Best value:** [Adidas Defender IV](https://www.amazon.com/dp/B087LNCG8P?tag=kingledger20-20) — solid basics at a great price
-- **Best design:** [Nike Brasilia](https://www.amazon.com/dp/B09FY5DFWW?tag=kingledger20-20) — classic Nike look and function
+- **Best design:** [Nike Brasilia](https://www.amazon.com/dp/B001O0CGZI?tag=kingledger20-20) — classic Nike look and function
 
 Pick the bag that matches your budget and needs, pack it with the right gear, and go lift something heavy. Need more gear recommendations? Check out our guides on [home gyms under $300](/home-gym-under-300/) and [the best kettlebells for home training](/best-kettlebells-home-gym/).
 

@@ -32,10 +32,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "PowerBlock Elite EXP",
     "description": "Best adjustable dumbbell for serious lifters",
-    "url": "https://www.amazon.com/dp/B0BGSJ2WGF?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B00GQ4H2DI?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BGSJ2WGF?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B00GQ4H2DI?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "NUOBELL 80LB Adjustable Dumbbells",
     "description": "Best premium adjustable dumbbell with traditional feel",
-    "url": "https://www.amazon.com/dp/B0BHGQY4QZ?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B078HDGG7H?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BHGQY4QZ?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B078HDGG7H?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -56,10 +56,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "Bowflex SelectTech 1090",
     "description": "Best heavy adjustable dumbbell for advanced lifters",
-    "url": "https://www.amazon.com/dp/B000OC5RXE?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0098MAYNY?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B000OC5RXE?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0098MAYNY?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "ATIVAFIT Adjustable Dumbbell 71.5 lbs",
     "description": "Best budget adjustable dumbbell",
-    "url": "https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B078HDGG7H?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B078HDGG7H?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -80,10 +80,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "MX Select MX55 Adjustable Dumbbells",
     "description": "Best compact adjustable dumbbell system",
-    "url": "https://www.amazon.com/dp/B006RUOPFE?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B01LR5S0AC?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B006RUOPFE?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B01LR5S0AC?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -165,11 +165,11 @@ For most people doing hypertrophy work at home, 52.5 lbs per hand is plenty. Tha
 
 ## 2. PowerBlock Elite EXP — Best for Serious Lifters
 
-<a href="https://www.amazon.com/dp/B0BGSJ2WGF?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B00GQ4H2DI?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71K7q%2Bd8TAL._AC_SL1500_.jpg" alt="PowerBlock Elite EXP Adjustable Dumbbells" width="600">
 </a>
 
-**ASIN:** B0BGSJ2WGF
+**ASIN:** B00GQ4H2DI
 
 PowerBlock is the dumbbell that serious home gym owners end up with. The nested-weight design feels like nothing else — compact, balanced, and nearly indestructible. The Elite EXP starts at 5–50 lbs per hand but can be expanded to 70 or 90 lbs with add-on kits.
 
@@ -194,17 +194,17 @@ The shape takes adjustment. It's a rectangular block, not a traditional dumbbell
 
 **Verdict:** If you're a lifter who's planning a home gym for the long haul, PowerBlock is the smarter investment. The expandability alone makes it worth the premium.
 
-<a href="https://www.amazon.com/dp/B0BGSJ2WGF?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B00GQ4H2DI?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 
 ## 3. NUOBELL 80LB — Best Premium with Traditional Feel
 
-<a href="https://www.amazon.com/dp/B0BHGQY4QZ?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B078HDGG7H?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/61uXoSTpJTL._AC_SL1500_.jpg" alt="NUOBELL 80LB Adjustable Dumbbells" width="600">
 </a>
 
-**ASIN:** B0BHGQY4QZ
+**ASIN:** B078HDGG7H
 
 The NUOBELL is what happens when someone asks "what if an adjustable dumbbell actually looked and felt like a normal dumbbell?" The answer: it costs more, and it's worth it.
 
@@ -229,17 +229,17 @@ The build quality is premium. Swedish engineering, steel construction, minimal p
 
 **Verdict:** If budget isn't the primary concern and you want adjustable dumbbells that feel like the real thing, NUOBELL is the gold standard. Period.
 
-<a href="https://www.amazon.com/dp/B0BHGQY4QZ?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B078HDGG7H?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 
 ## 4. Bowflex SelectTech 1090 — Best for Heavy Lifting
 
-<a href="https://www.amazon.com/dp/B000OC5RXE?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B0098MAYNY?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71Q3kj5FH0L._AC_SL1500_.jpg" alt="Bowflex SelectTech 1090 Adjustable Dumbbells" width="600">
 </a>
 
-**ASIN:** B000OC5RXE
+**ASIN:** B0098MAYNY
 
 Same SelectTech dial system as the 552, but the 1090 goes from 10 to 90 lbs per hand. If you're an intermediate to advanced lifter who needs more than 52.5 lbs for heavy rows, presses, and single-leg work, this is the upgrade.
 
@@ -265,17 +265,17 @@ For raw weight capacity in a dial-adjust system, nothing else comes close.
 
 **Verdict:** Advanced lifters who train heavy at home and want the convenience of dial adjustment. Pair with lighter fixed dumbbells for isolation work.
 
-<a href="https://www.amazon.com/dp/B000OC5RXE?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B0098MAYNY?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 
 ## 5. ATIVAFIT Adjustable Dumbbell 71.5 lbs — Best Budget Option
 
-<a href="https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B078HDGG7H?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71BU7nEX3ML._AC_SL1500_.jpg" alt="ATIVAFIT Adjustable Dumbbell" width="600">
 </a>
 
-**ASIN:** B001ARYU58
+**ASIN:** B078HDGG7H
 
 The ATIVAFIT delivers surprising value. At roughly half the price of a Bowflex 552 but with a higher max weight (71.5 lbs), it's the entry point for lifters who want adjustable dumbbells without the premium price tag.
 
@@ -301,17 +301,17 @@ If you're equipping a home gym on a budget or you're not sure adjustable dumbbel
 
 **Verdict:** Best value pick. If you want adjustable dumbbells under $300 and don't need the polished feel of premium brands, ATIVAFIT delivers.
 
-<a href="https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B078HDGG7H?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 
 ## 6. MX Select MX55 — Best for Compact Spaces
 
-<a href="https://www.amazon.com/dp/B006RUOPFE?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B01LR5S0AC?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71IqIjKh6nL._AC_SL1500_.jpg" alt="MX Select MX55 Adjustable Dumbbells" width="600">
 </a>
 
-**ASIN:** B006RUOPFE
+**ASIN:** B01LR5S0AC
 
 The MX55 is the dark horse of adjustable dumbbells. Made in South Korea with a unique rotating cradle system, it goes from 10 to 55 lbs per hand and changes weight by simply turning a dial on the included stand.
 
@@ -337,7 +337,7 @@ For apartment gyms, small garage setups, or anyone who values aesthetics alongsi
 
 **Verdict:** Best choice if you're training in a small space and want dumbbells that don't look like industrial equipment. Clean design, solid function, 55 lb max.
 
-<a href="https://www.amazon.com/dp/B006RUOPFE?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B01LR5S0AC?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 

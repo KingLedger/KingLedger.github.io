@@ -20,15 +20,15 @@ tags: [gaming mice, competitive gaming, esports, FPS mouse, lightweight mouse, b
     "@type": "Product",
     "name": "Logitech G Pro X Superlight 2",
     "description": "Best overall competitive gaming mouse",
-    "url": "https://www.amazon.com/dp/B0D5CWHTCK?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0D5CWHTCK?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B093LRF7MR?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B093LRF7MR?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
     "name": "Razer DeathAdder V3",
     "description": "Best ergonomic competitive mouse",
-    "url": "https://www.amazon.com/dp/B0CX23VBWB?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CX23VBWB?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0BWLFNMVZ?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0BWLFNMVZ?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
@@ -48,15 +48,15 @@ tags: [gaming mice, competitive gaming, esports, FPS mouse, lightweight mouse, b
     "@type": "Product",
     "name": "Zowie EC2-CW",
     "description": "Best for CS2 and tactical shooters",
-    "url": "https://www.amazon.com/dp/B0CQ7MQJVY?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CQ7MQJVY?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0CJ4HL2ZW?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CJ4HL2ZW?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
     "name": "Endgame Gear OP1we",
     "description": "Best claw grip competitive mouse",
-    "url": "https://www.amazon.com/dp/B0D42MRSMM?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0D42MRSMM?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B07W6JG6MV?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B07W6JG6MV?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   }
   ]
 }
@@ -78,12 +78,12 @@ This guide covers the six best gaming mice for competitive play in 2026. No RGB 
 
 | Mouse | Best For | Weight | Sensor | Price Range | Link |
 |-------|----------|--------|--------|-------------|------|
-| **Logitech G Pro X Superlight 2** | Best Overall | ~60g | HERO 2 | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0D5CWHTCK?tag=kingledger20-20) |
-| **Razer DeathAdder V3** | Best Ergonomic | ~59g | Focus Pro 36K | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CX23VBWB?tag=kingledger20-20) |
+| **Logitech G Pro X Superlight 2** | Best Overall | ~60g | HERO 2 | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B093LRF7MR?tag=kingledger20-20) |
+| **Razer DeathAdder V3** | Best Ergonomic | ~59g | Focus Pro 36K | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0BWLFNMVZ?tag=kingledger20-20) |
 | **Finalmouse UltralightX** | Lightest Mouse | ~42g | Custom | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0DFDFZ25Y?tag=kingledger20-20) |
 | **Pulsar X2** | Best Value | ~56g | PAW3395 | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0CH9Z587R?tag=kingledger20-20) |
-| **Zowie EC2-CW** | Best for CS2/Tactical | ~77g | PAW3370 | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CQ7MQJVY?tag=kingledger20-20) |
-| **Endgame Gear OP1we** | Best Claw Grip | ~59g | PAW3395 | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0D42MRSMM?tag=kingledger20-20) |
+| **Zowie EC2-CW** | Best for CS2/Tactical | ~77g | PAW3370 | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CJ4HL2ZW?tag=kingledger20-20) |
+| **Endgame Gear OP1we** | Best Claw Grip | ~59g | PAW3395 | $$ | [Buy on Amazon](https://www.amazon.com/dp/B07W6JG6MV?tag=kingledger20-20) |
 
 ---
 
@@ -103,7 +103,7 @@ Now let's break down each pick.
 
 ## 1. Logitech G Pro X Superlight 2 — Best Overall
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0D5CWHTCK?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B093LRF7MR?tag=kingledger20-20)
 
 The Superlight 2 is the mouse that made every other manufacturer panic. Logitech took the most popular competitive mouse in esports history and made it lighter, more precise, and added their LIGHTFORCE hybrid optical-mechanical switches.
 
@@ -129,7 +129,7 @@ The safe, ambidextrous shape works for nearly every grip style. It's the Honda C
 
 ## 2. Razer DeathAdder V3 — Best Ergonomic Shape
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0CX23VBWB?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0BWLFNMVZ?tag=kingledger20-20)
 
 The DeathAdder shape has been a staple in competitive gaming for over a decade, and the V3 is the best version they've ever made. This is a proper ergonomic right-handed mouse — it fills your palm, supports your ring finger, and lets you aim with your entire arm instead of just your wrist.
 
@@ -203,7 +203,7 @@ The shape is reminiscent of the old Sensei / FK lineage that competitive players
 
 ## 5. Zowie EC2-CW — The CS2 Legend
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0CQ7MQJVY?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0CJ4HL2ZW?tag=kingledger20-20)
 
 Zowie mice have been the weapon of choice in Counter-Strike for over a decade, and the EC2-CW is the wireless evolution of their most iconic shape. The EC2 is a medium-sized ergonomic mouse that fits like a glove for right-handed palm-to-claw grip players.
 
@@ -230,7 +230,7 @@ The CW version adds wireless capability with a clean, reliable connection and de
 
 ## 6. Endgame Gear OP1we — The Claw Grip Specialist
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0D42MRSMM?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B07W6JG6MV?tag=kingledger20-20)
 
 The OP1we is a precision instrument designed specifically for claw grip players. The shape is unique — a high hump positioned towards the back with steep sides that lock your fingers into an aggressive claw position. If you grip like you're trying to crush the mouse, this is your match.
 

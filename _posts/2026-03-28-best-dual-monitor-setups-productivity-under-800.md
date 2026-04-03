@@ -32,10 +32,10 @@ tags: [dual-monitor, productivity, home-office, monitor-setup, dell-monitor, lg-
     "@type": "Product",
     "name": "LG 24MP400 24-inch Monitor",
     "description": "Affordable 24-inch IPS monitor with FreeSync",
-    "url": "https://www.amazon.com/dp/B08DQWG5JK?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B096KGP3GL?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B08DQWG5JK?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B096KGP3GL?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [dual-monitor, productivity, home-office, monitor-setup, dell-monitor, lg-
     "@type": "Product",
     "name": "ASUS VA24DCP 24-inch Monitor",
     "description": "24-inch USB-C monitor for laptop users",
-    "url": "https://www.amazon.com/dp/B0C4TBB2JK?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0BGS2LHYX?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0C4TBB2JK?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0BGS2LHYX?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -68,10 +68,10 @@ tags: [dual-monitor, productivity, home-office, monitor-setup, dell-monitor, lg-
     "@type": "Product",
     "name": "ASUS ProArt PA278QV 27-inch Monitor",
     "description": "Color-accurate 27-inch WQHD monitor for creative work",
-    "url": "https://www.amazon.com/dp/B0B9GSD9V7?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B08GHX4Z3M?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0B9GSD9V7?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B08GHX4Z3M?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -177,7 +177,7 @@ The VIVO dual arm holds both monitors on a single pole, saving massive desk spac
 
 | Component | Product | Price |
 |-----------|---------|-------|
-| Monitors (×2) | [LG 24MP400 24"](https://www.amazon.com/dp/B08DQWG5JK?tag=kingledger20-20) | ~$155 each |
+| Monitors (×2) | [LG 24MP400 24"](https://www.amazon.com/dp/B096KGP3GL?tag=kingledger20-20) | ~$155 each |
 | Monitor Arm | [VIVO Dual Monitor Mount](https://www.amazon.com/dp/B009S750LA?tag=kingledger20-20) | ~$30 |
 | **Total** | | **~$340** |
 
@@ -211,7 +211,7 @@ At ~$155 each, these are among the cheapest IPS monitors worth buying. The build
 
 | Component | Product | Price |
 |-----------|---------|-------|
-| Monitors (×2) | [ASUS VA24DCP 24"](https://www.amazon.com/dp/B0C4TBB2JK?tag=kingledger20-20) | ~$195 each |
+| Monitors (×2) | [ASUS VA24DCP 24"](https://www.amazon.com/dp/B0BGS2LHYX?tag=kingledger20-20) | ~$195 each |
 | Monitor Arms (×2) | [VIVO Single Monitor Arm](https://www.amazon.com/dp/B01NH0HTM5?tag=kingledger20-20) | ~$22 each |
 | USB-C Cable | Included with monitors | $0 |
 | **Total** | | **~$434** |
@@ -285,7 +285,7 @@ At 27 inches, 4K scaling at 150% gives you the equivalent screen real estate of 
 
 | Component | Product | Price |
 |-----------|---------|-------|
-| Monitors (×2) | [ASUS ProArt PA278QV 27"](https://www.amazon.com/dp/B0B9GSD9V7?tag=kingledger20-20) | ~$320 each |
+| Monitors (×2) | [ASUS ProArt PA278QV 27"](https://www.amazon.com/dp/B08GHX4Z3M?tag=kingledger20-20) | ~$320 each |
 | Monitor Arm | [VIVO Dual Monitor Mount](https://www.amazon.com/dp/B009S750LA?tag=kingledger20-20) | ~$30 |
 | **Total** | | **~$670** |
 

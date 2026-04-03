@@ -148,7 +148,7 @@ The "Circle of Influence vs. Circle of Concern" concept alone will change how yo
 
 **The one for people who are already good and want to be great.**
 
-[High Performance Habits on Amazon](https://www.amazon.com/dp/B01N1I8SB4?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[High Performance Habits on Amazon](https://www.amazon.com/dp/B01HNJIJ58?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Most habit books are about going from zero to one. High Performance Habits is about going from one to ten.
 
@@ -179,7 +179,7 @@ The chapter on "generating energy" is worth the price of admission. Most people 
 
 **The one that proves small habits create warriors.**
 
-[Make Your Bed on Amazon](https://www.amazon.com/dp/B01KGIC8EW?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Make Your Bed on Amazon](https://www.amazon.com/dp/B01LZRDARE?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 This book started as a commencement speech at UT Austin that went viral. Admiral McRaven — the guy who planned the Bin Laden raid — distills everything he learned from Navy SEAL training into ten lessons, and the first one is the simplest: make your bed.
 
@@ -208,7 +208,7 @@ At 130 pages, this is the shortest book on the list. You can read it in one sitt
 
 **The one that shows you how small habits create massive results over time.**
 
-[The Compound Effect on Amazon](https://www.amazon.com/dp/B089SW7WHV?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[The Compound Effect on Amazon](https://www.amazon.com/dp/B078GBSNV9?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 The premise is dead simple: small, seemingly insignificant choices, made consistently over time, compound into extraordinary outcomes. Or extraordinary failures. The compound effect works in both directions.
 
