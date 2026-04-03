@@ -86,7 +86,7 @@ Is it as rock-solid as the REP AB-3000? No. But at roughly half the price, it's 
 
 ### 3. Rogue Flat Utility Bench 2.0 — Best Flat Bench
 
-**Price:** ~$195 | [Buy on Amazon](https://www.amazon.com/dp/B08FX4R553?tag=kingledger20-20)
+**Price:** ~$195 | [Buy on Amazon](https://www.amazon.com/dp/B07BHMPCLR?tag=kingledger20-20)
 
 If you know you want a flat bench and you want the best, Rogue delivers. The Flat Utility Bench 2.0 is simple, indestructible, and stable as bedrock. There are no adjustments, no moving parts — just a slab of pad on a steel frame rated for 1,000 lbs.
 
@@ -266,7 +266,7 @@ Every bench on this list earns its spot. Here's the quick decision framework:
 
 - **Best overall:** [REP Fitness AB-3000](https://www.amazon.com/dp/B07BFS9ZMT?tag=kingledger20-20) — if you can stretch to $299, this is the one.
 - **Best value:** [Flybird Adjustable](https://www.amazon.com/dp/B07DNYSJ6Y?tag=kingledger20-20) — the sweet spot of price and performance.
-- **Best flat bench:** [Rogue Flat Utility Bench 2.0](https://www.amazon.com/dp/B08FX4R553?tag=kingledger20-20) — buy once, use forever.
+- **Best flat bench:** [Rogue Flat Utility Bench 2.0](https://www.amazon.com/dp/B07BHMPCLR?tag=kingledger20-20) — buy once, use forever.
 - **Best budget:** [Amazon Basics Flat](https://www.amazon.com/dp/B0BGKRMQYF?tag=kingledger20-20) — gets the job done for $55.
 - **Best for small spaces:** [Bowflex 5.1S](https://www.amazon.com/dp/B08BHTG3CV?tag=kingledger20-20) — stows upright when you're done.
 

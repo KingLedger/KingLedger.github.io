@@ -44,10 +44,10 @@ tags: [dual-monitor, productivity, home-office, monitor-setup, dell-monitor, lg-
     "@type": "Product",
     "name": "ASUS VA24DCP 24-inch Monitor",
     "description": "24-inch USB-C monitor for laptop users",
-    "url": "https://www.amazon.com/dp/B0BX4N1M15?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0C4TBB2JK?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0BX4N1M15?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0C4TBB2JK?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -211,7 +211,7 @@ At ~$155 each, these are among the cheapest IPS monitors worth buying. The build
 
 | Component | Product | Price |
 |-----------|---------|-------|
-| Monitors (×2) | [ASUS VA24DCP 24"](https://www.amazon.com/dp/B0BX4N1M15?tag=kingledger20-20) | ~$195 each |
+| Monitors (×2) | [ASUS VA24DCP 24"](https://www.amazon.com/dp/B0C4TBB2JK?tag=kingledger20-20) | ~$195 each |
 | Monitor Arms (×2) | [VIVO Single Monitor Arm](https://www.amazon.com/dp/B01NH0HTM5?tag=kingledger20-20) | ~$22 each |
 | USB-C Cable | Included with monitors | $0 |
 | **Total** | | **~$434** |

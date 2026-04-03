@@ -34,15 +34,15 @@ tags: [gaming chairs, ergonomic chairs, Secretlab Titan, Herman Miller Embody, b
     "@type": "Product",
     "name": "Autonomous ErgoChair Pro",
     "description": "Best mid-range ergonomic chair",
-    "url": "https://www.amazon.com/dp/B0BFX97BVH?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0BFX97BVH?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0CKK68WJW?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CKK68WJW?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
     "name": "Razer Iskur V2",
     "description": "Best gaming-branded ergonomic chair",
-    "url": "https://www.amazon.com/dp/B0CX5H25R3?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CX5H25R3?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0CXLRTL17?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0CXLRTL17?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   },
   {
     "@type": "Product",
@@ -80,8 +80,8 @@ This guide covers six chairs that actually support your body, your posture, and 
 |-------|----------|------|--------------|-------------|------|
 | **Secretlab Titan Evo** | Best Overall | Gaming/Ergo Hybrid | Excellent | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0B3RL6YFG?tag=kingledger20-20) |
 | **Herman Miller x Logitech Embody** | Best Premium | Ergonomic | Exceptional | $$$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0C8M2JND6?tag=kingledger20-20) |
-| **Autonomous ErgoChair Pro** | Best Mid-Range Ergo | Ergonomic | Great | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0BFX97BVH?tag=kingledger20-20) |
-| **Razer Iskur V2** | Best Gaming Brand Ergo | Gaming/Ergo Hybrid | Good | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CX5H25R3?tag=kingledger20-20) |
+| **Autonomous ErgoChair Pro** | Best Mid-Range Ergo | Ergonomic | Great | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0CKK68WJW?tag=kingledger20-20) |
+| **Razer Iskur V2** | Best Gaming Brand Ergo | Gaming/Ergo Hybrid | Good | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CXLRTL17?tag=kingledger20-20) |
 | **Steelcase Leap** | Best Office Ergonomic | Ergonomic | Exceptional | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B006H1QYBA?tag=kingledger20-20) |
 | **Corsair TC200** | Best Budget | Gaming/Ergo Hybrid | Good | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0CY72GGSX?tag=kingledger20-20) |
 
@@ -171,7 +171,7 @@ The gaming version adds a layer of cooling foam in the seat and a cyan/blue colo
 
 ## 3. Autonomous ErgoChair Pro — Best Mid-Range
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0BFX97BVH?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0CKK68WJW?tag=kingledger20-20)
 
 The ErgoChair Pro proves you don't need to spend $1500 to get genuine ergonomic support. This is a full-featured ergonomic mesh chair with adjustable everything — lumbar, headrest, armrests, seat depth, tilt tension, recline range — at a price that makes the premium options look excessive.
 
@@ -203,7 +203,7 @@ Build quality is solid for the price. Not Herman Miller solid, but respectable. 
 
 ## 4. Razer Iskur V2 — The Gamer's Ergonomic Chair
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0CX5H25R3?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0CXLRTL17?tag=kingledger20-20)
 
 Razer learned from the Iskur V1 and made significant improvements. The V2 features an adaptive lumbar support system that adjusts its curve based on your recline angle — lean back and the lumbar support follows. It's not as sophisticated as the Herman Miller BackFit, but it's a meaningful step forward for a gaming-branded chair.
 

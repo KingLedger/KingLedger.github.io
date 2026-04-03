@@ -32,10 +32,10 @@ tags: [desk-accessories, home-office, productivity, entrepreneur, monitor-arm, d
     "@type": "Product",
     "name": "YSAGi Leather Desk Mat",
     "description": "Best desk mat for a clean, professional workspace",
-    "url": "https://www.amazon.com/dp/B0788LMLNL?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B08R8J3CZK?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0788LMLNL?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B08R8J3CZK?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -125,7 +125,7 @@ I've tested dozens of desk accessories over the years, and these are the ones th
 | Product | Best For | Price Range |
 |---------|----------|-------------|
 | [VIVO Dual Monitor Arm](https://www.amazon.com/dp/B009S750LA?tag=kingledger20-20) | Dual monitor setup | ~$30 |
-| [YSAGi Desk Mat](https://www.amazon.com/dp/B0788LMLNL?tag=kingledger20-20) | Desk protection & aesthetics | ~$13 |
+| [YSAGi Desk Mat](https://www.amazon.com/dp/B08R8J3CZK?tag=kingledger20-20) | Desk protection & aesthetics | ~$13 |
 | [JOTO Cable Management Sleeve](https://www.amazon.com/dp/B07HMYRBTV?tag=kingledger20-20) | Cable organization | ~$10 |
 | [Under Desk Cable Tray](https://www.amazon.com/dp/B0BG54L4TN?tag=kingledger20-20) | Hiding cables underneath | ~$16 |
 | [Anker 8-in-1 USB-C Hub](https://www.amazon.com/dp/B086H3FMPZ?tag=kingledger20-20) | Port expansion | ~$35 |
@@ -165,7 +165,7 @@ The C-clamp installation takes about 10 minutes and works on desks up to 4 inche
 
 **Best Desk Mat for a Clean, Professional Workspace**
 
-[Check price on Amazon](https://www.amazon.com/dp/B0788LMLNL?tag=kingledger20-20)
+[Check price on Amazon](https://www.amazon.com/dp/B08R8J3CZK?tag=kingledger20-20)
 
 A desk mat sounds unnecessary until you use one. It protects your desk surface from scratches, provides a smooth mousing area, and instantly makes your setup look more put-together.
 

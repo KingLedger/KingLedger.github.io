@@ -130,7 +130,7 @@ The downside: these are mediocre on Android. You lose most smart features, Spati
 
 **For people who need to hear their surroundings. Runners, outdoor lifters, and anyone who trains where awareness matters.**
 
-[Shokz OpenRun Pro on Amazon](https://www.amazon.com/dp/B09BQRWLHB?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Shokz OpenRun Pro on Amazon](https://www.amazon.com/dp/B0D7TPJLYQ?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Bone conduction earbuds don't go in your ear. They sit on your cheekbones and vibrate sound directly into your skull. Yes, it sounds weird. No, it doesn't feel weird. And the benefit is enormous: **your ears stay completely open.** You can hear traffic, conversations, gym announcements, and someone asking to work in — all while your music plays.
 
@@ -164,7 +164,7 @@ The trade-off is real though: in a loud gym, the open-ear design means your musi
 
 **The Android equivalent of AirPods Pro. If you've got a Samsung phone, stop looking.**
 
-[Samsung Galaxy Buds2 Pro on Amazon](https://www.amazon.com/dp/B0D64Y5TDJ?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Samsung Galaxy Buds2 Pro on Amazon](https://www.amazon.com/dp/B0CCX1L4GH?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Samsung's Galaxy Buds2 Pro deliver a premium earbud experience that's specifically optimized for Samsung Galaxy devices — though they work well with any Android phone. The 24-bit Hi-Fi audio and intelligent ANC create a listening experience that rivals (and sometimes beats) AirPods Pro 2 on sound quality alone.
 

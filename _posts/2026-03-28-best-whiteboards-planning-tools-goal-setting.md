@@ -80,10 +80,10 @@ tags: [whiteboards, planning-tools, goal-setting, productivity, dry-erase, glass
     "@type": "Product",
     "name": "Large Monthly Wall Calendar Dry Erase Planner",
     "description": "Oversized wall calendar for annual goal tracking",
-    "url": "https://www.amazon.com/dp/B08DG3V8MY?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0BLNFZDDQ?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B08DG3V8MY?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0BLNFZDDQ?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -125,7 +125,7 @@ Built not born. Forged by discipline. Put it on the wall. Make it real.
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Board2by Calendar Whiteboard</td><td style="padding:8px;">Monthly planning and deadline tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B074WFZH4J?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">EXPO Dry Erase Markers (12-ct)</td><td style="padding:8px;">Color-coding goals by category</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01MRPQJSR?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Quartet Glass Desktop Easel</td><td style="padding:8px;">Daily priorities at your desk</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B01MFGICQT?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
-<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Large Wall Calendar Planner</td><td style="padding:8px;">Annual goal and milestone tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B08DG3V8MY?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
+<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Large Wall Calendar Planner</td><td style="padding:8px;">Annual goal and milestone tracking</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B0BLNFZDDQ?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 <tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">Post-it Dry Erase Film</td><td style="padding:8px;">Turn any wall into a whiteboard</td><td style="text-align:center;padding:8px;"><a href="https://www.amazon.com/dp/B003O3DCTY?tag=kingledger20-20" style="background:#e63946;color:white;padding:6px 14px;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Buy →</a></td></tr>
 </table>
 </div>
@@ -269,7 +269,7 @@ Pair this with your goal whiteboard and monthly calendar board for a three-level
 
 **Who it's for:** Strategic thinkers who need to plan across months and quarters. If you're building a business, managing investments, or pursuing multi-month goals, this annual view prevents tunnel vision.
 
-[Buy on Amazon](https://www.amazon.com/dp/B08DG3V8MY?tag=kingledger20-20)
+[Buy on Amazon](https://www.amazon.com/dp/B0BLNFZDDQ?tag=kingledger20-20)
 
 ---
 
