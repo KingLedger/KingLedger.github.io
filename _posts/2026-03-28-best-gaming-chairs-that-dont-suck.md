@@ -55,8 +55,8 @@ tags: [gaming chairs, ergonomic chairs, Secretlab Titan, Herman Miller Embody, b
     "@type": "Product",
     "name": "Corsair TC200",
     "description": "Best budget gaming chair",
-    "url": "https://www.amazon.com/dp/B0C5S4L8VS?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0C5S4L8VS?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0BN6RRD5V?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0BN6RRD5V?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   }
   ]
 }
@@ -83,7 +83,7 @@ This guide covers six chairs that actually support your body, your posture, and 
 | **Autonomous ErgoChair Pro** | Best Mid-Range Ergo | Ergonomic | Great | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0CKK68WJW?tag=kingledger20-20) |
 | **Razer Iskur V2** | Best Gaming Brand Ergo | Gaming/Ergo Hybrid | Good | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B08PJHT5FF?tag=kingledger20-20) |
 | **Steelcase Leap** | Best Office Ergonomic | Ergonomic | Exceptional | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B006H1QYBA?tag=kingledger20-20) |
-| **Corsair TC200** | Best Budget | Gaming/Ergo Hybrid | Good | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0C5S4L8VS?tag=kingledger20-20) |
+| **Corsair TC200** | Best Budget | Gaming/Ergo Hybrid | Good | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0BN6RRD5V?tag=kingledger20-20) |
 
 ---
 
@@ -267,7 +267,7 @@ The Leap doesn't look exciting. It looks like an office chair because it IS an o
 
 ## 6. Corsair TC200 — Best Budget Pick
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0C5S4L8VS?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0BN6RRD5V?tag=kingledger20-20)
 
 Corsair's TC200 is proof that you can build a decent gaming chair without charging $500+. It's not going to compete with the Secretlab or Herman Miller on features or longevity, but for the price, it's remarkably competent.
 

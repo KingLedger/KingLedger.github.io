@@ -32,10 +32,10 @@ tags: [gym-bag, fitness-gear, bodybuilding, powerlifting, gym-essentials, king-k
     "@type": "Product",
     "name": "Rogue Gym Bag",
     "description": "Best for CrossFit and functional fitness athletes",
-    "url": "https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0CYTY31MQ?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0CYTY31MQ?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -44,10 +44,10 @@ tags: [gym-bag, fitness-gear, bodybuilding, powerlifting, gym-essentials, king-k
     "@type": "Product",
     "name": "Under Armour Undeniable 5.0 Duffle",
     "description": "Best mid-range option with great organization",
-    "url": "https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B093LTBKFT?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B093LTBKFT?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -93,8 +93,8 @@ These five bags are the ones that survived the gauntlet — built for heavy load
 | Product | Best For | Capacity | Key Feature | Link |
 |---------|----------|----------|-------------|------|
 | **King Kong PLUS26** | Serious lifters | 26L | Built for powerlifting/bodybuilding gear | [Check Price](https://www.amazon.com/dp/B07MKCFN25?tag=kingledger20-20) |
-| **Rogue Gym Bag** | CrossFit/functional | ~36L | Rogue-quality construction | [Check Price](https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20) |
-| **UA Undeniable 5.0** | Mid-range all-rounder | Multiple sizes | UA Storm water-resistant tech | [Check Price](https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20) |
+| **Rogue Gym Bag** | CrossFit/functional | ~36L | Rogue-quality construction | [Check Price](https://www.amazon.com/dp/B0CYTY31MQ?tag=kingledger20-20) |
+| **UA Undeniable 5.0** | Mid-range all-rounder | Multiple sizes | UA Storm water-resistant tech | [Check Price](https://www.amazon.com/dp/B093LTBKFT?tag=kingledger20-20) |
 | **Adidas Defender IV** | Best value | Multiple sizes | Great price, solid build | [Check Price](https://www.amazon.com/dp/B087LNCG8P?tag=kingledger20-20) |
 | **Nike Brasilia** | Classic duffel | Multiple sizes | Nike durability, clean design | [Check Price](https://www.amazon.com/dp/B001O0CGZI?tag=kingledger20-20) |
 
@@ -156,7 +156,7 @@ At 26 liters, the PLUS26 is large enough for a full powerlifting meet kit (belt,
 
 ## 2. Rogue Gym Bag — Best for CrossFit and Functional Fitness
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0CYTY31MQ?tag=kingledger20-20)
 
 Rogue Fitness is synonymous with quality in the strength training world. Their equipment is the standard in CrossFit boxes, powerlifting gyms, and home setups worldwide. Their gym bag maintains that reputation — it's overbuilt, straightforward, and designed to survive abuse.
 
@@ -194,7 +194,7 @@ The Rogue name carries weight in the gym community. It's immediately recognizabl
 
 ## 3. Under Armour Undeniable 5.0 — Best Mid-Range All-Rounder
 
-[Check Price on Amazon](https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B093LTBKFT?tag=kingledger20-20)
 
 Under Armour's Undeniable series has been a go-to gym bag for athletes across every sport, and version 5.0 refines what was already a solid formula. It's not specifically designed for strength athletes like the King Kong, but it's an excellent all-around bag that handles lifting gear well.
 
@@ -377,8 +377,8 @@ Your gym bag is something you use every single day. It carries your most importa
 Here's the summary:
 
 - **Best overall for lifters:** [King Kong PLUS26](https://www.amazon.com/dp/B07MKCFN25?tag=kingledger20-20) — designed by lifters, for lifters
-- **Best for CrossFit/functional:** [Rogue Gym Bag](https://www.amazon.com/dp/B07BKRTM8G?tag=kingledger20-20) — overbuilt Rogue quality
-- **Best mid-range:** [UA Undeniable 5.0](https://www.amazon.com/dp/B096FW1RY2?tag=kingledger20-20) — water-resistant and versatile
+- **Best for CrossFit/functional:** [Rogue Gym Bag](https://www.amazon.com/dp/B0CYTY31MQ?tag=kingledger20-20) — overbuilt Rogue quality
+- **Best mid-range:** [UA Undeniable 5.0](https://www.amazon.com/dp/B093LTBKFT?tag=kingledger20-20) — water-resistant and versatile
 - **Best value:** [Adidas Defender IV](https://www.amazon.com/dp/B087LNCG8P?tag=kingledger20-20) — solid basics at a great price
 - **Best design:** [Nike Brasilia](https://www.amazon.com/dp/B001O0CGZI?tag=kingledger20-20) — classic Nike look and function
 
