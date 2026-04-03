@@ -48,8 +48,8 @@ tags: [mechanical keyboards, gaming keyboard, hall effect keyboard, best keyboar
     "@type": "Product",
     "name": "Ducky One 3",
     "description": "Best hot-swappable mechanical keyboard",
-    "url": "https://www.amazon.com/dp/B0BF3M9VLH?tag=kingledger20-20",
-    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0BF3M9VLH?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
+    "url": "https://www.amazon.com/dp/B0BYF1B3JW?tag=kingledger20-20",
+    "offers": { "@type": "Offer", "url": "https://www.amazon.com/dp/B0BYF1B3JW?tag=kingledger20-20", "priceCurrency": "USD", "availability": "https://schema.org/InStock" }
   }
   ]
 }
@@ -75,7 +75,7 @@ This guide covers the five best mechanical keyboards in 2026 — from bleeding-e
 | **Razer Huntsman V3 Pro** | Best Optical Gaming | Analog Optical | TKL/Full | $$$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CQ1KL329?tag=kingledger20-20) |
 | **Logitech G Pro X TKL** | Best Wireless Gaming | GX Mechanical | TKL | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0CVC5YH14?tag=kingledger20-20) |
 | **Keychron Q1 Pro** | Best Productivity + Gaming | Gateron Pro (Hot-swap) | 75% | $$$ | [Buy on Amazon](https://www.amazon.com/dp/B0BVJ9SNC3?tag=kingledger20-20) |
-| **Ducky One 3** | Best Hot-Swappable Mech | Cherry MX (Hot-swap) | TKL/Full | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0BF3M9VLH?tag=kingledger20-20) |
+| **Ducky One 3** | Best Hot-Swappable Mech | Cherry MX (Hot-swap) | TKL/Full | $$ | [Buy on Amazon](https://www.amazon.com/dp/B0BYF1B3JW?tag=kingledger20-20) |
 
 ---
 
@@ -216,7 +216,7 @@ For gaming, it's not going to match a Wooting in competitive shooters — no Rap
 
 ## 5. Ducky One 3 — The Reliable Workhorse
 
-[**Buy on Amazon →**](https://www.amazon.com/dp/B0BF3M9VLH?tag=kingledger20-20)
+[**Buy on Amazon →**](https://www.amazon.com/dp/B0BYF1B3JW?tag=kingledger20-20)
 
 Ducky has been quietly making some of the best mechanical keyboards for over a decade. The One 3 continues that tradition with hot-swappable Cherry MX switches, a clean design, and a focus on getting the fundamentals right rather than chasing features.
 

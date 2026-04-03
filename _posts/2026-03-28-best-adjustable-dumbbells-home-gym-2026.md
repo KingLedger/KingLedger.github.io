@@ -68,10 +68,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "ATIVAFIT Adjustable Dumbbell 71.5 lbs",
     "description": "Best budget adjustable dumbbell",
-    "url": "https://www.amazon.com/dp/B07S8MZ399?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B07S8MZ399?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -271,11 +271,11 @@ For raw weight capacity in a dial-adjust system, nothing else comes close.
 
 ## 5. ATIVAFIT Adjustable Dumbbell 71.5 lbs — Best Budget Option
 
-<a href="https://www.amazon.com/dp/B07S8MZ399?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71BU7nEX3ML._AC_SL1500_.jpg" alt="ATIVAFIT Adjustable Dumbbell" width="600">
 </a>
 
-**ASIN:** B07S8MZ399
+**ASIN:** B001ARYU58
 
 The ATIVAFIT delivers surprising value. At roughly half the price of a Bowflex 552 but with a higher max weight (71.5 lbs), it's the entry point for lifters who want adjustable dumbbells without the premium price tag.
 
@@ -301,7 +301,7 @@ If you're equipping a home gym on a budget or you're not sure adjustable dumbbel
 
 **Verdict:** Best value pick. If you want adjustable dumbbells under $300 and don't need the polished feel of premium brands, ATIVAFIT delivers.
 
-<a href="https://www.amazon.com/dp/B07S8MZ399?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B001ARYU58?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 

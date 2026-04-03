@@ -44,10 +44,10 @@ tags: [fitness-tracker, smartwatch, garmin, apple-watch, whoop, samsung-galaxy-w
     "@type": "Product",
     "name": "Apple Watch Series 10",
     "description": "Best everyday smartwatch with gym tracking",
-    "url": "https://www.amazon.com/dp/B0DGJ5MBJZ?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B0DGJ1GR5D?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0DGJ5MBJZ?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B0DGJ1GR5D?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -116,7 +116,7 @@ I've tested every major wearable from a lifting perspective. Here are the seven 
 |--------|----------|---------|-------------------|---------------|-------------|------|
 | **Garmin Venu 3** | Best overall | ~14 days | ✅ Built-in | ✅ Body Battery | $430-450 | [Check Price](https://www.amazon.com/dp/B0CP8J83BS?tag=kingledger20-20) |
 | **Apple Watch Ultra 2** | Premium iPhone users | ~36 hours | ✅ Via apps | ❌ Limited | $750-800 | [Check Price](https://www.amazon.com/dp/B0CSVQJB1S?tag=kingledger20-20) |
-| **Apple Watch Series 10** | Everyday + gym | ~18 hours | ✅ Via apps | ❌ Limited | $380-430 | [Check Price](https://www.amazon.com/dp/B0DGJ5MBJZ?tag=kingledger20-20) |
+| **Apple Watch Series 10** | Everyday + gym | ~18 hours | ✅ Via apps | ❌ Limited | $380-430 | [Check Price](https://www.amazon.com/dp/B0DGJ1GR5D?tag=kingledger20-20) |
 | **Whoop 4.0** | Recovery obsessed | ~5 days | ❌ Strain only | ✅ Best in class | $239/yr | [Check Price](https://www.amazon.com/dp/B0BWNF8FYH?tag=kingledger20-20) |
 | **Samsung Galaxy Watch 6** | Android lifters | ~40 hours | ✅ Via Samsung Health | ✅ Basic | $280-350 | [Check Price](https://www.amazon.com/dp/B0C79918SR?tag=kingledger20-20) |
 | **Garmin Instinct 2X** | Rugged + budget | ~24+ days | ✅ Basic | ✅ Body Battery | $350-400 | [Check Price](https://www.amazon.com/dp/B0BX4N8V4S?tag=kingledger20-20) |
@@ -232,7 +232,7 @@ The main weakness for lifters is limited native recovery metrics. Apple Watch tr
 
 ## 3. Apple Watch Series 10 — Best Everyday Smartwatch for Gym Use
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DGJ5MBJZ?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B0DGJ1GR5D?tag=kingledger20-20)
 
 Not everyone needs the Ultra 2's titanium fortress. The Apple Watch Series 10 gives you 90% of the functionality in a thinner, lighter, more comfortable package — at roughly half the price.
 
@@ -484,7 +484,7 @@ Here's the cheat sheet:
 
 - **Best overall for lifters:** [Garmin Venu 3](https://www.amazon.com/dp/B0CP8J83BS?tag=kingledger20-20)
 - **Best premium (iPhone):** [Apple Watch Ultra 2](https://www.amazon.com/dp/B0CSVQJB1S?tag=kingledger20-20)
-- **Best everyday (iPhone):** [Apple Watch Series 10](https://www.amazon.com/dp/B0DGJ5MBJZ?tag=kingledger20-20)
+- **Best everyday (iPhone):** [Apple Watch Series 10](https://www.amazon.com/dp/B0DGJ1GR5D?tag=kingledger20-20)
 - **Best recovery tracking:** [Whoop 4.0](https://www.amazon.com/dp/B0BWNF8FYH?tag=kingledger20-20)
 - **Best for Android:** [Samsung Galaxy Watch 6 Classic](https://www.amazon.com/dp/B0C79918SR?tag=kingledger20-20)
 - **Best rugged/budget:** [Garmin Instinct 2X Solar](https://www.amazon.com/dp/B0BX4N8V4S?tag=kingledger20-20)

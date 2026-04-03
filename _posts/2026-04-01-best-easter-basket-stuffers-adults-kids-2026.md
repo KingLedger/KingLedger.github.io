@@ -100,7 +100,7 @@ Non-toxic, easy cleanup, and it keeps kids occupied for hours. That last part is
 
 **For the kid who thinks regular Easter baskets are "boring."**
 
-[National Geographic Slime Kit on Amazon](https://www.amazon.com/dp/B07KCRKNRL?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[National Geographic Slime Kit on Amazon](https://www.amazon.com/dp/B09BZM4DPJ?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 If the child in your life has declared traditional toys beneath them (it happens earlier every year), the Nat Geo slime kit is the play. Eight different types of slime — glow-in-the-dark, fluffy, crunchy, glitter — plus the STEM angle means you can tell yourself it's educational.
 

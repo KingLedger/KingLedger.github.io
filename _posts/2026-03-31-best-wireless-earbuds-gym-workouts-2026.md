@@ -63,7 +63,7 @@ The only real weakness? The charging case is slightly bulky compared to competit
 
 **Military-grade tough. Built for people who destroy everything they own.**
 
-[Jabra Elite 8 Active on Amazon](https://www.amazon.com/dp/B0CDKM7PX9?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Jabra Elite 8 Active on Amazon](https://www.amazon.com/dp/B0DCS14B9H?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Jabra didn't just make the Elite 8 Active sweatproof. They made it **MIL-STD-810H certified** — the same durability standard applied to military equipment. Drop them, step on them, sweat on them, rinse them under the faucet. They'll survive all of it.
 
@@ -164,7 +164,7 @@ The trade-off is real though: in a loud gym, the open-ear design means your musi
 
 **The Android equivalent of AirPods Pro. If you've got a Samsung phone, stop looking.**
 
-[Samsung Galaxy Buds2 Pro on Amazon](https://www.amazon.com/dp/B0B3RDDNWN?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[Samsung Galaxy Buds2 Pro on Amazon](https://www.amazon.com/dp/B0D64Y5TDJ?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 Samsung's Galaxy Buds2 Pro deliver a premium earbud experience that's specifically optimized for Samsung Galaxy devices — though they work well with any Android phone. The 24-bit Hi-Fi audio and intelligent ANC create a listening experience that rivals (and sometimes beats) AirPods Pro 2 on sound quality alone.
 
