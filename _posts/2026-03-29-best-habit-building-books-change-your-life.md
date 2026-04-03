@@ -208,7 +208,7 @@ At 130 pages, this is the shortest book on the list. You can read it in one sitt
 
 **The one that shows you how small habits create massive results over time.**
 
-[The Compound Effect on Amazon](https://www.amazon.com/dp/B078GBSNV9?tag=kingledger20-20){:target="_blank" rel="noopener"}
+[The Compound Effect on Amazon](https://www.amazon.com/dp/B078GJB1DN?tag=kingledger20-20){:target="_blank" rel="noopener"}
 
 The premise is dead simple: small, seemingly insignificant choices, made consistently over time, compound into extraordinary outcomes. Or extraordinary failures. The compound effect works in both directions.
 
