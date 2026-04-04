@@ -80,10 +80,10 @@ tags: [adjustable-dumbbells, home-gym, dumbbells, fitness, strength-training, bo
     "@type": "Product",
     "name": "MX Select MX55 Adjustable Dumbbells",
     "description": "Best compact adjustable dumbbell system",
-    "url": "https://www.amazon.com/dp/B01LR5S0AC?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B074DL37GY?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B01LR5S0AC?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B074DL37GY?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -307,11 +307,11 @@ If you're equipping a home gym on a budget or you're not sure adjustable dumbbel
 
 ## 6. MX Select MX55 — Best for Compact Spaces
 
-<a href="https://www.amazon.com/dp/B01LR5S0AC?tag=kingledger20-20" target="_blank" rel="noopener">
+<a href="https://www.amazon.com/dp/B074DL37GY?tag=kingledger20-20" target="_blank" rel="noopener">
   <img src="https://images-na.ssl-images-amazon.com/images/I/71IqIjKh6nL._AC_SL1500_.jpg" alt="MX Select MX55 Adjustable Dumbbells" width="600">
 </a>
 
-**ASIN:** B01LR5S0AC
+**ASIN:** B074DL37GY
 
 The MX55 is the dark horse of adjustable dumbbells. Made in South Korea with a unique rotating cradle system, it goes from 10 to 55 lbs per hand and changes weight by simply turning a dial on the included stand.
 
@@ -337,7 +337,7 @@ For apartment gyms, small garage setups, or anyone who values aesthetics alongsi
 
 **Verdict:** Best choice if you're training in a small space and want dumbbells that don't look like industrial equipment. Clean design, solid function, 55 lb max.
 
-<a href="https://www.amazon.com/dp/B01LR5S0AC?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
+<a href="https://www.amazon.com/dp/B074DL37GY?tag=kingledger20-20" target="_blank" rel="noopener"><strong>→ Check Price on Amazon</strong></a>
 
 ---
 

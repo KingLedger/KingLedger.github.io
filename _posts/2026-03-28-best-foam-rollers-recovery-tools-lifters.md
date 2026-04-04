@@ -68,10 +68,10 @@ tags: [foam-roller, recovery, massage, triggerpoint, theragun, hyperice, chirp-w
     "@type": "Product",
     "name": "Jfit Lacrosse Massage Balls",
     "description": "Best budget trigger point tool",
-    "url": "https://www.amazon.com/dp/B07GXZQYLP?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B01BCZF3BE?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B07GXZQYLP?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B01BCZF3BE?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -96,7 +96,7 @@ Here are the five best recovery tools for serious lifters in 2026.
 | **Hyperice Vyper 3** | High-tech vibrating roller | Vibrating roller | $$$$ | [Check Price](https://www.amazon.com/dp/B01BCZUXQY?tag=kingledger20-20) |
 | **Theragun Mini** | Portable percussion | Massage gun | $$$ | [Check Price](https://www.amazon.com/dp/B0040EGNIU?tag=kingledger20-20) |
 | **Chirp Wheel+** | Back and spine relief | Wheel roller | $$ | [Check Price](https://www.amazon.com/dp/B07QXMTYWD?tag=kingledger20-20) |
-| **Jfit Lacrosse Balls** | Budget trigger point work | Massage balls | $ | [Check Price](https://www.amazon.com/dp/B07GXZQYLP?tag=kingledger20-20) |
+| **Jfit Lacrosse Balls** | Budget trigger point work | Massage balls | $ | [Check Price](https://www.amazon.com/dp/B01BCZF3BE?tag=kingledger20-20) |
 
 ## Why Recovery Tools Matter for Lifters
 
@@ -275,7 +275,7 @@ For lifters, I recommend starting with the 10-inch and adding the 6-inch once yo
 
 ## 5. Jfit Lacrosse Massage Balls — Best Budget Trigger Point Tool
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07GXZQYLP?tag=kingledger20-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B01BCZF3BE?tag=kingledger20-20)
 
 Sometimes the most effective tools are the simplest. A lacrosse ball has been a staple in every physical therapist's toolkit for decades, and for good reason — it provides deep, targeted pressure at a price point that makes every other recovery tool look like a luxury.
 
@@ -378,7 +378,7 @@ Here's your shopping list:
 - **Best vibrating roller:** [Hyperice Vyper 3](https://www.amazon.com/dp/B01BCZUXQY?tag=kingledger20-20)
 - **Best massage gun:** [Theragun Mini](https://www.amazon.com/dp/B0040EGNIU?tag=kingledger20-20)
 - **Best for back:** [Chirp Wheel+](https://www.amazon.com/dp/B07QXMTYWD?tag=kingledger20-20)
-- **Best budget tool:** [Jfit Lacrosse Balls](https://www.amazon.com/dp/B07GXZQYLP?tag=kingledger20-20)
+- **Best budget tool:** [Jfit Lacrosse Balls](https://www.amazon.com/dp/B01BCZF3BE?tag=kingledger20-20)
 
 Start with a foam roller and lacrosse balls. Add tools as your budget allows. The most important thing is consistency — 10 minutes of daily rolling beats a monthly deep tissue massage every time.
 

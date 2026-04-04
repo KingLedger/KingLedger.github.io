@@ -92,10 +92,10 @@ tags: [desk-accessories, home-office, productivity, entrepreneur, monitor-arm, d
     "@type": "Product",
     "name": "Anker 313 Wireless Charger",
     "description": "Best wireless charger for a cable-free desk",
-    "url": "https://www.amazon.com/dp/B0753GRNQZ?tag=kingledger20-20",
+    "url": "https://www.amazon.com/dp/B00M1NEUKK?tag=kingledger20-20",
     "offers": {
       "@type": "Offer",
-      "url": "https://www.amazon.com/dp/B0753GRNQZ?tag=kingledger20-20",
+      "url": "https://www.amazon.com/dp/B00M1NEUKK?tag=kingledger20-20",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
     }
@@ -130,7 +130,7 @@ I've tested dozens of desk accessories over the years, and these are the ones th
 | [Under Desk Cable Tray](https://www.amazon.com/dp/B07WJ8XBRF?tag=kingledger20-20) | Hiding cables underneath | ~$16 |
 | [Anker 8-in-1 USB-C Hub](https://www.amazon.com/dp/B086H3FMPZ?tag=kingledger20-20) | Port expansion | ~$35 |
 | [Meshist Desk Organizer](https://www.amazon.com/dp/B08SLS9W72?tag=kingledger20-20) | Desktop storage | ~$18 |
-| [Anker 313 Wireless Charger](https://www.amazon.com/dp/B0753GRNQZ?tag=kingledger20-20) | Phone charging | ~$16 |
+| [Anker 313 Wireless Charger](https://www.amazon.com/dp/B00M1NEUKK?tag=kingledger20-20) | Phone charging | ~$16 |
 | [FITUEYES Monitor Stand Riser](https://www.amazon.com/dp/B07D4JRLGL?tag=kingledger20-20) | Monitor elevation + storage | ~$26 |
 
 ---
@@ -274,7 +274,7 @@ I keep mine next to my monitor with pens, a notepad, charging cables, and my Air
 
 **Best Wireless Charger for a Cable-Free Desk**
 
-[Check price on Amazon](https://www.amazon.com/dp/B0753GRNQZ?tag=kingledger20-20)
+[Check price on Amazon](https://www.amazon.com/dp/B00M1NEUKK?tag=kingledger20-20)
 
 One less cable on your desk. Drop your phone on the pad, it charges. Pick it up, it stops. No fumbling with Lightning or USB-C cables while you're in the middle of something.
 
